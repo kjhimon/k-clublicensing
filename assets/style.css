@@ -359,3 +359,13 @@ details.zone-toggle > summary .zone-sub + .toggle-btn, details.zone-toggle > sum
 details.zone-toggle > summary .toggle-btn::after { content: "열기 ▾"; }
 details.zone-toggle[open] > summary .toggle-btn::after { content: "닫기 ▴"; }
 details.zone-toggle > summary:hover .toggle-btn { background: #fff; color: var(--navy); }
+
+/* 관리자 잠금 화면 */
+.admin-gate { display: none; }
+body.admin-locked .admin-gate { display: block; padding: 64px 0 96px; }
+body.admin-locked .page-head, body.admin-locked main { display: none; }
+.gate-box { max-width: 380px; margin: 0 auto; display: flex; flex-direction: column; gap: 12px;
+  background: #fff; border: 1px solid #dde2ea; border-top: 4px solid #0a1e46; border-radius: 10px; padding: 28px 24px; }
+.gate-box h1 { margin: 0; font-size: 1.5rem; }
+.gate-box .eyebrow { margin: 0; }
+.gate-box input { width: 100%; }
