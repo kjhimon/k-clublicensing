@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Q&amp;A · K리그 클럽라이선싱 OJT</title>
+<meta name="description" content="K리그 구단 실무자를 위한 클럽라이선싱 기준·양식·Q&amp;A 안내">
+<link rel="preload" href="assets/fonts/Pretendard-Regular.subset.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="icon" type="image/png" href="assets/img/favicon.png">
+<link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body data-page="faq">
+<a class="sr-only" href="#main">본문 바로가기</a>
+<div class="updated-bar"><div class="wrap"><span>최종 업데이트: <strong data-updated>-</strong></span></div></div>
+<header class="site-header">
+  <div class="wrap">
+    <a class="logo" href="index.html" aria-label="K리그 클럽라이선싱 OJT 홈"><img class="logo-img" src="assets/img/kleague-logo-horizontal-white.png" alt="K LEAGUE" width="127" height="34"><span class="logo-sub">클럽라이선싱 OJT</span></a>
+    <nav class="nav" aria-label="주 메뉴">
+      <a href="index.html" data-nav="home">홈</a>
+      <a href="rules.html" data-nav="rules"><span class="nav-long">클럽라이선싱 </span>규정 &amp; 양식</a>
+      <a href="ojt.html" data-nav="ojt">OJT</a>
+      <a href="faq.html" data-nav="faq">Q&amp;A</a>
+    </nav>
+  </div>
+</header>
+<section class="page-head"><div class="wrap"><p class="eyebrow">Q&amp;A</p><h1>질문 &amp; 답변</h1><p >구단에서 실제로 받은 문의와 연맹 클럽라이선스팀의 답변을 모았습니다.</p></div></section>
+<main id="main">
+  <div class="wrap">
+
+
+    <section class="zone" aria-labelledby="faq-search-title">
+      <div class="zone-head"><span class="zone-no">1</span><h2 id="faq-search-title">질문 찾기</h2></div>
+      <div class="zone-body">
+        <div class="controls">
+          <label class="sr-only" for="faq-search">질문 검색</label>
+          <input type="search" id="faq-search" placeholder="키워드 검색 (예: 이메일, 겸직, 감사보고서, F.03)" style="flex:1;min-width:0;width:100%">
+        </div>
+      </div>
+    </section>
+
+    <details class="zone zone-toggle" id="qa-zone">
+      <summary class="zone-head"><span class="zone-no">2</span><h2 id="faq-list-title">질문 &amp; 답변</h2><span class="count" id="faq-count" aria-live="polite"></span><span class="toggle-btn" aria-hidden="true"></span></summary>
+      <div class="zone-body" id="faq-list"><p class="muted">불러오는 중…</p></div>
+    </details>
+
+    <details class="zone zone-toggle" id="ask">
+      <summary class="zone-head"><span class="zone-no">3</span><h2 id="ask-title">질문하기</h2><span class="zone-sub">찾는 답변이 없으면 연맹에 직접 문의하세요</span><span class="toggle-btn" aria-hidden="true"></span></summary>
+      <div class="zone-body">
+        <form class="ask-form" id="ask-form" novalidate>
+          <div class="ask-grid">
+            <label>구단 <input type="text" id="ask-club" name="club" autocomplete="organization" required></label>
+            <label>이름 <input type="text" id="ask-name" name="name" autocomplete="name" required></label>
+            <label>부서 <input type="text" id="ask-dept" name="dept" required></label>
+            <label>직급 <input type="text" id="ask-position" name="position" required></label>
+            <label class="span2">이메일 주소 <input type="email" id="ask-email" name="email" autocomplete="email" required placeholder="답변을 받을 이메일"></label>
+            <label class="full">문의 내용 <span class="hint">관련 기준 코드(예: I.03)와 서류 번호를 함께 적어 주시면 빠르게 답변드릴 수 있습니다.</span>
+              <textarea id="ask-question" name="question" rows="6" maxlength="3000" required></textarea></label>
+          </div>
+          <input type="text" name="website" id="ask-website" tabindex="-1" autocomplete="off" class="hp" aria-hidden="true">
+          <div class="privacy-box" id="ask-privacy"></div>
+          <label class="agree"><input type="checkbox" id="ask-agree"> 개인정보 수집·이용에 동의합니다. (필수)</label>
+          <p class="small" id="ask-msg" aria-live="polite"></p>
+          <div class="actions" style="margin-top:8px"><button type="submit" class="btn btn-primary" id="ask-submit">문의 보내기</button></div>
+        </form>
+      </div>
+    </details>
+  </div>
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <img class="footer-logo" src="assets/img/kleague-logo-horizontal-white.png" alt="K LEAGUE" width="105" height="28">
+    <p class="disclaimer">⚠ 판단 기준은 규정·매뉴얼 원문이 우선합니다. 이 사이트의 설명은 이해를 돕기 위한 것입니다.</p>
+    <p class="small muted">근거 자료: K리그1 클럽 라이선싱 매뉴얼 (Edition 2026) · 서류 제출은 AFC 클럽 라이선싱 행정 시스템(CLAS)으로만 가능합니다 · 최종 업데이트 <span data-updated>-</span><br>
+    운영: 한국프로축구연맹 클럽라이선스팀 · <a href="admin.html">관리자</a><br>글꼴: Pretendard (SIL Open Font License 1.1)</p>
+  </div>
+</footer>
+<script src="assets/common.js"></script>
+<script src="assets/faq.js"></script>
+</body>
+</html>

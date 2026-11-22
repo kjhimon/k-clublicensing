@@ -1,0 +1,5285 @@
+{
+  "_설명": "OJT와 규정 & 양식 페이지에 보이는 양식 목록입니다. 여기에 등록된 양식만 화면에 나옵니다. ref:true는 참고 자료입니다. 작성법은 운영가이드.md 3장을 보세요.",
+  "forms": [
+    {
+      "id": "F01-06",
+      "code": "F.01",
+      "doc_no": "⑥",
+      "title": "경영진 검토 보고서",
+      "file": "forms/F/F01_⑥_경영진검토보고서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/F/preview/F01_⑥_경영진검토보고서_2026-1.jpg",
+          "forms/F/preview/F01_⑥_경영진검토보고서_2026-2.jpg",
+          "forms/F/preview/F01_⑥_경영진검토보고서_2026-3.jpg",
+          "forms/F/preview/F01_⑥_경영진검토보고서_2026-4.jpg"
+        ],
+        "pdf": "forms/F/preview/F01_⑥_경영진검토보고서_2026.pdf",
+        "pages": 4
+      },
+      "updated": "2026-02-26",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "F01-07",
+      "code": "F.01",
+      "doc_no": "⑦",
+      "title": "전기표준손익계산서",
+      "file": "forms/F/F01_⑦_전기표준손익계산서_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/F/preview/F01_⑦_전기표준손익계산서_2026.sheets.json"
+      },
+      "updated": "2026-02-26",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "F01-07-2",
+      "code": "F.01",
+      "doc_no": "⑦",
+      "title": "표준손익계산서 변환기",
+      "file": "forms/F/F01_⑦_표준손익계산서변환기_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/F/preview/F01_⑦_표준손익계산서변환기_2026.sheets.json"
+      },
+      "updated": "2023-01-26",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "F01-08",
+      "code": "F.01",
+      "doc_no": "⑧",
+      "title": "선수영입비용 처리장부",
+      "file": "forms/F/F01_⑧_선수영입비용처리장부_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/F/preview/F01_⑧_선수영입비용처리장부_2026.sheets.json"
+      },
+      "updated": "2026-02-26",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "F01-10",
+      "code": "F.01",
+      "doc_no": "⑩",
+      "title": "최근 5년간 용품제조사 현황",
+      "file": "forms/F/F01_⑩_최근5년간용품제조사현황_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/F/preview/F01_⑩_최근5년간용품제조사현황_2026.sheets.json"
+      },
+      "updated": "2026-02-26",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "F01-11",
+      "code": "F.01",
+      "doc_no": "⑪",
+      "title": "2026시즌 유니폼 메인스폰서 현황",
+      "file": "forms/F/F01_⑪_2026시즌유니폼메인스폰서현황_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/F/preview/F01_⑪_2026시즌유니폼메인스폰서현황_2026.sheets.json"
+      },
+      "updated": "2026-02-26",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "F01-19",
+      "code": "F.01",
+      "doc_no": "⑲",
+      "title": "구단 공식 SNS 계정 가입자 수",
+      "file": "forms/F/F01_⑲_구단공식SNS계정가입자수_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/F/preview/F01_⑲_구단공식SNS계정가입자수_2026.sheets.json"
+      },
+      "updated": "2026-02-26",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "F03-01",
+      "code": "F.03",
+      "doc_no": "①",
+      "title": "이적료 미지급금이 없음에 대한 신고서",
+      "file": "forms/F/F03_①_이적료미지급금이없음에대한신고서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/F/preview/F03_①_이적료미지급금이없음에대한신고서_2026-1.jpg",
+          "forms/F/preview/F03_①_이적료미지급금이없음에대한신고서_2026-2.jpg"
+        ],
+        "pdf": "forms/F/preview/F03_①_이적료미지급금이없음에대한신고서_2026.pdf",
+        "pages": 2
+      },
+      "updated": "2026-02-26",
+      "self_form_allowed": true,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "F03-02",
+      "code": "F.03",
+      "doc_no": "②",
+      "title": "이적료 지출 현황표",
+      "file": "forms/F/F03_②_이적료지출현황표_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/F/preview/F03_②_이적료지출현황표_2026.sheets.json"
+      },
+      "updated": "2026-02-27",
+      "self_form_allowed": true,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "F03-03",
+      "code": "F.03",
+      "doc_no": "③",
+      "title": "이적료 수입 현황표",
+      "file": "forms/F/F03_③_이적료수입현황표_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/F/preview/F03_③_이적료수입현황표_2026.sheets.json"
+      },
+      "updated": "2026-02-26",
+      "self_form_allowed": true,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "F03-04",
+      "code": "F.03",
+      "doc_no": "④",
+      "title": "사례 진술서",
+      "file": "forms/F/F03_④_사례진술서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/F/preview/F03_④_사례진술서_2026-1.jpg"
+        ],
+        "pdf": "forms/F/preview/F03_④_사례진술서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-26",
+      "self_form_allowed": true,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "F04-01",
+      "code": "F.04",
+      "doc_no": "①",
+      "title": "피고용인 ‘임직원’, ‘스태프’ 명단",
+      "file": "forms/F/F04_①_피고용인임직원스태프명단_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/F/preview/F04_①_피고용인임직원스태프명단_2026.sheets.json"
+      },
+      "updated": "2026-02-26",
+      "self_form_allowed": true,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "F04-02",
+      "code": "F.04",
+      "doc_no": "②",
+      "title": "피고용인 ‘선수’ 명단",
+      "file": "forms/F/F04_②_피고용인선수명단_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/F/preview/F04_②_피고용인선수명단_2026.sheets.json"
+      },
+      "updated": "2026-02-27",
+      "self_form_allowed": true,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "F04-05",
+      "code": "F.04",
+      "doc_no": "⑤",
+      "title": "피고용인에 대한 지급의무 준수 확인서",
+      "file": "forms/F/F04_⑤_피고용인에대한지급의무준수확인서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/F/preview/F04_⑤_피고용인에대한지급의무준수확인서_2026-1.jpg"
+        ],
+        "pdf": "forms/F/preview/F04_⑤_피고용인에대한지급의무준수확인서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-27",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "F04-06",
+      "code": "F.04",
+      "doc_no": "⑥",
+      "title": "세금 등에 대한 납부의무 준수 확인서",
+      "file": "forms/F/F04_⑥_세금등에대한납부의무준수확인서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/F/preview/F04_⑥_세금등에대한납부의무준수확인서_2026-1.jpg"
+        ],
+        "pdf": "forms/F/preview/F04_⑥_세금등에대한납부의무준수확인서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-27",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "F04-07",
+      "code": "F.04",
+      "doc_no": "⑦",
+      "title": "급여 및 세금 미지급금 세부명세서",
+      "file": "forms/F/F04_⑦_급여및세금미지급금세부명세서_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/F/preview/F04_⑦_급여및세금미지급금세부명세서_2026.sheets.json"
+      },
+      "updated": "2026-02-27",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "F04-08",
+      "code": "F.04",
+      "doc_no": "⑧",
+      "title": "지급 채무 사실 본인 확인서",
+      "file": "forms/F/F04_⑧_지급채무사실본인확인서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/F/preview/F04_⑧_지급채무사실본인확인서_2026-1.jpg",
+          "forms/F/preview/F04_⑧_지급채무사실본인확인서_2026-2.jpg",
+          "forms/F/preview/F04_⑧_지급채무사실본인확인서_2026-3.jpg",
+          "forms/F/preview/F04_⑧_지급채무사실본인확인서_2026-4.jpg"
+        ],
+        "pdf": "forms/F/preview/F04_⑧_지급채무사실본인확인서_2026.pdf",
+        "pages": 4
+      },
+      "updated": "2026-02-27",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "F04-09",
+      "code": "F.04",
+      "doc_no": "⑨",
+      "title": "사례 진술서",
+      "file": "forms/F/F04_⑨_사례진술서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/F/preview/F04_⑨_사례진술서_2026-1.jpg"
+        ],
+        "pdf": "forms/F/preview/F04_⑨_사례진술서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-27",
+      "self_form_allowed": true,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "F05-01",
+      "code": "F.05",
+      "doc_no": "①",
+      "title": "양식1_경영진술서",
+      "file": "forms/F/F05_①_양식1경영진술서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/F/preview/F05_①_양식1경영진술서_2026-1.jpg"
+        ],
+        "pdf": "forms/F/preview/F05_①_양식1경영진술서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-27",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "F05-01-2",
+      "code": "F.05",
+      "doc_no": "①",
+      "title": "양식2_경영진술서",
+      "file": "forms/F/F05_①_양식2경영진술서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/F/preview/F05_①_양식2경영진술서_2026-1.jpg"
+        ],
+        "pdf": "forms/F/preview/F05_①_양식2경영진술서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-27",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "F05-02",
+      "code": "F.05",
+      "doc_no": "②",
+      "title": "이적료 미지급금이 없음에 대한 신고서",
+      "file": "forms/F/F05_②_이적료미지급금이없음에대한신고서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/F/preview/F05_②_이적료미지급금이없음에대한신고서_2026-1.jpg",
+          "forms/F/preview/F05_②_이적료미지급금이없음에대한신고서_2026-2.jpg"
+        ],
+        "pdf": "forms/F/preview/F05_②_이적료미지급금이없음에대한신고서_2026.pdf",
+        "pages": 2
+      },
+      "updated": "2026-02-27",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "F05-03",
+      "code": "F.05",
+      "doc_no": "③",
+      "title": "피고용인, 사회보장기관 및 국세청 등에 대한 지급금 미연체 신고서",
+      "file": "forms/F/F05_③_피고용인사회보장기관및국세청등에대한지급금미연체신고서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/F/preview/F05_③_피고용인사회보장기관및국세청등에대한지급금미연체신고서_2026-1.jpg"
+        ],
+        "pdf": "forms/F/preview/F05_③_피고용인사회보장기관및국세청등에대한지급금미연체신고서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-27",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "F05-04",
+      "code": "F.05",
+      "doc_no": "④",
+      "title": "사례 진술서",
+      "file": "forms/F/F05_④_사례진술서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/F/preview/F05_④_사례진술서_2026-1.jpg"
+        ],
+        "pdf": "forms/F/preview/F05_④_사례진술서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-27",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "F06-01",
+      "code": "F.06",
+      "doc_no": "①",
+      "title": "상기 지표12 위반여부 체크 및 신고서",
+      "file": "forms/F/F06_①_상기지표12위반여부체크및신고서_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/F/preview/F06_①_상기지표12위반여부체크및신고서_2026.sheets.json"
+      },
+      "updated": "2026-02-27",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "F06-02",
+      "code": "F.06",
+      "doc_no": "②",
+      "title": "추정 손익계산서",
+      "file": "forms/F/F06_②_추정손익계산서_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/F/preview/F06_②_추정손익계산서_2026.sheets.json"
+      },
+      "updated": "2026-03-03",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "F06-03",
+      "code": "F.06",
+      "doc_no": "③",
+      "title": "추정 현금흐름표",
+      "file": "forms/F/F06_③_추정현금흐름표_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/F/preview/F06_③_추정현금흐름표_2026.sheets.json"
+      },
+      "updated": "2026-03-03",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "F06-05",
+      "code": "F.06",
+      "doc_no": "⑤",
+      "title": "재무 결과에 영향을 주는 위험 요소에 대한 추정",
+      "file": "forms/F/F06_⑤_재무결과에영향을주는위험요소에대한추정_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/F/preview/F06_⑤_재무결과에영향을주는위험요소에대한추정_2026-1.jpg"
+        ],
+        "pdf": "forms/F/preview/F06_⑤_재무결과에영향을주는위험요소에대한추정_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-03-03",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "F06-06",
+      "code": "F.06",
+      "doc_no": "⑥",
+      "title": "경영진 진술서",
+      "file": "forms/F/F06_⑥_경영진진술서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/F/preview/F06_⑥_경영진진술서_2026-1.jpg"
+        ],
+        "pdf": "forms/F/preview/F06_⑥_경영진진술서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-03-03",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "F07-05",
+      "code": "F.07",
+      "doc_no": "⑤",
+      "title": "이력서 양식",
+      "file": "forms/F/F07_⑤_이력서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/F/preview/F07_⑤_이력서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/F/preview/F07_⑤_이력서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "담당자 이력서 양식입니다.",
+      "steps": [
+        "증명사진을 붙이고 인적 사항(국문·영문 성명, 주소, 생년월일, 연락처)을 적습니다.",
+        "학력 사항(교육 기관, 학위 종류, 전공)을 적습니다.",
+        "경력 사항(활동 기간, 소속, 직위/직무, 활동 내용)과 자격 사항(자격증명, 취득일)을 적습니다.",
+        "축구 관련 활동·수상 경력 등 기타 활동을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "F07-06",
+      "code": "F.07",
+      "doc_no": "⑥",
+      "title": "직무명세서 양식",
+      "file": "forms/F/F07_⑥_직무명세서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/F/preview/F07_⑥_직무명세서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/F/preview/F07_⑥_직무명세서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "해당 직책의 역할·책임·주요 업무·자격 요건을 정리하는 직무명세서 양식입니다.",
+      "steps": [
+        "작성자, 부서/직위, 입사일자, 해당 분야 경력을 적습니다.",
+        "직무 개요와 자격 요건 및 소요 능력을 적습니다.",
+        "직무 구분별 세부 작업 내역을 적고 난이도·중요도·빈도를 1(낮음)~5(높음) 숫자로 기재합니다."
+      ],
+      "cautions": [
+        "원활한 인수인계에 필요한 내용으로 작성하고 본인 서명을 받습니다(매뉴얼 평가 방식)."
+      ]
+    },
+    {
+      "id": "F08-04",
+      "code": "F.08",
+      "doc_no": "④",
+      "title": "재무상태표 (재무건전성 점검표)",
+      "file": "forms/F/F08_④_재무상태표(재무건전성점검표)_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/F/preview/F08_④_재무상태표(재무건전성점검표)_2026.sheets.json"
+      },
+      "updated": "2026-03-03",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "F09-01",
+      "code": "F.09",
+      "doc_no": "①",
+      "title": "필요 정보 제공 의무 서약서",
+      "file": "forms/F/F09_①_필요정보제공의무서약서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/F/preview/F09_①_필요정보제공의무서약서_2026-1.jpg"
+        ],
+        "pdf": "forms/F/preview/F09_①_필요정보제공의무서약서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-03-03",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "F10-01",
+      "code": "F.10",
+      "doc_no": "①",
+      "title": "필요 정보 제공 의무 서약서",
+      "file": "forms/F/F10_①_필요정보제공의무서약서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/F/preview/F10_①_필요정보제공의무서약서_2026-1.jpg"
+        ],
+        "pdf": "forms/F/preview/F10_①_필요정보제공의무서약서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-03-03",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "F10-02",
+      "code": "F.10",
+      "doc_no": "②",
+      "title": "추정 손익계산서",
+      "file": "forms/F/F10_②_추정손익계산서_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/F/preview/F10_②_추정손익계산서_2026.sheets.json"
+      },
+      "updated": "2026-03-03",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "F10-03",
+      "code": "F.10",
+      "doc_no": "③",
+      "title": "추정 현금흐름표",
+      "file": "forms/F/F10_③_추정현금흐름표_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/F/preview/F10_③_추정현금흐름표_2026.sheets.json"
+      },
+      "updated": "2026-03-03",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "F10-04",
+      "code": "F.10",
+      "doc_no": "④",
+      "title": "예산 대비 실적 주요 차이 분석 요약",
+      "file": "forms/F/F10_④_예산대비실적주요차이분석요약_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/F/preview/F10_④_예산대비실적주요차이분석요약_2026-1.jpg"
+        ],
+        "pdf": "forms/F/preview/F10_④_예산대비실적주요차이분석요약_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-03-03",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "F11-04",
+      "code": "F.11",
+      "doc_no": "④",
+      "title": "재정지원보증서",
+      "file": "forms/F/F11_④_재정지원보증서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/F/preview/F11_④_재정지원보증서_2026-1.jpg"
+        ],
+        "pdf": "forms/F/preview/F11_④_재정지원보증서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-03-03",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I01-06",
+      "code": "I.01",
+      "doc_no": "⑥",
+      "title": "승인된 세부 수용인원",
+      "file": "forms/I/I01_⑥_승인된세부수용인원_2026.doc",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/I/preview/I01_⑥_승인된세부수용인원_2026-1.jpg"
+        ],
+        "pdf": "forms/I/preview/I01_⑥_승인된세부수용인원_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-11",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I01-14",
+      "code": "I.01",
+      "doc_no": "⑭",
+      "title": "조도측정표_자체측정",
+      "file": "forms/I/I01_⑭_조도측정표자체측정_2026.xls",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/I/preview/I01_⑭_조도측정표자체측정_2026.sheets.json"
+      },
+      "updated": "2026-02-12",
+      "self_form_allowed": true,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I01-15",
+      "code": "I.01",
+      "doc_no": "⑮",
+      "title": "경기장 시설물 체크리스트",
+      "file": "forms/I/I01_⑮_경기장시설물체크리스트_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/I/preview/I01_⑮_경기장시설물체크리스트_2026.sheets.json"
+      },
+      "updated": "2026-02-11",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I01-16",
+      "code": "I.01",
+      "doc_no": "⑯",
+      "title": "K리그 경기장 정보",
+      "file": "forms/I/I01_⑯_K리그경기장정보_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/I/preview/I01_⑯_K리그경기장정보_2026-01.jpg",
+          "forms/I/preview/I01_⑯_K리그경기장정보_2026-02.jpg",
+          "forms/I/preview/I01_⑯_K리그경기장정보_2026-03.jpg",
+          "forms/I/preview/I01_⑯_K리그경기장정보_2026-04.jpg"
+        ],
+        "pdf": "forms/I/preview/I01_⑯_K리그경기장정보_2026.pdf",
+        "pages": 24
+      },
+      "updated": "2026-02-12",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I02-06",
+      "code": "I.02",
+      "doc_no": "⑥",
+      "title": "K리그 중대재해처벌법 이행점검 체크리스트",
+      "file": "forms/I/I02_⑥_K리그중대재해처벌법이행점검체크리스트_2026.pdf",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/I/preview/I02_⑥_K리그중대재해처벌법이행점검체크리스트_2026-1.jpg",
+          "forms/I/preview/I02_⑥_K리그중대재해처벌법이행점검체크리스트_2026-2.jpg",
+          "forms/I/preview/I02_⑥_K리그중대재해처벌법이행점검체크리스트_2026-3.jpg",
+          "forms/I/preview/I02_⑥_K리그중대재해처벌법이행점검체크리스트_2026-4.jpg"
+        ],
+        "pdf": "forms/I/I02_⑥_K리그중대재해처벌법이행점검체크리스트_2026.pdf",
+        "pages": 4
+      },
+      "updated": "2026-01-27",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I02-07",
+      "code": "I.02",
+      "doc_no": "⑦",
+      "title": "K리그 중대재해처벌법 이행점검 결과보고서",
+      "file": "forms/I/I02_⑦_K리그중대재해처벌법이행점검결과보고서_2026.pdf",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/I/preview/I02_⑦_K리그중대재해처벌법이행점검결과보고서_2026-1.jpg"
+        ],
+        "pdf": "forms/I/I02_⑦_K리그중대재해처벌법이행점검결과보고서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-01-27",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I02-08",
+      "code": "I.02",
+      "doc_no": "⑧",
+      "title": "K리그 유해위험요인확인 및 관리대책",
+      "file": "forms/I/I02_⑧_K리그유해위험요인확인및관리대책_2026.pdf",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/I/preview/I02_⑧_K리그유해위험요인확인및관리대책_2026-1.jpg",
+          "forms/I/preview/I02_⑧_K리그유해위험요인확인및관리대책_2026-2.jpg"
+        ],
+        "pdf": "forms/I/I02_⑧_K리그유해위험요인확인및관리대책_2026.pdf",
+        "pages": 2
+      },
+      "updated": "2026-01-27",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I02-09",
+      "code": "I.02",
+      "doc_no": "⑨",
+      "title": "K리그 경기장 안전계획 표준(안)",
+      "file": "forms/I/I02_⑨_K리그경기장안전계획표준(안)_2026.pdf",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/I/preview/I02_⑨_K리그경기장안전계획표준(안)_2026-1.jpg"
+        ],
+        "pdf": "forms/I/I02_⑨_K리그경기장안전계획표준(안)_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-01-27",
+      "self_form_allowed": true,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I02-10",
+      "code": "I.02",
+      "doc_no": "⑩",
+      "title": "경기장 안전 체크리스트 및 확인서",
+      "file": "forms/I/I02_⑩_경기장안전체크리스트및확인서_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/I/preview/I02_⑩_경기장안전체크리스트및확인서_2026.sheets.json"
+      },
+      "updated": "2026-02-13",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I02-12",
+      "code": "I.02",
+      "doc_no": "⑫",
+      "title": "반입금지 물품 목록",
+      "file": "forms/I/I02_⑫_반입금지물품목록_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/I/preview/I02_⑫_반입금지물품목록_2026-1.jpg"
+        ],
+        "pdf": "forms/I/preview/I02_⑫_반입금지물품목록_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-13",
+      "self_form_allowed": true,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I02-13",
+      "code": "I.02",
+      "doc_no": "⑬",
+      "title": "관중 반입물품 스크리닝 절차",
+      "file": "forms/I/I02_⑬_관중반입물품스크리닝절차_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/I/preview/I02_⑬_관중반입물품스크리닝절차_2026-1.jpg"
+        ],
+        "pdf": "forms/I/preview/I02_⑬_관중반입물품스크리닝절차_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-13",
+      "self_form_allowed": true,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I02-14",
+      "code": "I.02",
+      "doc_no": "⑭",
+      "title": "관중분산 계획",
+      "file": "forms/I/I02_⑭_관중분산계획_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/I/preview/I02_⑭_관중분산계획_2026-1.jpg"
+        ],
+        "pdf": "forms/I/preview/I02_⑭_관중분산계획_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-13",
+      "self_form_allowed": true,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I02-15",
+      "code": "I.02",
+      "doc_no": "⑮",
+      "title": "관중 의료지원",
+      "file": "forms/I/I02_⑮_관중의료지원_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/I/preview/I02_⑮_관중의료지원_2026.sheets.json"
+      },
+      "updated": "2026-02-13",
+      "self_form_allowed": true,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I02-16",
+      "code": "I.02",
+      "doc_no": "⑯",
+      "title": "증빙사진 제출",
+      "file": "forms/I/I02_⑯_증빙사진제출_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/I/preview/I02_⑯_증빙사진제출_2026-1.jpg",
+          "forms/I/preview/I02_⑯_증빙사진제출_2026-2.jpg",
+          "forms/I/preview/I02_⑯_증빙사진제출_2026-3.jpg",
+          "forms/I/preview/I02_⑯_증빙사진제출_2026-4.jpg"
+        ],
+        "pdf": "forms/I/preview/I02_⑯_증빙사진제출_2026.pdf",
+        "pages": 4
+      },
+      "updated": "2026-02-13",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I02-ref",
+      "code": "I.02",
+      "doc_no": "",
+      "title": "K리그 수탁기관 안전관리능력 평가기준",
+      "file": "forms/I/I02_참고_K리그수탁기관안전관리능력평가기준.pdf",
+      "ref": true,
+      "preview": "",
+      "updated": "2026-01-27",
+      "self_form_allowed": false,
+      "explain_status": "",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I02-ref-2",
+      "code": "I.02",
+      "doc_no": "",
+      "title": "K리그 안전가이드라인_가변석 가이드라인 첨부",
+      "file": "forms/I/I02_참고_K리그안전가이드라인가변석가이드라인첨부.pdf",
+      "ref": true,
+      "preview": "",
+      "updated": "2026-02-13",
+      "self_form_allowed": false,
+      "explain_status": "",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I02-ref-3",
+      "code": "I.02",
+      "doc_no": "",
+      "title": "K리그 유해위험요인확인 및 개선절차 매뉴얼",
+      "file": "forms/I/I02_참고_K리그유해위험요인확인및개선절차매뉴얼.pdf",
+      "ref": true,
+      "preview": "",
+      "updated": "2026-01-27",
+      "self_form_allowed": false,
+      "explain_status": "",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I02-ref-4",
+      "code": "I.02",
+      "doc_no": "",
+      "title": "K리그 중대재해 발생시 현장대응 매뉴얼",
+      "file": "forms/I/I02_참고_K리그중대재해발생시현장대응매뉴얼.pdf",
+      "ref": true,
+      "preview": "",
+      "updated": "2026-01-27",
+      "self_form_allowed": false,
+      "explain_status": "",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I02-ref-5",
+      "code": "I.02",
+      "doc_no": "",
+      "title": "K리그 중대재해처벌법 대응 안전점검 매뉴얼_최종",
+      "file": "forms/I/I02_참고_K리그중대재해처벌법대응안전점검매뉴얼최종.pdf",
+      "ref": true,
+      "preview": "",
+      "updated": "2026-01-27",
+      "self_form_allowed": false,
+      "explain_status": "",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I03-02",
+      "code": "I.03",
+      "doc_no": "②",
+      "title": "각 비상 상황별 총 대피시간",
+      "file": "forms/I/I03_②_각비상상황별총대피시간_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/I/preview/I03_②_각비상상황별총대피시간_2026-1.jpg"
+        ],
+        "pdf": "forms/I/preview/I03_②_각비상상황별총대피시간_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-13",
+      "self_form_allowed": true,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I03-05",
+      "code": "I.03",
+      "doc_no": "⑤",
+      "title": "홈경기 리스크 평가표",
+      "file": "forms/I/I03_⑤_홈경기리스크평가표_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/I/preview/I03_⑤_홈경기리스크평가표_2026.sheets.json"
+      },
+      "updated": "2026-02-13",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I03-06",
+      "code": "I.03",
+      "doc_no": "⑥",
+      "title": "경기장 층별 피난안내도",
+      "file": "forms/I/I03_⑥_경기장층별피난안내도_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/I/preview/I03_⑥_경기장층별피난안내도_2026-1.jpg"
+        ],
+        "pdf": "forms/I/preview/I03_⑥_경기장층별피난안내도_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-13",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I03-07",
+      "code": "I.03",
+      "doc_no": "⑦",
+      "title": "경기장 내 피난안대도 부착 사진",
+      "file": "forms/I/I03_⑦_경기장내피난안대도부착사진_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/I/preview/I03_⑦_경기장내피난안대도부착사진_2026-1.jpg"
+        ],
+        "pdf": "forms/I/preview/I03_⑦_경기장내피난안대도부착사진_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-03-04",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I04-03",
+      "code": "I.04",
+      "doc_no": "③",
+      "title": "1군 훈련구장 정보",
+      "file": "forms/I/I04_③_1군훈련구장정보_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/I/preview/I04_③_1군훈련구장정보_2026-01.jpg",
+          "forms/I/preview/I04_③_1군훈련구장정보_2026-02.jpg",
+          "forms/I/preview/I04_③_1군훈련구장정보_2026-03.jpg",
+          "forms/I/preview/I04_③_1군훈련구장정보_2026-04.jpg"
+        ],
+        "pdf": "forms/I/preview/I04_③_1군훈련구장정보_2026.pdf",
+        "pages": 12
+      },
+      "updated": "2026-02-20",
+      "self_form_allowed": true,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I04-16",
+      "code": "I.04",
+      "doc_no": "⑯",
+      "title": "1군 훈련시설 현황표",
+      "file": "forms/I/I04_⑯_1군훈련시설현황표_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/I/preview/I04_⑯_1군훈련시설현황표_2026.sheets.json"
+      },
+      "updated": "2026-02-23",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I04-17",
+      "code": "I.04",
+      "doc_no": "⑰",
+      "title": "훈련시설 이미지",
+      "file": "forms/I/I04_⑰_훈련시설이미지_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/I/preview/I04_⑰_훈련시설이미지_2026-1.jpg",
+          "forms/I/preview/I04_⑰_훈련시설이미지_2026-2.jpg",
+          "forms/I/preview/I04_⑰_훈련시설이미지_2026-3.jpg"
+        ],
+        "pdf": "forms/I/preview/I04_⑰_훈련시설이미지_2026.pdf",
+        "pages": 3
+      },
+      "updated": "2026-02-23",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I05-01",
+      "code": "I.05",
+      "doc_no": "①",
+      "title": "U-12팀 훈련구장 위치 및 주소",
+      "file": "forms/I/I05_①_U12팀훈련구장위치및주소_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/I/preview/I05_①_U12팀훈련구장위치및주소_2026-1.jpg"
+        ],
+        "pdf": "forms/I/preview/I05_①_U12팀훈련구장위치및주소_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-23",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I05-03",
+      "code": "I.05",
+      "doc_no": "③",
+      "title": "U-12팀 훈련구장 사진",
+      "file": "forms/I/I05_③_U12팀훈련구장사진_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/I/preview/I05_③_U12팀훈련구장사진_2026-1.jpg",
+          "forms/I/preview/I05_③_U12팀훈련구장사진_2026-2.jpg",
+          "forms/I/preview/I05_③_U12팀훈련구장사진_2026-3.jpg"
+        ],
+        "pdf": "forms/I/preview/I05_③_U12팀훈련구장사진_2026.pdf",
+        "pages": 3
+      },
+      "updated": "2026-02-23",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I05-04",
+      "code": "I.05",
+      "doc_no": "④",
+      "title": "U-15팀 훈련구장 위치 및 주소",
+      "file": "forms/I/I05_④_U15팀훈련구장위치및주소_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/I/preview/I05_④_U15팀훈련구장위치및주소_2026-1.jpg"
+        ],
+        "pdf": "forms/I/preview/I05_④_U15팀훈련구장위치및주소_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-23",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I05-06",
+      "code": "I.05",
+      "doc_no": "⑥",
+      "title": "U-15팀 훈련구장 사진",
+      "file": "forms/I/I05_⑥_U15팀훈련구장사진_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/I/preview/I05_⑥_U15팀훈련구장사진_2026-1.jpg",
+          "forms/I/preview/I05_⑥_U15팀훈련구장사진_2026-2.jpg",
+          "forms/I/preview/I05_⑥_U15팀훈련구장사진_2026-3.jpg"
+        ],
+        "pdf": "forms/I/preview/I05_⑥_U15팀훈련구장사진_2026.pdf",
+        "pages": 3
+      },
+      "updated": "2026-02-23",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I05-07",
+      "code": "I.05",
+      "doc_no": "⑦",
+      "title": "U-18팀 훈련구장 위치 및 주소",
+      "file": "forms/I/I05_⑦_U18팀훈련구장위치및주소_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/I/preview/I05_⑦_U18팀훈련구장위치및주소_2026-1.jpg"
+        ],
+        "pdf": "forms/I/preview/I05_⑦_U18팀훈련구장위치및주소_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-23",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I05-09",
+      "code": "I.05",
+      "doc_no": "⑨",
+      "title": "U-18팀 훈련구장 사진",
+      "file": "forms/I/I05_⑨_U18팀훈련구장사진_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/I/preview/I05_⑨_U18팀훈련구장사진_2026-1.jpg",
+          "forms/I/preview/I05_⑨_U18팀훈련구장사진_2026-2.jpg",
+          "forms/I/preview/I05_⑨_U18팀훈련구장사진_2026-3.jpg"
+        ],
+        "pdf": "forms/I/preview/I05_⑨_U18팀훈련구장사진_2026.pdf",
+        "pages": 3
+      },
+      "updated": "2026-02-23",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I05-10",
+      "code": "I.05",
+      "doc_no": "⑩",
+      "title": "유소년팀 훈련시설 현황표",
+      "file": "forms/I/I05_⑩_유소년팀훈련시설현황표_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/I/preview/I05_⑩_유소년팀훈련시설현황표_2026.sheets.json"
+      },
+      "updated": "2026-02-23",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I05-11",
+      "code": "I.05",
+      "doc_no": "⑪",
+      "title": "훈련장 내 선수대기실  락커룸 사진",
+      "file": "forms/I/I05_⑪_훈련장내선수대기실락커룸사진_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/I/preview/I05_⑪_훈련장내선수대기실락커룸사진_2026-1.jpg",
+          "forms/I/preview/I05_⑪_훈련장내선수대기실락커룸사진_2026-2.jpg",
+          "forms/I/preview/I05_⑪_훈련장내선수대기실락커룸사진_2026-3.jpg"
+        ],
+        "pdf": "forms/I/preview/I05_⑪_훈련장내선수대기실락커룸사진_2026.pdf",
+        "pages": 3
+      },
+      "updated": "2026-02-23",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I05-12",
+      "code": "I.05",
+      "doc_no": "⑫",
+      "title": "훈련장 내 의무실_응급처치설_구급함 구비 사진",
+      "file": "forms/I/I05_⑫_훈련장내의무실응급처치설구급함구비사진_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/I/preview/I05_⑫_훈련장내의무실응급처치설구급함구비사진_2026-1.jpg",
+          "forms/I/preview/I05_⑫_훈련장내의무실응급처치설구급함구비사진_2026-2.jpg",
+          "forms/I/preview/I05_⑫_훈련장내의무실응급처치설구급함구비사진_2026-3.jpg"
+        ],
+        "pdf": "forms/I/preview/I05_⑫_훈련장내의무실응급처치설구급함구비사진_2026.pdf",
+        "pages": 3
+      },
+      "updated": "2026-02-23",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I05-13",
+      "code": "I.05",
+      "doc_no": "⑬",
+      "title": "U121518팀 실내훈련장 위치 및 주소",
+      "file": "forms/I/I05_⑬_U121518팀실내훈련장위치및주소_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/I/preview/I05_⑬_U121518팀실내훈련장위치및주소_2026-1.jpg",
+          "forms/I/preview/I05_⑬_U121518팀실내훈련장위치및주소_2026-2.jpg",
+          "forms/I/preview/I05_⑬_U121518팀실내훈련장위치및주소_2026-3.jpg"
+        ],
+        "pdf": "forms/I/preview/I05_⑬_U121518팀실내훈련장위치및주소_2026.pdf",
+        "pages": 3
+      },
+      "updated": "2026-02-23",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I05-14",
+      "code": "I.05",
+      "doc_no": "⑭",
+      "title": "U121518팀 실내 훈련장 사진",
+      "file": "forms/I/I05_⑭_U121518팀실내훈련장사진_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/I/preview/I05_⑭_U121518팀실내훈련장사진_2026-1.jpg",
+          "forms/I/preview/I05_⑭_U121518팀실내훈련장사진_2026-2.jpg",
+          "forms/I/preview/I05_⑭_U121518팀실내훈련장사진_2026-3.jpg"
+        ],
+        "pdf": "forms/I/preview/I05_⑭_U121518팀실내훈련장사진_2026.pdf",
+        "pages": 3
+      },
+      "updated": "2026-02-23",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I06-01",
+      "code": "I.06",
+      "doc_no": "①",
+      "title": "경기장 안전 수칙",
+      "file": "forms/I/I06_①_경기장안전수칙_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/I/preview/I06_①_경기장안전수칙_2026-1.jpg"
+        ],
+        "pdf": "forms/I/preview/I06_①_경기장안전수칙_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-23",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I06-03",
+      "code": "I.06",
+      "doc_no": "③",
+      "title": "티켓 발권 전 사전 안내",
+      "file": "forms/I/I06_③_티켓발권전사전안내_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/I/preview/I06_③_티켓발권전사전안내_2026-1.jpg"
+        ],
+        "pdf": "forms/I/preview/I06_③_티켓발권전사전안내_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-23",
+      "self_form_allowed": true,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I06-04",
+      "code": "I.06",
+      "doc_no": "④",
+      "title": "경기장 내외부에 부착된 경기장 안전 수칙 사진",
+      "file": "forms/I/I06_④_경기장내외부에부착된경기장안전수칙사진_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/I/preview/I06_④_경기장내외부에부착된경기장안전수칙사진_2026-1.jpg"
+        ],
+        "pdf": "forms/I/preview/I06_④_경기장내외부에부착된경기장안전수칙사진_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-23",
+      "self_form_allowed": true,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I07-06",
+      "code": "I.07",
+      "doc_no": "⑥",
+      "title": "K리그 클럽하우스 시설 현황표 제출",
+      "file": "forms/I/I07_⑥_K리그클럽하우스시설현황표제출_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/I/preview/I07_⑥_K리그클럽하우스시설현황표제출_2026.sheets.json"
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "I07-07",
+      "code": "I.07",
+      "doc_no": "⑦",
+      "title": "K리그 클럽하우스 이미지",
+      "file": "forms/I/I07_⑦_K리그클럽하우스이미지_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/I/preview/I07_⑦_K리그클럽하우스이미지_2026-01.jpg",
+          "forms/I/preview/I07_⑦_K리그클럽하우스이미지_2026-02.jpg",
+          "forms/I/preview/I07_⑦_K리그클럽하우스이미지_2026-03.jpg",
+          "forms/I/preview/I07_⑦_K리그클럽하우스이미지_2026-04.jpg"
+        ],
+        "pdf": "forms/I/preview/I07_⑦_K리그클럽하우스이미지_2026.pdf",
+        "pages": 19
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "L01-01",
+      "code": "L.01",
+      "doc_no": "①",
+      "title": "K리그 참가에 대한 서약서",
+      "file": "forms/L/L01_①_K리그참가에대한서약서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/L/preview/L01_①_K리그참가에대한서약서_2026-1.jpg"
+        ],
+        "pdf": "forms/L/preview/L01_①_K리그참가에대한서약서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "L02-09",
+      "code": "L.02",
+      "doc_no": "⑨",
+      "title": "법인 대표자 명단",
+      "file": "forms/L/L02_⑨_법인대표자명단_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/L/preview/L02_⑨_법인대표자명단_2026-1.jpg"
+        ],
+        "pdf": "forms/L/preview/L02_⑨_법인대표자명단_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": true,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "L03-02",
+      "code": "L.03",
+      "doc_no": "②",
+      "title": "이사회 명단",
+      "file": "forms/L/L03_②_이사회명단_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/L/preview/L03_②_이사회명단_2026-1.jpg"
+        ],
+        "pdf": "forms/L/preview/L03_②_이사회명단_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "L03-02-2",
+      "code": "L.03",
+      "doc_no": "②",
+      "title": "임원 명단",
+      "file": "forms/L/L03_②_임원명단_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/L/preview/L03_②_임원명단_2026-1.jpg"
+        ],
+        "pdf": "forms/L/preview/L03_②_임원명단_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "L03-03",
+      "code": "L.03",
+      "doc_no": "③",
+      "title": "구단 주주 명단",
+      "file": "forms/L/L03_③_구단주주명단_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/L/preview/L03_③_구단주주명단_2026-1.jpg"
+        ],
+        "pdf": "forms/L/preview/L03_③_구단주주명단_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "L03-06",
+      "code": "L.03",
+      "doc_no": "⑥",
+      "title": "서명된 서약서",
+      "file": "forms/L/L03_⑥_서명된서약서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/L/preview/L03_⑥_서명된서약서_2026-1.jpg"
+        ],
+        "pdf": "forms/L/preview/L03_⑥_서명된서약서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "L04-02",
+      "code": "L.04",
+      "doc_no": "②",
+      "title": "라이선스 신청자의 그룹 지배 구조 차트",
+      "file": "forms/L/L04_②_라이선스신청자의그룹지배구조차트_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/L/preview/L04_②_라이선스신청자의그룹지배구조차트_2026-1.jpg"
+        ],
+        "pdf": "forms/L/preview/L04_②_라이선스신청자의그룹지배구조차트_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "L04-03",
+      "code": "L.04",
+      "doc_no": "③",
+      "title": "라이선스 신청자 그룹 구조 정보",
+      "file": "forms/L/L04_③_라이선스신청자그룹구조정보_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/L/preview/L04_③_라이선스신청자그룹구조정보_2026.sheets.json"
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "L05-01",
+      "code": "L.05",
+      "doc_no": "①",
+      "title": "등록선수명단",
+      "file": "forms/L/L05_①_등록선수명단_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/L/preview/L05_①_등록선수명단_2026-1.jpg"
+        ],
+        "pdf": "forms/L/preview/L05_①_등록선수명단_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "L06-03",
+      "code": "L.06",
+      "doc_no": "③",
+      "title": "서약서",
+      "file": "forms/L/L06_③_서약서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/L/preview/L06_③_서약서_2026-1.jpg"
+        ],
+        "pdf": "forms/L/preview/L06_③_서약서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "M01-01",
+      "code": "M.01",
+      "doc_no": "①",
+      "title": "중장기 마케팅 전략",
+      "file": "forms/M/M01_①_중장기마케팅전략_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/M/preview/M01_①_중장기마케팅전략_2026-1.jpg",
+          "forms/M/preview/M01_①_중장기마케팅전략_2026-2.jpg",
+          "forms/M/preview/M01_①_중장기마케팅전략_2026-3.jpg",
+          "forms/M/preview/M01_①_중장기마케팅전략_2026-4.jpg"
+        ],
+        "pdf": "forms/M/preview/M01_①_중장기마케팅전략_2026.pdf",
+        "pages": 9
+      },
+      "updated": "2024-03-13",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "M01-03",
+      "code": "M.01",
+      "doc_no": "③",
+      "title": "판매 중인 구단 상품 목록",
+      "file": "forms/M/M01_③_판매중인구단상품목록_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/M/preview/M01_③_판매중인구단상품목록_2026-1.jpg"
+        ],
+        "pdf": "forms/M/preview/M01_③_판매중인구단상품목록_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-03-03",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "M01-04",
+      "code": "M.01",
+      "doc_no": "④",
+      "title": "구단 상품판매소 사진",
+      "file": "forms/M/M01_④_구단상품판매소사진_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/M/preview/M01_④_구단상품판매소사진_2026-1.jpg"
+        ],
+        "pdf": "forms/M/preview/M01_④_구단상품판매소사진_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-03-03",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "M01-05",
+      "code": "M.01",
+      "doc_no": "⑤",
+      "title": "마케팅 전략에 따라 실시 중인 활동에 대한 증빙 서류",
+      "file": "forms/M/M01_⑤_마케팅전략에따라실시중인활동에대한증빙서류_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/M/preview/M01_⑤_마케팅전략에따라실시중인활동에대한증빙서류_2026-1.jpg"
+        ],
+        "pdf": "forms/M/preview/M01_⑤_마케팅전략에따라실시중인활동에대한증빙서류_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-03-03",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "M02-02",
+      "code": "M.02",
+      "doc_no": "②",
+      "title": "구단 공식 SNS 주소",
+      "file": "forms/M/M02_②_구단공식SNS주소_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/M/preview/M02_②_구단공식SNS주소_2026.sheets.json"
+      },
+      "updated": "2026-03-03",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "M02-03",
+      "code": "M.02",
+      "doc_no": "③",
+      "title": "구단 영문 홈페이지, SNS 또는 콘텐츠 주소 또는 이미지",
+      "file": "forms/M/M02_③_구단영문홈페이지SNS또는콘텐츠주소또는이미지_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/M/preview/M02_③_구단영문홈페이지SNS또는콘텐츠주소또는이미지_2026.sheets.json"
+      },
+      "updated": "2026-03-03",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "M02-04",
+      "code": "M.02",
+      "doc_no": "④",
+      "title": "구단 공식 SNS 계정 가입자 수",
+      "file": "forms/M/M02_④_구단공식SNS계정가입자수_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/M/preview/M02_④_구단공식SNS계정가입자수_2026.sheets.json"
+      },
+      "updated": "2026-03-03",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "M03-02",
+      "code": "M.03",
+      "doc_no": "②",
+      "title": "경기장 내 설치 완료된 LED 이미지 및 제품 스펙 제출",
+      "file": "forms/M/M03_②_경기장내설치완료된LED이미지및제품스펙제출_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/M/preview/M03_②_경기장내설치완료된LED이미지및제품스펙제출_2026.sheets.json"
+      },
+      "updated": "2026-03-03",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "P01-03",
+      "code": "P.01",
+      "doc_no": "③",
+      "title": "사무국 내 사무기기 및 편의시설 사진",
+      "file": "forms/P/P01_③_사무국내사무기기및편의시설사진_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P01_③_사무국내사무기기및편의시설사진_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P01_③_사무국내사무기기및편의시설사진_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": true,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "P01-04",
+      "code": "P.01",
+      "doc_no": "④",
+      "title": "사무국 조직도",
+      "file": "forms/P/P01_④_사무국조직도_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P01_④_사무국조직도_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P01_④_사무국조직도_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": true,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "P01-05",
+      "code": "P.01",
+      "doc_no": "⑤",
+      "title": "임직원명단",
+      "file": "forms/P/P01_⑤_임직원명단_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P01_⑤_임직원명단_2026-1.jpg",
+          "forms/P/preview/P01_⑤_임직원명단_2026-2.jpg",
+          "forms/P/preview/P01_⑤_임직원명단_2026-3.jpg",
+          "forms/P/preview/P01_⑤_임직원명단_2026-4.jpg"
+        ],
+        "pdf": "forms/P/preview/P01_⑤_임직원명단_2026.pdf",
+        "pages": 4
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": true,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "P01-ref",
+      "code": "P.01",
+      "doc_no": "",
+      "title": "241230_K리그 표준 조직도 도입 FAQ",
+      "file": "forms/P/P01_참고_241230K리그표준조직도도입FAQ.pdf",
+      "ref": true,
+      "preview": "",
+      "updated": "2025-01-02",
+      "self_form_allowed": false,
+      "explain_status": "",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "P01-ref-2",
+      "code": "P.01",
+      "doc_no": "",
+      "title": "K리그 표준 구단 조직도 (최종)",
+      "file": "forms/P/P01_참고_K리그표준구단조직도(최종).pdf",
+      "ref": true,
+      "preview": "",
+      "updated": "2023-05-16",
+      "self_form_allowed": false,
+      "explain_status": "",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "P02-07",
+      "code": "P.02",
+      "doc_no": "⑦",
+      "title": "직무별 인적 구성 현황",
+      "file": "forms/P/P02_⑦_직무별인적구성현황_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/P/preview/P02_⑦_직무별인적구성현황_2026.sheets.json"
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "P02-ref",
+      "code": "P.02",
+      "doc_no": "",
+      "title": "24년 K리그 표준성과체계",
+      "file": "forms/P/P02_참고_24년K리그표준성과체계.zip",
+      "ref": true,
+      "preview": "",
+      "updated": "2025-03-27",
+      "self_form_allowed": false,
+      "explain_status": "",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "P02-ref-2",
+      "code": "P.02",
+      "doc_no": "",
+      "title": "250103_표준직무명세서",
+      "file": "forms/P/P02_참고_250103표준직무명세서.zip",
+      "ref": true,
+      "preview": "",
+      "updated": "2025-03-27",
+      "self_form_allowed": false,
+      "explain_status": "",
+      "description": "해당 직책의 역할·책임·주요 업무·자격 요건을 정리하는 직무명세서 양식입니다.",
+      "steps": [
+        "작성자, 부서/직위, 입사일자, 해당 분야 경력을 적습니다.",
+        "직무 개요와 자격 요건 및 소요 능력을 적습니다.",
+        "직무 구분별 세부 작업 내역을 적고 난이도·중요도·빈도를 1(낮음)~5(높음) 숫자로 기재합니다."
+      ],
+      "cautions": [
+        "원활한 인수인계에 필요한 내용으로 작성하고 본인 서명을 받습니다(매뉴얼 평가 방식)."
+      ]
+    },
+    {
+      "id": "P03-05",
+      "code": "P.03",
+      "doc_no": "⑤",
+      "title": "이력서 양식",
+      "file": "forms/P/P03_⑤_이력서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P03_⑤_이력서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P03_⑤_이력서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "담당자 이력서 양식입니다.",
+      "steps": [
+        "증명사진을 붙이고 인적 사항(국문·영문 성명, 주소, 생년월일, 연락처)을 적습니다.",
+        "학력 사항(교육 기관, 학위 종류, 전공)을 적습니다.",
+        "경력 사항(활동 기간, 소속, 직위/직무, 활동 내용)과 자격 사항(자격증명, 취득일)을 적습니다.",
+        "축구 관련 활동·수상 경력 등 기타 활동을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P03-06",
+      "code": "P.03",
+      "doc_no": "⑥",
+      "title": "직무명세서 양식",
+      "file": "forms/P/P03_⑥_직무명세서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P03_⑥_직무명세서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P03_⑥_직무명세서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "해당 직책의 역할·책임·주요 업무·자격 요건을 정리하는 직무명세서 양식입니다.",
+      "steps": [
+        "작성자, 부서/직위, 입사일자, 해당 분야 경력을 적습니다.",
+        "직무 개요와 자격 요건 및 소요 능력을 적습니다.",
+        "직무 구분별 세부 작업 내역을 적고 난이도·중요도·빈도를 1(낮음)~5(높음) 숫자로 기재합니다."
+      ],
+      "cautions": [
+        "원활한 인수인계에 필요한 내용으로 작성하고 본인 서명을 받습니다(매뉴얼 평가 방식)."
+      ]
+    },
+    {
+      "id": "P04-03",
+      "code": "P.04",
+      "doc_no": "③",
+      "title": "이력서 양식",
+      "file": "forms/P/P04_③_이력서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P04_③_이력서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P04_③_이력서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "담당자 이력서 양식입니다.",
+      "steps": [
+        "증명사진을 붙이고 인적 사항(국문·영문 성명, 주소, 생년월일, 연락처)을 적습니다.",
+        "학력 사항(교육 기관, 학위 종류, 전공)을 적습니다.",
+        "경력 사항(활동 기간, 소속, 직위/직무, 활동 내용)과 자격 사항(자격증명, 취득일)을 적습니다.",
+        "축구 관련 활동·수상 경력 등 기타 활동을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P04-05",
+      "code": "P.04",
+      "doc_no": "⑤",
+      "title": "자격증빙서류 세부 내역서",
+      "file": "forms/P/P04_⑤_자격증빙서류세부내역서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P04_⑤_자격증빙서류세부내역서_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P04_⑤_자격증빙서류세부내역서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "담당자가 낸 자격 증빙서류(학위·자격증·수료증 등)의 세부 내용을 정리하는 양식입니다.",
+      "steps": [
+        "자격증명, 자격증 유형(학위, 자격증, 수료증, 경력증명서, 자격인정서 등), 발급기관명, 발급일자를 적습니다.",
+        "관련 경력과 관련 기술을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P04-06",
+      "code": "P.04",
+      "doc_no": "⑥",
+      "title": "직무명세서 양식",
+      "file": "forms/P/P04_⑥_직무명세서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P04_⑥_직무명세서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P04_⑥_직무명세서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "해당 직책의 역할·책임·주요 업무·자격 요건을 정리하는 직무명세서 양식입니다.",
+      "steps": [
+        "작성자, 부서/직위, 입사일자, 해당 분야 경력을 적습니다.",
+        "직무 개요와 자격 요건 및 소요 능력을 적습니다.",
+        "직무 구분별 세부 작업 내역을 적고 난이도·중요도·빈도를 1(낮음)~5(높음) 숫자로 기재합니다."
+      ],
+      "cautions": [
+        "원활한 인수인계에 필요한 내용으로 작성하고 본인 서명을 받습니다(매뉴얼 평가 방식)."
+      ]
+    },
+    {
+      "id": "P05-03",
+      "code": "P.05",
+      "doc_no": "③",
+      "title": "이력서 양식",
+      "file": "forms/P/P05_③_이력서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P05_③_이력서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P05_③_이력서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "담당자 이력서 양식입니다.",
+      "steps": [
+        "증명사진을 붙이고 인적 사항(국문·영문 성명, 주소, 생년월일, 연락처)을 적습니다.",
+        "학력 사항(교육 기관, 학위 종류, 전공)을 적습니다.",
+        "경력 사항(활동 기간, 소속, 직위/직무, 활동 내용)과 자격 사항(자격증명, 취득일)을 적습니다.",
+        "축구 관련 활동·수상 경력 등 기타 활동을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P05-05",
+      "code": "P.05",
+      "doc_no": "⑤",
+      "title": "자격증빙서류 세부 내역서",
+      "file": "forms/P/P05_⑤_자격증빙서류세부내역서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P05_⑤_자격증빙서류세부내역서_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P05_⑤_자격증빙서류세부내역서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "담당자가 낸 자격 증빙서류(학위·자격증·수료증 등)의 세부 내용을 정리하는 양식입니다.",
+      "steps": [
+        "자격증명, 자격증 유형(학위, 자격증, 수료증, 경력증명서, 자격인정서 등), 발급기관명, 발급일자를 적습니다.",
+        "관련 경력과 관련 기술을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P05-06",
+      "code": "P.05",
+      "doc_no": "⑥",
+      "title": "직무명세서 양식",
+      "file": "forms/P/P05_⑥_직무명세서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P05_⑥_직무명세서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P05_⑥_직무명세서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "해당 직책의 역할·책임·주요 업무·자격 요건을 정리하는 직무명세서 양식입니다.",
+      "steps": [
+        "작성자, 부서/직위, 입사일자, 해당 분야 경력을 적습니다.",
+        "직무 개요와 자격 요건 및 소요 능력을 적습니다.",
+        "직무 구분별 세부 작업 내역을 적고 난이도·중요도·빈도를 1(낮음)~5(높음) 숫자로 기재합니다."
+      ],
+      "cautions": [
+        "원활한 인수인계에 필요한 내용으로 작성하고 본인 서명을 받습니다(매뉴얼 평가 방식)."
+      ]
+    },
+    {
+      "id": "P06-03",
+      "code": "P.06",
+      "doc_no": "③",
+      "title": "이력서 양식",
+      "file": "forms/P/P06_③_이력서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P06_③_이력서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P06_③_이력서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "담당자 이력서 양식입니다.",
+      "steps": [
+        "증명사진을 붙이고 인적 사항(국문·영문 성명, 주소, 생년월일, 연락처)을 적습니다.",
+        "학력 사항(교육 기관, 학위 종류, 전공)을 적습니다.",
+        "경력 사항(활동 기간, 소속, 직위/직무, 활동 내용)과 자격 사항(자격증명, 취득일)을 적습니다.",
+        "축구 관련 활동·수상 경력 등 기타 활동을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P06-05",
+      "code": "P.06",
+      "doc_no": "⑤",
+      "title": "자격증빙서류 세부 내역서",
+      "file": "forms/P/P06_⑤_자격증빙서류세부내역서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P06_⑤_자격증빙서류세부내역서_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P06_⑤_자격증빙서류세부내역서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "담당자가 낸 자격 증빙서류(학위·자격증·수료증 등)의 세부 내용을 정리하는 양식입니다.",
+      "steps": [
+        "자격증명, 자격증 유형(학위, 자격증, 수료증, 경력증명서, 자격인정서 등), 발급기관명, 발급일자를 적습니다.",
+        "관련 경력과 관련 기술을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P06-06",
+      "code": "P.06",
+      "doc_no": "⑥",
+      "title": "직무명세서 양식",
+      "file": "forms/P/P06_⑥_직무명세서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P06_⑥_직무명세서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P06_⑥_직무명세서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "해당 직책의 역할·책임·주요 업무·자격 요건을 정리하는 직무명세서 양식입니다.",
+      "steps": [
+        "작성자, 부서/직위, 입사일자, 해당 분야 경력을 적습니다.",
+        "직무 개요와 자격 요건 및 소요 능력을 적습니다.",
+        "직무 구분별 세부 작업 내역을 적고 난이도·중요도·빈도를 1(낮음)~5(높음) 숫자로 기재합니다."
+      ],
+      "cautions": [
+        "원활한 인수인계에 필요한 내용으로 작성하고 본인 서명을 받습니다(매뉴얼 평가 방식)."
+      ]
+    },
+    {
+      "id": "P07-03",
+      "code": "P.07",
+      "doc_no": "③",
+      "title": "이력서 양식",
+      "file": "forms/P/P07_③_이력서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P07_③_이력서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P07_③_이력서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "담당자 이력서 양식입니다.",
+      "steps": [
+        "증명사진을 붙이고 인적 사항(국문·영문 성명, 주소, 생년월일, 연락처)을 적습니다.",
+        "학력 사항(교육 기관, 학위 종류, 전공)을 적습니다.",
+        "경력 사항(활동 기간, 소속, 직위/직무, 활동 내용)과 자격 사항(자격증명, 취득일)을 적습니다.",
+        "축구 관련 활동·수상 경력 등 기타 활동을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P07-05",
+      "code": "P.07",
+      "doc_no": "⑤",
+      "title": "자격증빙서류 세부 내역서",
+      "file": "forms/P/P07_⑤_자격증빙서류세부내역서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P07_⑤_자격증빙서류세부내역서_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P07_⑤_자격증빙서류세부내역서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "담당자가 낸 자격 증빙서류(학위·자격증·수료증 등)의 세부 내용을 정리하는 양식입니다.",
+      "steps": [
+        "자격증명, 자격증 유형(학위, 자격증, 수료증, 경력증명서, 자격인정서 등), 발급기관명, 발급일자를 적습니다.",
+        "관련 경력과 관련 기술을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P07-06",
+      "code": "P.07",
+      "doc_no": "⑥",
+      "title": "직무명세서 양식",
+      "file": "forms/P/P07_⑥_직무명세서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P07_⑥_직무명세서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P07_⑥_직무명세서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "해당 직책의 역할·책임·주요 업무·자격 요건을 정리하는 직무명세서 양식입니다.",
+      "steps": [
+        "작성자, 부서/직위, 입사일자, 해당 분야 경력을 적습니다.",
+        "직무 개요와 자격 요건 및 소요 능력을 적습니다.",
+        "직무 구분별 세부 작업 내역을 적고 난이도·중요도·빈도를 1(낮음)~5(높음) 숫자로 기재합니다."
+      ],
+      "cautions": [
+        "원활한 인수인계에 필요한 내용으로 작성하고 본인 서명을 받습니다(매뉴얼 평가 방식)."
+      ]
+    },
+    {
+      "id": "P08-02",
+      "code": "P.08",
+      "doc_no": "②",
+      "title": "팀 주치의 명단",
+      "file": "forms/P/P08_②_팀주치의명단_2026.doc",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P08_②_팀주치의명단_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P08_②_팀주치의명단_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "P08-05",
+      "code": "P.08",
+      "doc_no": "⑤",
+      "title": "이력서 양식",
+      "file": "forms/P/P08_⑤_이력서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P08_⑤_이력서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P08_⑤_이력서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "담당자 이력서 양식입니다.",
+      "steps": [
+        "증명사진을 붙이고 인적 사항(국문·영문 성명, 주소, 생년월일, 연락처)을 적습니다.",
+        "학력 사항(교육 기관, 학위 종류, 전공)을 적습니다.",
+        "경력 사항(활동 기간, 소속, 직위/직무, 활동 내용)과 자격 사항(자격증명, 취득일)을 적습니다.",
+        "축구 관련 활동·수상 경력 등 기타 활동을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P08-07",
+      "code": "P.08",
+      "doc_no": "⑦",
+      "title": "자격증빙서류 세부 내역서",
+      "file": "forms/P/P08_⑦_자격증빙서류세부내역서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P08_⑦_자격증빙서류세부내역서_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P08_⑦_자격증빙서류세부내역서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "담당자가 낸 자격 증빙서류(학위·자격증·수료증 등)의 세부 내용을 정리하는 양식입니다.",
+      "steps": [
+        "자격증명, 자격증 유형(학위, 자격증, 수료증, 경력증명서, 자격인정서 등), 발급기관명, 발급일자를 적습니다.",
+        "관련 경력과 관련 기술을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P08-08",
+      "code": "P.08",
+      "doc_no": "⑧",
+      "title": "직무명세서 양식",
+      "file": "forms/P/P08_⑧_직무명세서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P08_⑧_직무명세서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P08_⑧_직무명세서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "해당 직책의 역할·책임·주요 업무·자격 요건을 정리하는 직무명세서 양식입니다.",
+      "steps": [
+        "작성자, 부서/직위, 입사일자, 해당 분야 경력을 적습니다.",
+        "직무 개요와 자격 요건 및 소요 능력을 적습니다.",
+        "직무 구분별 세부 작업 내역을 적고 난이도·중요도·빈도를 1(낮음)~5(높음) 숫자로 기재합니다."
+      ],
+      "cautions": [
+        "원활한 인수인계에 필요한 내용으로 작성하고 본인 서명을 받습니다(매뉴얼 평가 방식)."
+      ]
+    },
+    {
+      "id": "P09-02",
+      "code": "P.09",
+      "doc_no": "②",
+      "title": "물리치료사 명단",
+      "file": "forms/P/P09_②_물리치료사명단_2026.doc",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P09_②_물리치료사명단_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P09_②_물리치료사명단_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "P09-05",
+      "code": "P.09",
+      "doc_no": "⑤",
+      "title": "이력서 양식",
+      "file": "forms/P/P09_⑤_이력서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P09_⑤_이력서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P09_⑤_이력서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "담당자 이력서 양식입니다.",
+      "steps": [
+        "증명사진을 붙이고 인적 사항(국문·영문 성명, 주소, 생년월일, 연락처)을 적습니다.",
+        "학력 사항(교육 기관, 학위 종류, 전공)을 적습니다.",
+        "경력 사항(활동 기간, 소속, 직위/직무, 활동 내용)과 자격 사항(자격증명, 취득일)을 적습니다.",
+        "축구 관련 활동·수상 경력 등 기타 활동을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P09-07",
+      "code": "P.09",
+      "doc_no": "⑦",
+      "title": "자격증빙서류 세부 내역서",
+      "file": "forms/P/P09_⑦_자격증빙서류세부내역서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P09_⑦_자격증빙서류세부내역서_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P09_⑦_자격증빙서류세부내역서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "담당자가 낸 자격 증빙서류(학위·자격증·수료증 등)의 세부 내용을 정리하는 양식입니다.",
+      "steps": [
+        "자격증명, 자격증 유형(학위, 자격증, 수료증, 경력증명서, 자격인정서 등), 발급기관명, 발급일자를 적습니다.",
+        "관련 경력과 관련 기술을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P09-08",
+      "code": "P.09",
+      "doc_no": "⑧",
+      "title": "직무명세서 양식",
+      "file": "forms/P/P09_⑧_직무명세서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P09_⑧_직무명세서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P09_⑧_직무명세서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "해당 직책의 역할·책임·주요 업무·자격 요건을 정리하는 직무명세서 양식입니다.",
+      "steps": [
+        "작성자, 부서/직위, 입사일자, 해당 분야 경력을 적습니다.",
+        "직무 개요와 자격 요건 및 소요 능력을 적습니다.",
+        "직무 구분별 세부 작업 내역을 적고 난이도·중요도·빈도를 1(낮음)~5(높음) 숫자로 기재합니다."
+      ],
+      "cautions": [
+        "원활한 인수인계에 필요한 내용으로 작성하고 본인 서명을 받습니다(매뉴얼 평가 방식)."
+      ]
+    },
+    {
+      "id": "P10-04",
+      "code": "P.10",
+      "doc_no": "④",
+      "title": "이력서 양식",
+      "file": "forms/P/P10_④_이력서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P10_④_이력서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P10_④_이력서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-23",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "담당자 이력서 양식입니다.",
+      "steps": [
+        "증명사진을 붙이고 인적 사항(국문·영문 성명, 주소, 생년월일, 연락처)을 적습니다.",
+        "학력 사항(교육 기관, 학위 종류, 전공)을 적습니다.",
+        "경력 사항(활동 기간, 소속, 직위/직무, 활동 내용)과 자격 사항(자격증명, 취득일)을 적습니다.",
+        "축구 관련 활동·수상 경력 등 기타 활동을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P10-06",
+      "code": "P.10",
+      "doc_no": "⑥",
+      "title": "자격증빙서류 세부 내역서",
+      "file": "forms/P/P10_⑥_자격증빙서류세부내역서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P10_⑥_자격증빙서류세부내역서_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P10_⑥_자격증빙서류세부내역서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "담당자가 낸 자격 증빙서류(학위·자격증·수료증 등)의 세부 내용을 정리하는 양식입니다.",
+      "steps": [
+        "자격증명, 자격증 유형(학위, 자격증, 수료증, 경력증명서, 자격인정서 등), 발급기관명, 발급일자를 적습니다.",
+        "관련 경력과 관련 기술을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P10-07",
+      "code": "P.10",
+      "doc_no": "⑦",
+      "title": "직무명세서 양식",
+      "file": "forms/P/P10_⑦_직무명세서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P10_⑦_직무명세서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P10_⑦_직무명세서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "해당 직책의 역할·책임·주요 업무·자격 요건을 정리하는 직무명세서 양식입니다.",
+      "steps": [
+        "작성자, 부서/직위, 입사일자, 해당 분야 경력을 적습니다.",
+        "직무 개요와 자격 요건 및 소요 능력을 적습니다.",
+        "직무 구분별 세부 작업 내역을 적고 난이도·중요도·빈도를 1(낮음)~5(높음) 숫자로 기재합니다."
+      ],
+      "cautions": [
+        "원활한 인수인계에 필요한 내용으로 작성하고 본인 서명을 받습니다(매뉴얼 평가 방식)."
+      ]
+    },
+    {
+      "id": "P11-03",
+      "code": "P.11",
+      "doc_no": "③",
+      "title": "코치 명단",
+      "file": "forms/P/P11_③_코치명단_2026.doc",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P11_③_코치명단_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P11_③_코치명단_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "P11-06",
+      "code": "P.11",
+      "doc_no": "⑥",
+      "title": "이력서 양식",
+      "file": "forms/P/P11_⑥_이력서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P11_⑥_이력서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P11_⑥_이력서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-23",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "담당자 이력서 양식입니다.",
+      "steps": [
+        "증명사진을 붙이고 인적 사항(국문·영문 성명, 주소, 생년월일, 연락처)을 적습니다.",
+        "학력 사항(교육 기관, 학위 종류, 전공)을 적습니다.",
+        "경력 사항(활동 기간, 소속, 직위/직무, 활동 내용)과 자격 사항(자격증명, 취득일)을 적습니다.",
+        "축구 관련 활동·수상 경력 등 기타 활동을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P11-08",
+      "code": "P.11",
+      "doc_no": "⑧",
+      "title": "자격증빙서류 세부 내역서",
+      "file": "forms/P/P11_⑧_자격증빙서류세부내역서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P11_⑧_자격증빙서류세부내역서_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P11_⑧_자격증빙서류세부내역서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "담당자가 낸 자격 증빙서류(학위·자격증·수료증 등)의 세부 내용을 정리하는 양식입니다.",
+      "steps": [
+        "자격증명, 자격증 유형(학위, 자격증, 수료증, 경력증명서, 자격인정서 등), 발급기관명, 발급일자를 적습니다.",
+        "관련 경력과 관련 기술을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P11-09",
+      "code": "P.11",
+      "doc_no": "⑨",
+      "title": "직무명세서 양식",
+      "file": "forms/P/P11_⑨_직무명세서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P11_⑨_직무명세서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P11_⑨_직무명세서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "해당 직책의 역할·책임·주요 업무·자격 요건을 정리하는 직무명세서 양식입니다.",
+      "steps": [
+        "작성자, 부서/직위, 입사일자, 해당 분야 경력을 적습니다.",
+        "직무 개요와 자격 요건 및 소요 능력을 적습니다.",
+        "직무 구분별 세부 작업 내역을 적고 난이도·중요도·빈도를 1(낮음)~5(높음) 숫자로 기재합니다."
+      ],
+      "cautions": [
+        "원활한 인수인계에 필요한 내용으로 작성하고 본인 서명을 받습니다(매뉴얼 평가 방식)."
+      ]
+    },
+    {
+      "id": "P12-04",
+      "code": "P.12",
+      "doc_no": "④",
+      "title": "이력서 양식",
+      "file": "forms/P/P12_④_이력서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P12_④_이력서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P12_④_이력서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-23",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "담당자 이력서 양식입니다.",
+      "steps": [
+        "증명사진을 붙이고 인적 사항(국문·영문 성명, 주소, 생년월일, 연락처)을 적습니다.",
+        "학력 사항(교육 기관, 학위 종류, 전공)을 적습니다.",
+        "경력 사항(활동 기간, 소속, 직위/직무, 활동 내용)과 자격 사항(자격증명, 취득일)을 적습니다.",
+        "축구 관련 활동·수상 경력 등 기타 활동을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P12-07",
+      "code": "P.12",
+      "doc_no": "⑦",
+      "title": "자격증빙서류 세부 내역서",
+      "file": "forms/P/P12_⑦_자격증빙서류세부내역서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P12_⑦_자격증빙서류세부내역서_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P12_⑦_자격증빙서류세부내역서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "담당자가 낸 자격 증빙서류(학위·자격증·수료증 등)의 세부 내용을 정리하는 양식입니다.",
+      "steps": [
+        "자격증명, 자격증 유형(학위, 자격증, 수료증, 경력증명서, 자격인정서 등), 발급기관명, 발급일자를 적습니다.",
+        "관련 경력과 관련 기술을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P12-08",
+      "code": "P.12",
+      "doc_no": "⑧",
+      "title": "직무명세서 양식",
+      "file": "forms/P/P12_⑧_직무명세서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P12_⑧_직무명세서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P12_⑧_직무명세서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "해당 직책의 역할·책임·주요 업무·자격 요건을 정리하는 직무명세서 양식입니다.",
+      "steps": [
+        "작성자, 부서/직위, 입사일자, 해당 분야 경력을 적습니다.",
+        "직무 개요와 자격 요건 및 소요 능력을 적습니다.",
+        "직무 구분별 세부 작업 내역을 적고 난이도·중요도·빈도를 1(낮음)~5(높음) 숫자로 기재합니다."
+      ],
+      "cautions": [
+        "원활한 인수인계에 필요한 내용으로 작성하고 본인 서명을 받습니다(매뉴얼 평가 방식)."
+      ]
+    },
+    {
+      "id": "P13-01",
+      "code": "P.13",
+      "doc_no": "①",
+      "title": "유소년 지도자 전체 명단",
+      "file": "forms/P/P13_①_유소년지도자전체명단_2026.doc",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P13_①_유소년지도자전체명단_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P13_①_유소년지도자전체명단_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "P13-13",
+      "code": "P.13",
+      "doc_no": "⑬",
+      "title": "이력서 양식",
+      "file": "forms/P/P13_⑬_이력서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P13_⑬_이력서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P13_⑬_이력서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-23",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "담당자 이력서 양식입니다.",
+      "steps": [
+        "증명사진을 붙이고 인적 사항(국문·영문 성명, 주소, 생년월일, 연락처)을 적습니다.",
+        "학력 사항(교육 기관, 학위 종류, 전공)을 적습니다.",
+        "경력 사항(활동 기간, 소속, 직위/직무, 활동 내용)과 자격 사항(자격증명, 취득일)을 적습니다.",
+        "축구 관련 활동·수상 경력 등 기타 활동을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P13-15",
+      "code": "P.13",
+      "doc_no": "⑮",
+      "title": "자격증빙서류 세부 내역서",
+      "file": "forms/P/P13_⑮_자격증빙서류세부내역서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P13_⑮_자격증빙서류세부내역서_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P13_⑮_자격증빙서류세부내역서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "담당자가 낸 자격 증빙서류(학위·자격증·수료증 등)의 세부 내용을 정리하는 양식입니다.",
+      "steps": [
+        "자격증명, 자격증 유형(학위, 자격증, 수료증, 경력증명서, 자격인정서 등), 발급기관명, 발급일자를 적습니다.",
+        "관련 경력과 관련 기술을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P13-16",
+      "code": "P.13",
+      "doc_no": "⑯",
+      "title": "직무명세서 양식",
+      "file": "forms/P/P13_⑯_직무명세서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P13_⑯_직무명세서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P13_⑯_직무명세서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "해당 직책의 역할·책임·주요 업무·자격 요건을 정리하는 직무명세서 양식입니다.",
+      "steps": [
+        "작성자, 부서/직위, 입사일자, 해당 분야 경력을 적습니다.",
+        "직무 개요와 자격 요건 및 소요 능력을 적습니다.",
+        "직무 구분별 세부 작업 내역을 적고 난이도·중요도·빈도를 1(낮음)~5(높음) 숫자로 기재합니다."
+      ],
+      "cautions": [
+        "원활한 인수인계에 필요한 내용으로 작성하고 본인 서명을 받습니다(매뉴얼 평가 방식)."
+      ]
+    },
+    {
+      "id": "P14-08",
+      "code": "P.14",
+      "doc_no": "⑧",
+      "title": "홈경기 안전요원 및 안내요원 배치 사진",
+      "file": "forms/P/P14_⑧_홈경기안전요원및안내요원배치사진_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P14_⑧_홈경기안전요원및안내요원배치사진_2026-1.jpg",
+          "forms/P/preview/P14_⑧_홈경기안전요원및안내요원배치사진_2026-2.jpg",
+          "forms/P/preview/P14_⑧_홈경기안전요원및안내요원배치사진_2026-3.jpg",
+          "forms/P/preview/P14_⑧_홈경기안전요원및안내요원배치사진_2026-4.jpg"
+        ],
+        "pdf": "forms/P/preview/P14_⑧_홈경기안전요원및안내요원배치사진_2026.pdf",
+        "pages": 5
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": true,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "P15-01",
+      "code": "P.15",
+      "doc_no": "①",
+      "title": "직무명세서 작성 의무 준수 서약서",
+      "file": "forms/P/P15_①_직무명세서작성의무준수서약서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P15_①_직무명세서작성의무준수서약서_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P15_①_직무명세서작성의무준수서약서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "해당 직책의 역할·책임·주요 업무·자격 요건을 정리하는 직무명세서 양식입니다.",
+      "steps": [
+        "작성자, 부서/직위, 입사일자, 해당 분야 경력을 적습니다.",
+        "직무 개요와 자격 요건 및 소요 능력을 적습니다.",
+        "직무 구분별 세부 작업 내역을 적고 난이도·중요도·빈도를 1(낮음)~5(높음) 숫자로 기재합니다."
+      ],
+      "cautions": [
+        "원활한 인수인계에 필요한 내용으로 작성하고 본인 서명을 받습니다(매뉴얼 평가 방식)."
+      ]
+    },
+    {
+      "id": "P16-01",
+      "code": "P.16",
+      "doc_no": "①",
+      "title": "규정 확인 서약서",
+      "file": "forms/P/P16_①_규정확인서약서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P16_①_규정확인서약서_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P16_①_규정확인서약서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": true,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "P17-04",
+      "code": "P.17",
+      "doc_no": "④",
+      "title": "이력서 양식",
+      "file": "forms/P/P17_④_이력서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P17_④_이력서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P17_④_이력서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "담당자 이력서 양식입니다.",
+      "steps": [
+        "증명사진을 붙이고 인적 사항(국문·영문 성명, 주소, 생년월일, 연락처)을 적습니다.",
+        "학력 사항(교육 기관, 학위 종류, 전공)을 적습니다.",
+        "경력 사항(활동 기간, 소속, 직위/직무, 활동 내용)과 자격 사항(자격증명, 취득일)을 적습니다.",
+        "축구 관련 활동·수상 경력 등 기타 활동을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P17-06",
+      "code": "P.17",
+      "doc_no": "⑥",
+      "title": "자격증빙서류 세부 내역서",
+      "file": "forms/P/P17_⑥_자격증빙서류세부내역서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P17_⑥_자격증빙서류세부내역서_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P17_⑥_자격증빙서류세부내역서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "담당자가 낸 자격 증빙서류(학위·자격증·수료증 등)의 세부 내용을 정리하는 양식입니다.",
+      "steps": [
+        "자격증명, 자격증 유형(학위, 자격증, 수료증, 경력증명서, 자격인정서 등), 발급기관명, 발급일자를 적습니다.",
+        "관련 경력과 관련 기술을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P17-07",
+      "code": "P.17",
+      "doc_no": "⑦",
+      "title": "직무명세서 양식",
+      "file": "forms/P/P17_⑦_직무명세서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P17_⑦_직무명세서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P17_⑦_직무명세서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "해당 직책의 역할·책임·주요 업무·자격 요건을 정리하는 직무명세서 양식입니다.",
+      "steps": [
+        "작성자, 부서/직위, 입사일자, 해당 분야 경력을 적습니다.",
+        "직무 개요와 자격 요건 및 소요 능력을 적습니다.",
+        "직무 구분별 세부 작업 내역을 적고 난이도·중요도·빈도를 1(낮음)~5(높음) 숫자로 기재합니다."
+      ],
+      "cautions": [
+        "원활한 인수인계에 필요한 내용으로 작성하고 본인 서명을 받습니다(매뉴얼 평가 방식)."
+      ]
+    },
+    {
+      "id": "P18-04",
+      "code": "P.18",
+      "doc_no": "④",
+      "title": "이력서 양식",
+      "file": "forms/P/P18_④_이력서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P18_④_이력서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P18_④_이력서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-23",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "담당자 이력서 양식입니다.",
+      "steps": [
+        "증명사진을 붙이고 인적 사항(국문·영문 성명, 주소, 생년월일, 연락처)을 적습니다.",
+        "학력 사항(교육 기관, 학위 종류, 전공)을 적습니다.",
+        "경력 사항(활동 기간, 소속, 직위/직무, 활동 내용)과 자격 사항(자격증명, 취득일)을 적습니다.",
+        "축구 관련 활동·수상 경력 등 기타 활동을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P18-06",
+      "code": "P.18",
+      "doc_no": "⑥",
+      "title": "자격증빙서류 세부 내역서",
+      "file": "forms/P/P18_⑥_자격증빙서류세부내역서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P18_⑥_자격증빙서류세부내역서_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P18_⑥_자격증빙서류세부내역서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "담당자가 낸 자격 증빙서류(학위·자격증·수료증 등)의 세부 내용을 정리하는 양식입니다.",
+      "steps": [
+        "자격증명, 자격증 유형(학위, 자격증, 수료증, 경력증명서, 자격인정서 등), 발급기관명, 발급일자를 적습니다.",
+        "관련 경력과 관련 기술을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P18-07",
+      "code": "P.18",
+      "doc_no": "⑦",
+      "title": "직무명세서 양식",
+      "file": "forms/P/P18_⑦_직무명세서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P18_⑦_직무명세서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P18_⑦_직무명세서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "해당 직책의 역할·책임·주요 업무·자격 요건을 정리하는 직무명세서 양식입니다.",
+      "steps": [
+        "작성자, 부서/직위, 입사일자, 해당 분야 경력을 적습니다.",
+        "직무 개요와 자격 요건 및 소요 능력을 적습니다.",
+        "직무 구분별 세부 작업 내역을 적고 난이도·중요도·빈도를 1(낮음)~5(높음) 숫자로 기재합니다."
+      ],
+      "cautions": [
+        "원활한 인수인계에 필요한 내용으로 작성하고 본인 서명을 받습니다(매뉴얼 평가 방식)."
+      ]
+    },
+    {
+      "id": "P19-04",
+      "code": "P.19",
+      "doc_no": "④",
+      "title": "이력서 양식",
+      "file": "forms/P/P19_④_이력서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P19_④_이력서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P19_④_이력서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-23",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "담당자 이력서 양식입니다.",
+      "steps": [
+        "증명사진을 붙이고 인적 사항(국문·영문 성명, 주소, 생년월일, 연락처)을 적습니다.",
+        "학력 사항(교육 기관, 학위 종류, 전공)을 적습니다.",
+        "경력 사항(활동 기간, 소속, 직위/직무, 활동 내용)과 자격 사항(자격증명, 취득일)을 적습니다.",
+        "축구 관련 활동·수상 경력 등 기타 활동을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P19-06",
+      "code": "P.19",
+      "doc_no": "⑥",
+      "title": "자격증빙서류 세부 내역서",
+      "file": "forms/P/P19_⑥_자격증빙서류세부내역서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P19_⑥_자격증빙서류세부내역서_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P19_⑥_자격증빙서류세부내역서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "담당자가 낸 자격 증빙서류(학위·자격증·수료증 등)의 세부 내용을 정리하는 양식입니다.",
+      "steps": [
+        "자격증명, 자격증 유형(학위, 자격증, 수료증, 경력증명서, 자격인정서 등), 발급기관명, 발급일자를 적습니다.",
+        "관련 경력과 관련 기술을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P19-07",
+      "code": "P.19",
+      "doc_no": "⑦",
+      "title": "직무명세서 양식",
+      "file": "forms/P/P19_⑦_직무명세서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P19_⑦_직무명세서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P19_⑦_직무명세서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "해당 직책의 역할·책임·주요 업무·자격 요건을 정리하는 직무명세서 양식입니다.",
+      "steps": [
+        "작성자, 부서/직위, 입사일자, 해당 분야 경력을 적습니다.",
+        "직무 개요와 자격 요건 및 소요 능력을 적습니다.",
+        "직무 구분별 세부 작업 내역을 적고 난이도·중요도·빈도를 1(낮음)~5(높음) 숫자로 기재합니다."
+      ],
+      "cautions": [
+        "원활한 인수인계에 필요한 내용으로 작성하고 본인 서명을 받습니다(매뉴얼 평가 방식)."
+      ]
+    },
+    {
+      "id": "P20-04",
+      "code": "P.20",
+      "doc_no": "④",
+      "title": "이력서 양식",
+      "file": "forms/P/P20_④_이력서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P20_④_이력서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P20_④_이력서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-23",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "담당자 이력서 양식입니다.",
+      "steps": [
+        "증명사진을 붙이고 인적 사항(국문·영문 성명, 주소, 생년월일, 연락처)을 적습니다.",
+        "학력 사항(교육 기관, 학위 종류, 전공)을 적습니다.",
+        "경력 사항(활동 기간, 소속, 직위/직무, 활동 내용)과 자격 사항(자격증명, 취득일)을 적습니다.",
+        "축구 관련 활동·수상 경력 등 기타 활동을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P20-06",
+      "code": "P.20",
+      "doc_no": "⑥",
+      "title": "자격증빙서류 세부 내역서",
+      "file": "forms/P/P20_⑥_자격증빙서류세부내역서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P20_⑥_자격증빙서류세부내역서_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P20_⑥_자격증빙서류세부내역서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "담당자가 낸 자격 증빙서류(학위·자격증·수료증 등)의 세부 내용을 정리하는 양식입니다.",
+      "steps": [
+        "자격증명, 자격증 유형(학위, 자격증, 수료증, 경력증명서, 자격인정서 등), 발급기관명, 발급일자를 적습니다.",
+        "관련 경력과 관련 기술을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P20-07",
+      "code": "P.20",
+      "doc_no": "⑦",
+      "title": "직무명세서 양식",
+      "file": "forms/P/P20_⑦_직무명세서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P20_⑦_직무명세서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P20_⑦_직무명세서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "해당 직책의 역할·책임·주요 업무·자격 요건을 정리하는 직무명세서 양식입니다.",
+      "steps": [
+        "작성자, 부서/직위, 입사일자, 해당 분야 경력을 적습니다.",
+        "직무 개요와 자격 요건 및 소요 능력을 적습니다.",
+        "직무 구분별 세부 작업 내역을 적고 난이도·중요도·빈도를 1(낮음)~5(높음) 숫자로 기재합니다."
+      ],
+      "cautions": [
+        "원활한 인수인계에 필요한 내용으로 작성하고 본인 서명을 받습니다(매뉴얼 평가 방식)."
+      ]
+    },
+    {
+      "id": "P21-02",
+      "code": "P.21",
+      "doc_no": "②",
+      "title": "유소년팀 전담 GK코치 명단",
+      "file": "forms/P/P21_②_유소년팀전담GK코치명단_2026.doc",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P21_②_유소년팀전담GK코치명단_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P21_②_유소년팀전담GK코치명단_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "P21-06",
+      "code": "P.21",
+      "doc_no": "⑥",
+      "title": "이력서 양식",
+      "file": "forms/P/P21_⑥_이력서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P21_⑥_이력서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P21_⑥_이력서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-23",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "담당자 이력서 양식입니다.",
+      "steps": [
+        "증명사진을 붙이고 인적 사항(국문·영문 성명, 주소, 생년월일, 연락처)을 적습니다.",
+        "학력 사항(교육 기관, 학위 종류, 전공)을 적습니다.",
+        "경력 사항(활동 기간, 소속, 직위/직무, 활동 내용)과 자격 사항(자격증명, 취득일)을 적습니다.",
+        "축구 관련 활동·수상 경력 등 기타 활동을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P21-08",
+      "code": "P.21",
+      "doc_no": "⑧",
+      "title": "자격증빙서류 세부 내역서",
+      "file": "forms/P/P21_⑧_자격증빙서류세부내역서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P21_⑧_자격증빙서류세부내역서_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P21_⑧_자격증빙서류세부내역서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "담당자가 낸 자격 증빙서류(학위·자격증·수료증 등)의 세부 내용을 정리하는 양식입니다.",
+      "steps": [
+        "자격증명, 자격증 유형(학위, 자격증, 수료증, 경력증명서, 자격인정서 등), 발급기관명, 발급일자를 적습니다.",
+        "관련 경력과 관련 기술을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P21-09",
+      "code": "P.21",
+      "doc_no": "⑨",
+      "title": "직무명세서 양식",
+      "file": "forms/P/P21_⑨_직무명세서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P21_⑨_직무명세서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P21_⑨_직무명세서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "해당 직책의 역할·책임·주요 업무·자격 요건을 정리하는 직무명세서 양식입니다.",
+      "steps": [
+        "작성자, 부서/직위, 입사일자, 해당 분야 경력을 적습니다.",
+        "직무 개요와 자격 요건 및 소요 능력을 적습니다.",
+        "직무 구분별 세부 작업 내역을 적고 난이도·중요도·빈도를 1(낮음)~5(높음) 숫자로 기재합니다."
+      ],
+      "cautions": [
+        "원활한 인수인계에 필요한 내용으로 작성하고 본인 서명을 받습니다(매뉴얼 평가 방식)."
+      ]
+    },
+    {
+      "id": "P22-03",
+      "code": "P.22",
+      "doc_no": "③",
+      "title": "이력서 양식",
+      "file": "forms/P/P22_③_이력서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P22_③_이력서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P22_③_이력서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "담당자 이력서 양식입니다.",
+      "steps": [
+        "증명사진을 붙이고 인적 사항(국문·영문 성명, 주소, 생년월일, 연락처)을 적습니다.",
+        "학력 사항(교육 기관, 학위 종류, 전공)을 적습니다.",
+        "경력 사항(활동 기간, 소속, 직위/직무, 활동 내용)과 자격 사항(자격증명, 취득일)을 적습니다.",
+        "축구 관련 활동·수상 경력 등 기타 활동을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P22-05",
+      "code": "P.22",
+      "doc_no": "⑤",
+      "title": "자격증빙서류 세부 내역서",
+      "file": "forms/P/P22_⑤_자격증빙서류세부내역서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P22_⑤_자격증빙서류세부내역서_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P22_⑤_자격증빙서류세부내역서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "담당자가 낸 자격 증빙서류(학위·자격증·수료증 등)의 세부 내용을 정리하는 양식입니다.",
+      "steps": [
+        "자격증명, 자격증 유형(학위, 자격증, 수료증, 경력증명서, 자격인정서 등), 발급기관명, 발급일자를 적습니다.",
+        "관련 경력과 관련 기술을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P22-06",
+      "code": "P.22",
+      "doc_no": "⑥",
+      "title": "직무명세서 양식",
+      "file": "forms/P/P22_⑥_직무명세서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P22_⑥_직무명세서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P22_⑥_직무명세서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "해당 직책의 역할·책임·주요 업무·자격 요건을 정리하는 직무명세서 양식입니다.",
+      "steps": [
+        "작성자, 부서/직위, 입사일자, 해당 분야 경력을 적습니다.",
+        "직무 개요와 자격 요건 및 소요 능력을 적습니다.",
+        "직무 구분별 세부 작업 내역을 적고 난이도·중요도·빈도를 1(낮음)~5(높음) 숫자로 기재합니다."
+      ],
+      "cautions": [
+        "원활한 인수인계에 필요한 내용으로 작성하고 본인 서명을 받습니다(매뉴얼 평가 방식)."
+      ]
+    },
+    {
+      "id": "P23-03",
+      "code": "P.23",
+      "doc_no": "③",
+      "title": "이력서 양식",
+      "file": "forms/P/P23_③_이력서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P23_③_이력서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P23_③_이력서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "담당자 이력서 양식입니다.",
+      "steps": [
+        "증명사진을 붙이고 인적 사항(국문·영문 성명, 주소, 생년월일, 연락처)을 적습니다.",
+        "학력 사항(교육 기관, 학위 종류, 전공)을 적습니다.",
+        "경력 사항(활동 기간, 소속, 직위/직무, 활동 내용)과 자격 사항(자격증명, 취득일)을 적습니다.",
+        "축구 관련 활동·수상 경력 등 기타 활동을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P23-05",
+      "code": "P.23",
+      "doc_no": "⑤",
+      "title": "자격증빙서류 세부 내역서",
+      "file": "forms/P/P23_⑤_자격증빙서류세부내역서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P23_⑤_자격증빙서류세부내역서_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P23_⑤_자격증빙서류세부내역서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "담당자가 낸 자격 증빙서류(학위·자격증·수료증 등)의 세부 내용을 정리하는 양식입니다.",
+      "steps": [
+        "자격증명, 자격증 유형(학위, 자격증, 수료증, 경력증명서, 자격인정서 등), 발급기관명, 발급일자를 적습니다.",
+        "관련 경력과 관련 기술을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P23-06",
+      "code": "P.23",
+      "doc_no": "⑥",
+      "title": "직무명세서 양식",
+      "file": "forms/P/P23_⑥_직무명세서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P23_⑥_직무명세서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P23_⑥_직무명세서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "해당 직책의 역할·책임·주요 업무·자격 요건을 정리하는 직무명세서 양식입니다.",
+      "steps": [
+        "작성자, 부서/직위, 입사일자, 해당 분야 경력을 적습니다.",
+        "직무 개요와 자격 요건 및 소요 능력을 적습니다.",
+        "직무 구분별 세부 작업 내역을 적고 난이도·중요도·빈도를 1(낮음)~5(높음) 숫자로 기재합니다."
+      ],
+      "cautions": [
+        "원활한 인수인계에 필요한 내용으로 작성하고 본인 서명을 받습니다(매뉴얼 평가 방식)."
+      ]
+    },
+    {
+      "id": "P24-03",
+      "code": "P.24",
+      "doc_no": "③",
+      "title": "이력서 양식",
+      "file": "forms/P/P24_③_이력서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P24_③_이력서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P24_③_이력서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "담당자 이력서 양식입니다.",
+      "steps": [
+        "증명사진을 붙이고 인적 사항(국문·영문 성명, 주소, 생년월일, 연락처)을 적습니다.",
+        "학력 사항(교육 기관, 학위 종류, 전공)을 적습니다.",
+        "경력 사항(활동 기간, 소속, 직위/직무, 활동 내용)과 자격 사항(자격증명, 취득일)을 적습니다.",
+        "축구 관련 활동·수상 경력 등 기타 활동을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P24-05",
+      "code": "P.24",
+      "doc_no": "⑤",
+      "title": "자격증빙서류 세부 내역서",
+      "file": "forms/P/P24_⑤_자격증빙서류세부내역서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P24_⑤_자격증빙서류세부내역서_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P24_⑤_자격증빙서류세부내역서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "담당자가 낸 자격 증빙서류(학위·자격증·수료증 등)의 세부 내용을 정리하는 양식입니다.",
+      "steps": [
+        "자격증명, 자격증 유형(학위, 자격증, 수료증, 경력증명서, 자격인정서 등), 발급기관명, 발급일자를 적습니다.",
+        "관련 경력과 관련 기술을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P24-06",
+      "code": "P.24",
+      "doc_no": "⑥",
+      "title": "직무명세서 양식",
+      "file": "forms/P/P24_⑥_직무명세서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P24_⑥_직무명세서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P24_⑥_직무명세서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "해당 직책의 역할·책임·주요 업무·자격 요건을 정리하는 직무명세서 양식입니다.",
+      "steps": [
+        "작성자, 부서/직위, 입사일자, 해당 분야 경력을 적습니다.",
+        "직무 개요와 자격 요건 및 소요 능력을 적습니다.",
+        "직무 구분별 세부 작업 내역을 적고 난이도·중요도·빈도를 1(낮음)~5(높음) 숫자로 기재합니다."
+      ],
+      "cautions": [
+        "원활한 인수인계에 필요한 내용으로 작성하고 본인 서명을 받습니다(매뉴얼 평가 방식)."
+      ]
+    },
+    {
+      "id": "P25-03",
+      "code": "P.25",
+      "doc_no": "③",
+      "title": "이력서 양식",
+      "file": "forms/P/P25_③_이력서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P25_③_이력서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P25_③_이력서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "담당자 이력서 양식입니다.",
+      "steps": [
+        "증명사진을 붙이고 인적 사항(국문·영문 성명, 주소, 생년월일, 연락처)을 적습니다.",
+        "학력 사항(교육 기관, 학위 종류, 전공)을 적습니다.",
+        "경력 사항(활동 기간, 소속, 직위/직무, 활동 내용)과 자격 사항(자격증명, 취득일)을 적습니다.",
+        "축구 관련 활동·수상 경력 등 기타 활동을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P25-05",
+      "code": "P.25",
+      "doc_no": "⑤",
+      "title": "자격증빙서류 세부 내역서",
+      "file": "forms/P/P25_⑤_자격증빙서류세부내역서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P25_⑤_자격증빙서류세부내역서_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P25_⑤_자격증빙서류세부내역서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "담당자가 낸 자격 증빙서류(학위·자격증·수료증 등)의 세부 내용을 정리하는 양식입니다.",
+      "steps": [
+        "자격증명, 자격증 유형(학위, 자격증, 수료증, 경력증명서, 자격인정서 등), 발급기관명, 발급일자를 적습니다.",
+        "관련 경력과 관련 기술을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P25-06",
+      "code": "P.25",
+      "doc_no": "⑥",
+      "title": "직무명세서 양식",
+      "file": "forms/P/P25_⑥_직무명세서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P25_⑥_직무명세서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P25_⑥_직무명세서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "해당 직책의 역할·책임·주요 업무·자격 요건을 정리하는 직무명세서 양식입니다.",
+      "steps": [
+        "작성자, 부서/직위, 입사일자, 해당 분야 경력을 적습니다.",
+        "직무 개요와 자격 요건 및 소요 능력을 적습니다.",
+        "직무 구분별 세부 작업 내역을 적고 난이도·중요도·빈도를 1(낮음)~5(높음) 숫자로 기재합니다."
+      ],
+      "cautions": [
+        "원활한 인수인계에 필요한 내용으로 작성하고 본인 서명을 받습니다(매뉴얼 평가 방식)."
+      ]
+    },
+    {
+      "id": "P26-03",
+      "code": "P.26",
+      "doc_no": "③",
+      "title": "이력서 양식",
+      "file": "forms/P/P26_③_이력서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P26_③_이력서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P26_③_이력서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "담당자 이력서 양식입니다.",
+      "steps": [
+        "증명사진을 붙이고 인적 사항(국문·영문 성명, 주소, 생년월일, 연락처)을 적습니다.",
+        "학력 사항(교육 기관, 학위 종류, 전공)을 적습니다.",
+        "경력 사항(활동 기간, 소속, 직위/직무, 활동 내용)과 자격 사항(자격증명, 취득일)을 적습니다.",
+        "축구 관련 활동·수상 경력 등 기타 활동을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P26-05",
+      "code": "P.26",
+      "doc_no": "⑤",
+      "title": "자격증빙서류 세부 내역서",
+      "file": "forms/P/P26_⑤_자격증빙서류세부내역서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P26_⑤_자격증빙서류세부내역서_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P26_⑤_자격증빙서류세부내역서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-25",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "담당자가 낸 자격 증빙서류(학위·자격증·수료증 등)의 세부 내용을 정리하는 양식입니다.",
+      "steps": [
+        "자격증명, 자격증 유형(학위, 자격증, 수료증, 경력증명서, 자격인정서 등), 발급기관명, 발급일자를 적습니다.",
+        "관련 경력과 관련 기술을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "P26-06",
+      "code": "P.26",
+      "doc_no": "⑥",
+      "title": "직무명세서 양식",
+      "file": "forms/P/P26_⑥_직무명세서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/P/preview/P26_⑥_직무명세서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/P/preview/P26_⑥_직무명세서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-24",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "해당 직책의 역할·책임·주요 업무·자격 요건을 정리하는 직무명세서 양식입니다.",
+      "steps": [
+        "작성자, 부서/직위, 입사일자, 해당 분야 경력을 적습니다.",
+        "직무 개요와 자격 요건 및 소요 능력을 적습니다.",
+        "직무 구분별 세부 작업 내역을 적고 난이도·중요도·빈도를 1(낮음)~5(높음) 숫자로 기재합니다."
+      ],
+      "cautions": [
+        "원활한 인수인계에 필요한 내용으로 작성하고 본인 서명을 받습니다(매뉴얼 평가 방식)."
+      ]
+    },
+    {
+      "id": "R01-02",
+      "code": "R.01",
+      "doc_no": "②",
+      "title": "인종차별 금지 서약서",
+      "file": "forms/R/R01_②_인종차별금지서약서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/R/preview/R01_②_인종차별금지서약서_2026-1.jpg",
+          "forms/R/preview/R01_②_인종차별금지서약서_2026-2.jpg"
+        ],
+        "pdf": "forms/R/preview/R01_②_인종차별금지서약서_2026.pdf",
+        "pages": 2
+      },
+      "updated": "2026-03-03",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "R02-01",
+      "code": "R.02",
+      "doc_no": "①",
+      "title": "연간 저변확대(보급반) 프로그램 일정",
+      "file": "forms/R/R02_①_연간저변확대(보급반)프로그램일정_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/R/preview/R02_①_연간저변확대(보급반)프로그램일정_2026.sheets.json"
+      },
+      "updated": "2026-03-03",
+      "self_form_allowed": true,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "R02-02",
+      "code": "R.02",
+      "doc_no": "②",
+      "title": "행사결과보고서",
+      "file": "forms/R/R02_②_행사결과보고서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/R/preview/R02_②_행사결과보고서_2026-1.jpg",
+          "forms/R/preview/R02_②_행사결과보고서_2026-2.jpg"
+        ],
+        "pdf": "forms/R/preview/R02_②_행사결과보고서_2026.pdf",
+        "pages": 2
+      },
+      "updated": "2026-03-03",
+      "self_form_allowed": true,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "R03-01",
+      "code": "R.03",
+      "doc_no": "①",
+      "title": "연간 사회공헌활동 프로그램 일정",
+      "file": "forms/R/R03_①_연간사회공헌활동프로그램일정_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/R/preview/R03_①_연간사회공헌활동프로그램일정_2026.sheets.json"
+      },
+      "updated": "2026-03-03",
+      "self_form_allowed": true,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "R03-02",
+      "code": "R.03",
+      "doc_no": "②",
+      "title": "행사결과보고서",
+      "file": "forms/R/R03_②_행사결과보고서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/R/preview/R03_②_행사결과보고서_2026-1.jpg",
+          "forms/R/preview/R03_②_행사결과보고서_2026-2.jpg"
+        ],
+        "pdf": "forms/R/preview/R03_②_행사결과보고서_2026.pdf",
+        "pages": 2
+      },
+      "updated": "2026-03-03",
+      "self_form_allowed": true,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "R04-03",
+      "code": "R.04",
+      "doc_no": "③",
+      "title": "행사결과보고서",
+      "file": "forms/R/R04_③_행사결과보고서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/R/preview/R04_③_행사결과보고서_2026-1.jpg",
+          "forms/R/preview/R04_③_행사결과보고서_2026-2.jpg"
+        ],
+        "pdf": "forms/R/preview/R04_③_행사결과보고서_2026.pdf",
+        "pages": 2
+      },
+      "updated": "2026-03-03",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "R05-01",
+      "code": "R.05",
+      "doc_no": "①",
+      "title": "탄소 중립 서약서 제출",
+      "file": "forms/R/R05_①_탄소중립서약서제출_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/R/preview/R05_①_탄소중립서약서제출_2026-1.jpg"
+        ],
+        "pdf": "forms/R/preview/R05_①_탄소중립서약서제출_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-03-03",
+      "self_form_allowed": false,
+      "explain_status": "작성 예정",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "R05-ref",
+      "code": "R.05",
+      "doc_no": "",
+      "title": "K리그 온실가스 데이터 수집 가이드라인",
+      "file": "forms/R/R05_참고_K리그온실가스데이터수집가이드라인.pdf",
+      "ref": true,
+      "preview": "",
+      "updated": "2026-03-03",
+      "self_form_allowed": false,
+      "explain_status": "",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "R05-ref-2",
+      "code": "R.05",
+      "doc_no": "",
+      "title": "carbonscope_사용자매뉴얼",
+      "file": "forms/R/R05_참고_carbonscope사용자매뉴얼.pdf",
+      "ref": true,
+      "preview": "",
+      "updated": "2026-03-03",
+      "self_form_allowed": false,
+      "explain_status": "",
+      "description": "",
+      "steps": [],
+      "cautions": []
+    },
+    {
+      "id": "S01-01",
+      "code": "S.01",
+      "doc_no": "①",
+      "title": "클럽의 목표, 경기 철학 및 추구하는 플레잉 스타일",
+      "file": "forms/S/S01_①_클럽의목표경기철학및추구하는플레잉스타일_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/S/preview/S01_①_클럽의목표경기철학및추구하는플레잉스타일_2026-1.jpg",
+          "forms/S/preview/S01_①_클럽의목표경기철학및추구하는플레잉스타일_2026-2.jpg",
+          "forms/S/preview/S01_①_클럽의목표경기철학및추구하는플레잉스타일_2026-3.jpg"
+        ],
+        "pdf": "forms/S/preview/S01_①_클럽의목표경기철학및추구하는플레잉스타일_2026.pdf",
+        "pages": 3
+      },
+      "updated": "2021-05-03",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "구단의 비전·미션, 클럽 철학, 클럽 플레잉 스타일을 정리하는 PPT 양식입니다(3장).",
+      "steps": [
+        "1장 '클럽 비전 & 미션'에 구단의 비전과 미션을 적습니다.",
+        "2장 '클럽 철학'에 구단이 추구하는 철학과 가치를 적습니다.",
+        "3장 '클럽 플레잉 스타일'에 철학을 반영한 플레잉 스타일을 문장으로 정의합니다."
+      ],
+      "cautions": [
+        "매뉴얼 평가 방식: 비전·미션·철학·목표·가치와 이를 반영한 '명문화된' 플레잉 스타일 정의가 있어야 합니다."
+      ]
+    },
+    {
+      "id": "S01-02",
+      "code": "S.01",
+      "doc_no": "②",
+      "title": "유소년 육성 목표 및 철학",
+      "file": "forms/S/S01_②_유소년육성목표및철학_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/S/preview/S01_②_유소년육성목표및철학_2026-1.jpg",
+          "forms/S/preview/S01_②_유소년육성목표및철학_2026-2.jpg"
+        ],
+        "pdf": "forms/S/preview/S01_②_유소년육성목표및철학_2026.pdf",
+        "pages": 2
+      },
+      "updated": "2021-05-03",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "유소년 육성 목표와 육성 철학을 정리하는 PPT 양식입니다(2장).",
+      "steps": [
+        "1장 '유소년 육성 목표'를 작성합니다.",
+        "2장 '유소년 육성 철학'을 작성합니다."
+      ],
+      "cautions": [
+        "매뉴얼 평가 방식: 유소년 훈련·교육 프로그램의 근간이 되는 기본 개념이 드러나야 합니다."
+      ]
+    },
+    {
+      "id": "S01-03",
+      "code": "S.01",
+      "doc_no": "③",
+      "title": "유소년 육성 부분 조직도",
+      "file": "forms/S/S01_③_유소년육성부분조직도_2026.doc",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/S/preview/S01_③_유소년육성부분조직도_2026-1.jpg"
+        ],
+        "pdf": "forms/S/preview/S01_③_유소년육성부분조직도_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-10",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "유스 아카데미 조직 구성(디렉터·담당자·연령별 감독/코치)과 스태프 명단·자격증을 적는 조직도 양식입니다.",
+      "steps": [
+        "상단 빈칸에 구단명을 적습니다.",
+        "유스 아카데미 디렉터와 담당자 성명, 연령별 팀 감독·코치를 조직도에 채웁니다.",
+        "아래 '유스 아카데미 스태프' 표에 직책·성명·자격증을 적습니다."
+      ],
+      "cautions": [
+        "매뉴얼 평가 방식: 지도자·지원스태프·행정담당자까지 인적자원 구성이 보여야 합니다.",
+        "양식의 조직도 칸에 'U-20 팀'으로 적힌 칸이 있습니다. 구단의 실제 연령대(U-12 등)에 맞게 고쳐 쓰세요."
+      ]
+    },
+    {
+      "id": "S01-04",
+      "code": "S.01",
+      "doc_no": "④",
+      "title": "유소년 육성 관련 인적자원 구성 현황",
+      "file": "forms/S/S01_④_유소년육성관련인적자원구성현황_2026.xls",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/S/preview/S01_④_유소년육성관련인적자원구성현황_2026.sheets.json"
+      },
+      "updated": "2026-02-10",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "유소년 선수단 코칭스태프·팀스태프 명단 엑셀 양식입니다.",
+      "steps": [
+        "상단에 구단명과 스태프 수를 적습니다.",
+        "한 줄에 한 명씩 팀(U10/12/15/18)·직책·영문명·국문명·생년월일·자격증·계약일자를 적습니다."
+      ],
+      "cautions": [
+        "매뉴얼 평가 방식: 적절한 자격을 갖춘 유소년 지도자 및 지원스태프 명단이어야 합니다."
+      ]
+    },
+    {
+      "id": "S01-05",
+      "code": "S.01",
+      "doc_no": "⑤",
+      "title": "이용 가능한 유소년 육성 훈련시설 현황",
+      "file": "forms/S/S01_⑤_이용가능한유소년육성훈련시설현황_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/S/preview/S01_⑤_이용가능한유소년육성훈련시설현황_2026.sheets.json"
+      },
+      "updated": "2026-02-10",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "연령별 유스팀이 쓰는 훈련장·공식경기장·실내훈련장 현황을 적는 엑셀 양식입니다.",
+      "steps": [
+        "U10·U12·U15·U18 행마다 팀명과 훈련구장 정보(주소·구장 수·잔디 종류·규격·조명·소유주 등)를 적습니다.",
+        "같은 방식으로 공식경기장, 실내훈련장/체력단련장 표를 채웁니다.",
+        "잔디 종류·규격·지면상태 등은 목록에서 고릅니다(Sheet2의 선택값)."
+      ],
+      "cautions": [
+        "매뉴얼 평가 방식: 훈련구장·경기장·체육관 등 유소년 육성용 훈련시설 현황이 드러나야 합니다."
+      ]
+    },
+    {
+      "id": "S01-07",
+      "code": "S.01",
+      "doc_no": "⑦",
+      "title": "연령대별 추구하는 플레잉 스타일과 4개 훈련 영역",
+      "file": "forms/S/S01_⑦_연령대별추구하는플레잉스타일과4개훈련영역_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/S/preview/S01_⑦_연령대별추구하는플레잉스타일과4개훈련영역_2026-1.jpg",
+          "forms/S/preview/S01_⑦_연령대별추구하는플레잉스타일과4개훈련영역_2026-2.jpg",
+          "forms/S/preview/S01_⑦_연령대별추구하는플레잉스타일과4개훈련영역_2026-3.jpg"
+        ],
+        "pdf": "forms/S/preview/S01_⑦_연령대별추구하는플레잉스타일과4개훈련영역_2026.pdf",
+        "pages": 3
+      },
+      "updated": "2021-05-03",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "연령대별 유소년팀의 경기 스타일과 4대 훈련 영역(기술·전술·체력·멘탈)별 목표·훈련 프로그램을 적는 PPT 양식입니다(3장).",
+      "steps": [
+        "1장에 연령대별로 추구하는 경기 스타일을 적습니다.",
+        "2장에 4대 훈련 영역별 연령대 훈련 목표를 적습니다.",
+        "3장에 4대 훈련 영역별 연령별 훈련 프로그램을 적습니다."
+      ],
+      "cautions": [
+        "매뉴얼 평가 방식: 연령대별 중점 교육 목표가 정해져 있어야 합니다.",
+        "양식 머리글 번호가 'No.6'으로 되어 있지만 매뉴얼 서류 번호는 ⑦입니다."
+      ]
+    },
+    {
+      "id": "S01-08",
+      "code": "S.01",
+      "doc_no": "⑧",
+      "title": "훈련 및 경기프로그램",
+      "file": "forms/S/S01_⑧_훈련및경기프로그램_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/S/preview/S01_⑧_훈련및경기프로그램_2026-1.jpg"
+        ],
+        "pdf": "forms/S/preview/S01_⑧_훈련및경기프로그램_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2021-05-03",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "구단 철학·플레잉 스타일을 구현하기 위한 연령대별 훈련·경기 프로그램(표준 훈련 교안)을 적는 PPT 양식입니다.",
+      "steps": [
+        "구단의 연령대별 중점 교육 및 훈련 프로그램을 적습니다.",
+        "프로팀 플레잉 스타일과 이어지는 유소년 팀 훈련의 연계성과 구체적 훈련 방식을 적습니다."
+      ],
+      "cautions": [
+        "양식 머리글 번호가 'No.7'로 되어 있지만 매뉴얼 서류 번호는 ⑧입니다."
+      ]
+    },
+    {
+      "id": "S01-09",
+      "code": "S.01",
+      "doc_no": "⑨",
+      "title": "선수단 축구 교육 프로그램",
+      "file": "forms/S/S01_⑨_선수단축구교육프로그램_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/S/preview/S01_⑨_선수단축구교육프로그램_2026-1.jpg"
+        ],
+        "pdf": "forms/S/preview/S01_⑨_선수단축구교육프로그램_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2021-05-03",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "유소년 선수단 대상 축구 교육(경기규칙·도핑방지·부정방지·인종차별금지 등) 실시 내용을 정리하는 PPT 양식입니다.",
+      "steps": [
+        "행사명·행사일자·참석대상·참석인원·교육목표를 적습니다.",
+        "행사 사진을 넣습니다."
+      ],
+      "cautions": [
+        "매뉴얼 평가 방식: 선수로서 자질에 필요한 기본 교육이어야 합니다."
+      ]
+    },
+    {
+      "id": "S01-10",
+      "code": "S.01",
+      "doc_no": "⑩",
+      "title": "학업 지원 프로그램",
+      "file": "forms/S/S01_⑩_학업지원프로그램_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/S/preview/S01_⑩_학업지원프로그램_2026-1.jpg"
+        ],
+        "pdf": "forms/S/preview/S01_⑩_학업지원프로그램_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2021-05-03",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "유소년 선수의 학업능력 향상·진로개발을 위한 교육 지원 프로그램을 정리하는 PPT 양식입니다.",
+      "steps": [
+        "행사명·행사일자·참석대상·참석인원·교육목표를 적습니다.",
+        "행사 사진을 넣습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "S01-11",
+      "code": "S.01",
+      "doc_no": "⑪",
+      "title": "학습권 보장 서약서",
+      "file": "forms/S/S01_⑪_학습권보장서약서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/S/preview/S01_⑪_학습권보장서약서_2026-1.jpg"
+        ],
+        "pdf": "forms/S/preview/S01_⑪_학습권보장서약서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-10",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "유소년 선수의 의무교육 학습권을 보장한다는 구단 서약서(의무교육 이수 보증)입니다.",
+      "steps": [
+        "본문 '(구단명)'에 구단명을 적습니다.",
+        "날짜(YYYY/MM/DD)를 적고 구단 대표자 서명과 구단 직인을 받습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "S01-12",
+      "code": "S.01",
+      "doc_no": "⑫",
+      "title": "유소년선수 의료서비스 지원 현황",
+      "file": "forms/S/S01_⑫_유소년선수의료서비스지원현황_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/S/preview/S01_⑫_유소년선수의료서비스지원현황_2026.sheets.json"
+      },
+      "updated": "2026-02-10",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "연령별 유소년팀(U-10~U-18)의 의료 담당자, 메디컬 스태프 수, 건강검진·교육·보험 등 의료지원 여부를 체크하는 엑셀 양식입니다.",
+      "steps": [
+        "구단명과 유소년팀 담당자명을 적습니다.",
+        "팀별 의료 담당자명과 메디컬 스태프 수(의사·물리치료사·선수트레이너·피트니스코치)를 숫자로 적습니다.",
+        "나머지 항목은 Yes/No로 고릅니다."
+      ],
+      "cautions": [
+        "연간건강검진은 U-12팀 이상 의무 실시 항목입니다(양식 안내 문구).",
+        "양식의 '영영관리 교육' 항목은 '영양관리 교육'의 오기로 보입니다."
+      ]
+    },
+    {
+      "id": "S01-15",
+      "code": "S.01",
+      "doc_no": "⑮",
+      "title": "전년도 유스 교육훈련 프로그램 결과 보고서",
+      "file": "forms/S/S01_⑮_전년도유스교육훈련프로그램결과보고서_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/S/preview/S01_⑮_전년도유스교육훈련프로그램결과보고서_2026.sheets.json"
+      },
+      "updated": "2026-02-10",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "전년도 연령별 유소년팀 실적(대회 수·성적·상급팀 승진·1군 내 U-18 출신 등)을 적는 결과 보고서 엑셀 양식입니다.",
+      "steps": [
+        "구단명과 유소년팀 담당자명을 적습니다.",
+        "U-10~U-18 열마다 전년도 참가대회 수, 출전경기 수, 등록선수 수, 최고 성적을 적습니다.",
+        "최상급학년 등록선수 수와 상급팀 승진선수 수를 적고 승진률(승진 선수 ÷ 최상급학년 등록 선수)을 계산합니다.",
+        "금년도 1군 내 U-18 출신 선수 수와 비율을 적습니다."
+      ],
+      "cautions": [
+        "매뉴얼 평가 방식: 주요 대회 결과, 목표 달성률, 상급팀 진학, 프로계약 현황 등이 포함되어야 합니다."
+      ]
+    },
+    {
+      "id": "S01-17",
+      "code": "S.01",
+      "doc_no": "⑰",
+      "title": "선수 육성 프로그램에 대한 구단 내부 승인 확인서",
+      "file": "forms/S/S01_⑰_선수육성프로그램에대한구단내부승인확인서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/S/preview/S01_⑰_선수육성프로그램에대한구단내부승인확인서_2026-1.jpg",
+          "forms/S/preview/S01_⑰_선수육성프로그램에대한구단내부승인확인서_2026-2.jpg"
+        ],
+        "pdf": "forms/S/preview/S01_⑰_선수육성프로그램에대한구단내부승인확인서_2026.pdf",
+        "pages": 2
+      },
+      "updated": "2026-02-10",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "구단의 선수 육성 프로그램이 승인되었음을 확인하는 문서(Approved Youth Development Program)입니다. 서론, 프로그램 포함 항목, 유효기간, 승인란으로 구성됩니다.",
+      "steps": [
+        "빈칸(___ 축구단)에 구단명을 적습니다.",
+        "'3. 프로그램 유효 기간'의 시작일과 기간을 구단 프로그램에 맞게 확인·수정합니다(양식에는 '2026년 1월 1일부터 3년간'으로 적혀 있음).",
+        "마지막 '승인'란에 아카데미 디렉터 서명·성명·날짜·장소를 적습니다."
+      ],
+      "cautions": [
+        "매뉴얼 평가 방식: 중장기 선수 육성 사업계획 수립과 내부 의사결정기구 승인 여부를 봅니다.",
+        "프로그램 유효기간은 최소 3년~최대 7년입니다(매뉴얼 S.01)."
+      ]
+    },
+    {
+      "id": "S02-02",
+      "code": "S.02",
+      "doc_no": "②",
+      "title": "연령대별 팀 구성 현황 및 유소년 선수의 육성경로",
+      "file": "forms/S/S02_②_연령대별팀구성현황및유소년선수의육성경로_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/S/preview/S02_②_연령대별팀구성현황및유소년선수의육성경로_2026-1.jpg"
+        ],
+        "pdf": "forms/S/preview/S02_②_연령대별팀구성현황및유소년선수의육성경로_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2021-05-06",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "연령대별 팀 구성과 유소년 선수가 프로선수가 되기까지의 육성 경로·진로를 그림으로 정리하는 PPT 양식입니다.",
+      "steps": [
+        "연령대별 팀 구성 현황을 넣습니다.",
+        "유스팀 → 프로까지의 육성 경로를 도식으로 그립니다."
+      ],
+      "cautions": [
+        "매뉴얼 평가 방식: 유스팀부터 프로선수가 되기까지의 과정을 이미지화해야 합니다.",
+        "양식 머리글이 'S.01'로 되어 있지만 S.02 서류입니다."
+      ]
+    },
+    {
+      "id": "S02-03",
+      "code": "S.02",
+      "doc_no": "③",
+      "title": "구단 유소년팀 운영 현황",
+      "file": "forms/S/S02_③_구단유소년팀운영현황_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/S/preview/S02_③_구단유소년팀운영현황_2026.sheets.json"
+      },
+      "updated": "2026-02-10",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "연령별 유소년팀의 팀 수, 소유권 형태, 시설, 예산, 선수 관리, 전담 인력 현황을 적는 엑셀 양식입니다.",
+      "steps": [
+        "구단명과 유소년팀 담당자명을 적습니다.",
+        "U-10~U-18 열마다 팀 숫자와 팀 소유권(구단직영/학원팀 협약 등)을 적습니다.",
+        "사용 가능한 구장·실내훈련장·체력단련시설 숫자와 시설투자 금액(원)을 적습니다.",
+        "선수 개별 모니터링 항목은 Yes/No, 예산 출처별 금액과 전담 인력 수를 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "S02-16",
+      "code": "S.02",
+      "doc_no": "⑯",
+      "title": "연령대별 유소년팀 대회참가 현황",
+      "file": "forms/S/S02_⑯_연령대별유소년팀대회참가현황_2026.doc",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/S/preview/S02_⑯_연령대별유소년팀대회참가현황_2026-1.jpg",
+          "forms/S/preview/S02_⑯_연령대별유소년팀대회참가현황_2026-2.jpg",
+          "forms/S/preview/S02_⑯_연령대별유소년팀대회참가현황_2026-3.jpg"
+        ],
+        "pdf": "forms/S/preview/S02_⑯_연령대별유소년팀대회참가현황_2026.pdf",
+        "pages": 3
+      },
+      "updated": "2026-02-10",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "연령별 유소년팀의 2025 참가대회와 2026 참가예정대회를 적는 양식입니다.",
+      "steps": [
+        "연령대(U-12, U-15, U-18)마다 대회명·대회기간·개최지를 적습니다.",
+        "대회참가 사진을 넣습니다."
+      ],
+      "cautions": [
+        "U-10은 제외입니다(매뉴얼 평가 방식)."
+      ]
+    },
+    {
+      "id": "S03-01",
+      "code": "S.03",
+      "doc_no": "①",
+      "title": "본인 및 팀 의료담당자의 검사결과 확인 서명",
+      "file": "forms/S/S03_①_본인및팀의료담당자의검사결과확인서명_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/S/preview/S03_①_본인및팀의료담당자의검사결과확인서명_2026.sheets.json"
+      },
+      "updated": "2026-02-10",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "1군 선수 건강검진 결과 제공 동의서와 선수별 확인 서명 명단 엑셀 양식입니다.",
+      "steps": [
+        "구단명을 적습니다.",
+        "선수마다 국문·영문 이름, 생년월일, 메디컬테스트 일자를 적습니다.",
+        "선수 본인 서명을 받습니다."
+      ],
+      "cautions": [
+        "매뉴얼 평가 방식: 선수 본인 및 담당의사 확인 서명이 필요합니다."
+      ]
+    },
+    {
+      "id": "S03-03",
+      "code": "S.03",
+      "doc_no": "③",
+      "title": "AFC 메디컬 테스트 양식",
+      "file": "forms/S/S03_③_AFC메디컬테스트양식_2026.doc",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/S/preview/S03_③_AFC메디컬테스트양식_2026-01.jpg",
+          "forms/S/preview/S03_③_AFC메디컬테스트양식_2026-02.jpg",
+          "forms/S/preview/S03_③_AFC메디컬테스트양식_2026-03.jpg",
+          "forms/S/preview/S03_③_AFC메디컬테스트양식_2026-04.jpg"
+        ],
+        "pdf": "forms/S/preview/S03_③_AFC메디컬테스트양식_2026.pdf",
+        "pages": 20
+      },
+      "updated": "2021-02-25",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "AFC 대회 전 메디컬 검사(PCMA) 양식입니다(20쪽, 영문).",
+      "steps": [
+        "선수 인적사항(성명·생년월일·소속 등)을 적습니다.",
+        "경기 이력, 병력, 검사 항목을 의료진이 작성합니다."
+      ],
+      "cautions": [
+        "매뉴얼 S.03: 1군은 'K리그 메디컬 체크리스트' 또는 AFC PCMA(심혈관 검사 포함) 중 하나를 받아야 합니다.",
+        "결과는 선수별로 압축해 제출합니다(심장 검사 필수)."
+      ]
+    },
+    {
+      "id": "S03-03-2",
+      "code": "S.03",
+      "doc_no": "③",
+      "title": "K리그 메디컬 테스트 양식 (국문)",
+      "file": "forms/S/S03_③_K리그메디컬테스트양식(국문)_2026.xls",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/S/preview/S03_③_K리그메디컬테스트양식(국문)_2026.sheets.json"
+      },
+      "updated": "2018-04-18",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "K리그 메디컬 테스트(건강검진 결과표) 국문 양식입니다.",
+      "steps": [
+        "소속·성명·나이 등 인적사항을 적습니다.",
+        "신장·체중·시력·혈압, 흉부 X-레이, 안정시 심전도, 혈액·간·신장·소변 검사 결과를 의료기관에서 작성합니다.",
+        "검진의사 소견과 날짜를 적습니다."
+      ],
+      "cautions": [
+        "심전도 검사는 필수이며, 이상이 있으면 심장초음파를 추가로 실시합니다(양식 안내 문구).",
+        "양식 하단 날짜가 '2018 년'으로 인쇄되어 있습니다. 실제 검진일로 고쳐 쓰세요.",
+        "주민등록번호 등 민감한 개인정보가 들어갑니다. 파일 보관·전송에 주의하세요."
+      ]
+    },
+    {
+      "id": "S03-03-3",
+      "code": "S.03",
+      "doc_no": "③",
+      "title": "K리그 메디컬 테스트 양식 (영문)",
+      "file": "forms/S/S03_③_K리그메디컬테스트양식(영문)_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/S/preview/S03_③_K리그메디컬테스트양식(영문)_2026.sheets.json"
+      },
+      "updated": "2018-04-18",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "K리그 메디컬 테스트(건강검진 결과표) 영문 양식입니다. 항목은 국문 양식과 같습니다.",
+      "steps": [
+        "CLUB·NAME·AGE 등 인적사항을 적습니다.",
+        "검사 결과(Height, Weight, ECG, Blood Test 등)를 의료기관에서 작성합니다."
+      ],
+      "cautions": [
+        "외국인 선수 등 영문 결과표가 필요한 경우에 씁니다."
+      ]
+    },
+    {
+      "id": "S03-10",
+      "code": "S.03",
+      "doc_no": "⑩",
+      "title": "의료진 참가 확인서",
+      "file": "forms/S/S03_⑩_의료진참가확인서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/S/preview/S03_⑩_의료진참가확인서_2026-1.jpg"
+        ],
+        "pdf": "forms/S/preview/S03_⑩_의료진참가확인서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-10",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "의료지원스태프의 스포츠 응급처치 자격 보유와 응급치료 키트(AED 포함) 구비를 확인하는 서약서입니다.",
+      "steps": [
+        "구단명, 구단대표자명, 작성일자를 적고 서명 또는 구단 직인을 받습니다.",
+        "아래 명단에 소속(U-10~1군)별 이수자의 성명·직책·자격증·발급기관·발급일자·만료일자를 적습니다."
+      ],
+      "cautions": [
+        "매뉴얼 평가 방식: 1군 물리치료사 1명 이상, 유소년팀 전담 AT 2명 이상 등록(산하 유소년 팀이 2개 이하이면 AT 1명 가능).",
+        "자격증 만료일자가 지나지 않았는지 확인하세요."
+      ]
+    },
+    {
+      "id": "S03-15",
+      "code": "S.03",
+      "doc_no": "⑮",
+      "title": "이력서 양식",
+      "file": "forms/S/S03_⑮_이력서양식_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/S/preview/S03_⑮_이력서양식_2026-1.jpg"
+        ],
+        "pdf": "forms/S/preview/S03_⑮_이력서양식_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-10",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "유스 전담 선수트레이너(AT) 이력서 양식입니다.",
+      "steps": [
+        "증명사진을 붙이고 인적사항(국문·영문 성명, 연락처 등)을 적습니다.",
+        "학력, 경력, 자격 사항, 기타 활동을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "S03-16",
+      "code": "S.03",
+      "doc_no": "⑯",
+      "title": "선수 부상보고서 및 관리 시스템",
+      "file": "forms/S/S03_⑯_선수부상보고서및관리시스템_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/S/preview/S03_⑯_선수부상보고서및관리시스템_2026-1.jpg",
+          "forms/S/preview/S03_⑯_선수부상보고서및관리시스템_2026-2.jpg",
+          "forms/S/preview/S03_⑯_선수부상보고서및관리시스템_2026-3.jpg"
+        ],
+        "pdf": "forms/S/preview/S03_⑯_선수부상보고서및관리시스템_2026.pdf",
+        "pages": 3
+      },
+      "updated": "2026-02-10",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "선수 부상보고서 샘플, 부상기록관리 예시, 재활 프로토콜·훈련 복귀 프로세스를 정리하는 PPT 양식입니다(3장).",
+      "steps": [
+        "1장에 구단 부상보고서 양식을 넣습니다.",
+        "2장에 부상기록 관리 방식을 넣습니다.",
+        "3장에 재활 프로토콜과 훈련 복귀 프로세스를 넣습니다."
+      ],
+      "cautions": [
+        "매뉴얼 S.03: 유소년 선수와 1군 선수의 부상 내용, 회복·복귀 예상 일정이 포함되어야 합니다."
+      ]
+    },
+    {
+      "id": "S04-02",
+      "code": "S.04",
+      "doc_no": "②",
+      "title": "본인 및 팀 의료담당자의 검사결과 확인 서명",
+      "file": "forms/S/S04_②_본인및팀의료담당자의검사결과확인서명_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/S/preview/S04_②_본인및팀의료담당자의검사결과확인서명_2026.sheets.json"
+      },
+      "updated": "2026-02-10",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "1군 코칭스태프 건강검진 결과 제공 동의서와 지도자별 확인 서명 명단 엑셀 양식입니다.",
+      "steps": [
+        "구단명을 적습니다.",
+        "지도자마다 국문·영문 이름, 생년월일, 메디컬테스트 일자를 적습니다.",
+        "지도자 본인 서명을 받습니다."
+      ],
+      "cautions": [
+        "매뉴얼 평가 방식: 코칭스태프 본인 및 담당의사 확인 서명이 필요합니다.",
+        "코칭스태프에는 감독, 코치, GK코치, 피지컬(피트니스) 코치 등이 포함됩니다(매뉴얼 S.04)."
+      ]
+    },
+    {
+      "id": "S04-03",
+      "code": "S.04",
+      "doc_no": "③",
+      "title": "K리그 메디컬 테스트 양식 (국문)",
+      "file": "forms/S/S04_③_K리그메디컬테스트양식(국문)_2026.xls",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/S/preview/S04_③_K리그메디컬테스트양식(국문)_2026.sheets.json"
+      },
+      "updated": "2018-04-18",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "K리그 메디컬 테스트(건강검진 결과표) 국문 양식입니다. S.03과 같은 양식을 코칭스태프용으로 씁니다.",
+      "steps": [
+        "인적사항을 적습니다.",
+        "검사 결과를 의료기관에서 작성합니다."
+      ],
+      "cautions": [
+        "양식 하단 날짜가 '2018 년'으로 인쇄되어 있습니다. 실제 검진일로 고쳐 쓰세요.",
+        "주민등록번호 등 민감한 개인정보가 들어갑니다."
+      ]
+    },
+    {
+      "id": "S04-03-2",
+      "code": "S.04",
+      "doc_no": "③",
+      "title": "K리그 메디컬 테스트 양식 (영문)",
+      "file": "forms/S/S04_③_K리그메디컬테스트양식(영문)_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/S/preview/S04_③_K리그메디컬테스트양식(영문)_2026.sheets.json"
+      },
+      "updated": "2018-04-18",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "K리그 메디컬 테스트 영문 양식입니다. 영문 결과표가 필요한 코칭스태프에게 씁니다.",
+      "steps": [
+        "인적사항과 검사 결과를 작성합니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "S05-04",
+      "code": "S.05",
+      "doc_no": "④",
+      "title": "참석자 명단",
+      "file": "forms/S/S05_④_참석자명단_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/S/preview/S05_④_참석자명단_2026-1.jpg"
+        ],
+        "pdf": "forms/S/preview/S05_④_참석자명단_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-10",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "선수단 교육 참석자 명단과 본인 서명 양식입니다.",
+      "steps": [
+        "교육명·교육기관·구단명·개최일자를 적습니다.",
+        "참석자마다 성명·직책을 적고 본인 서명을 받습니다."
+      ],
+      "cautions": [
+        "1군 등록 선수와 코칭스태프는 필수 참석입니다(양식 안내 문구).",
+        "양식의 번호 칸이 32 다음 34로 이어집니다(33 누락)."
+      ]
+    },
+    {
+      "id": "S05-05",
+      "code": "S.05",
+      "doc_no": "⑤",
+      "title": "기타 선수단 교육 세부 현황",
+      "file": "forms/S/S05_⑤_기타선수단교육세부현황_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/S/preview/S05_⑤_기타선수단교육세부현황_2026-1.jpg"
+        ],
+        "pdf": "forms/S/preview/S05_⑤_기타선수단교육세부현황_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-10",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "경기규칙·부정방지·도핑방지 외에 진행한 기타 선수단 교육을 정리하는 표입니다.",
+      "steps": [
+        "교육마다 교육명·개최일자·교육시간·강사·강의 주제를 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "S05-06",
+      "code": "S.05",
+      "doc_no": "⑥",
+      "title": "행사 사진",
+      "file": "forms/S/S05_⑥_행사사진_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/S/preview/S05_⑥_행사사진_2026-1.jpg",
+          "forms/S/preview/S05_⑥_행사사진_2026-2.jpg"
+        ],
+        "pdf": "forms/S/preview/S05_⑥_행사사진_2026.pdf",
+        "pages": 2
+      },
+      "updated": "2026-02-10",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "선수단 순회 교육의 개요와 주제별 사진을 정리하는 PPT 양식입니다(2장).",
+      "steps": [
+        "1장에 교육명·개최일자·장소, 주제별 강사, 참석인원(선수/스태프)을 적습니다.",
+        "2장에 경기규칙·부정방지·도핑방지·기타 교육 사진을 넣습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "S05-07",
+      "code": "S.05",
+      "doc_no": "⑦",
+      "title": "교육이수 확인서",
+      "file": "forms/S/S05_⑦_교육이수확인서_2026.doc",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/S/preview/S05_⑦_교육이수확인서_2026-1.jpg"
+        ],
+        "pdf": "forms/S/preview/S05_⑦_교육이수확인서_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-10",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "IFAB 경기규칙·부정행위 방지·도핑 방지 교육 참석을 확인하는 연례 의무 교육 참가 확인서입니다.",
+      "steps": [
+        "구단명을 적습니다.",
+        "팀 매니저와 주장/부주장의 성명·서명을 받습니다.",
+        "작성자 성명·직책·작성일자를 적고 서명합니다."
+      ],
+      "cautions": [
+        "매뉴얼 평가 방식: 주장 및 팀매니저 확인 서명이 필요합니다."
+      ]
+    },
+    {
+      "id": "S06-01",
+      "code": "S.06",
+      "doc_no": "①③⑤⑦⑨",
+      "title": "등록선수명단 (시트별 작성)",
+      "file": "forms/S/S06_①③⑤⑦⑨_등록선수명단(시트별작성)_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/S/preview/S06_①③⑤⑦⑨_등록선수명단(시트별작성)_2026.sheets.json"
+      },
+      "updated": "2026-02-10",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "U10·U12·U15·U18·PRO 팀의 지도자와 등록선수 명단을 시트별로 작성하는 엑셀 양식입니다. 매뉴얼 S.06의 ①③⑤⑦⑨ 명단에 함께 씁니다.",
+      "steps": [
+        "시트(U10, U12, U15, U18, PRO)를 하나씩 엽니다.",
+        "팀 등록명·해당년도·구단명을 적습니다.",
+        "지도자 표에 영문·국문 이름, 자격증, 생년월일, 임용일자를 적습니다.",
+        "선수 표에 영문·국문 이름, 포지션, 생년월일, 보호자명(U10·U12) 또는 출신학교(U15·U18)를 적습니다."
+      ],
+      "cautions": [
+        "협회 등록확인서(②④⑥⑧)는 협회등록사이트(joinkfa)에서 따로 내려받아 제출합니다(매뉴얼 S.06)."
+      ]
+    },
+    {
+      "id": "S07-03",
+      "code": "S.07",
+      "doc_no": "③",
+      "title": "등록선수명단",
+      "file": "forms/S/S07_③_등록선수명단_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/S/preview/S07_③_등록선수명단_2026.sheets.json"
+      },
+      "updated": "2022-12-02",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "여자축구팀 연령별(U10~U18, Senior) 지도자와 등록선수 명단 엑셀 양식입니다.",
+      "steps": [
+        "운영하는 팀의 시트를 엽니다.",
+        "팀 등록명·해당년도·구단명, 지도자 정보, 선수 정보를 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "S07-04",
+      "code": "S.07",
+      "doc_no": "④",
+      "title": "여자 축구팀 인적자원 구성 현황",
+      "file": "forms/S/S07_④_여자축구팀인적자원구성현황_2026.xls",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/S/preview/S07_④_여자축구팀인적자원구성현황_2026.sheets.json"
+      },
+      "updated": "2026-02-10",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "여자축구팀 코칭스태프·팀스태프 명단 엑셀 양식입니다.",
+      "steps": [
+        "상단에 구단명과 스태프 수를 적습니다.",
+        "한 줄에 한 명씩 팀·직책·영문명·국문명·생년월일·자격증·계약일자를 적습니다."
+      ],
+      "cautions": [
+        "매뉴얼 평가 방식: 지도자, 지원스태프, 행정담당자 구성이 드러나야 합니다."
+      ]
+    },
+    {
+      "id": "S07-05",
+      "code": "S.07",
+      "doc_no": "⑤",
+      "title": "훈련구장 위치 및 주소",
+      "file": "forms/S/S07_⑤_훈련구장위치및주소_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/S/preview/S07_⑤_훈련구장위치및주소_2026-1.jpg"
+        ],
+        "pdf": "forms/S/preview/S07_⑤_훈련구장위치및주소_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-10",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "여자축구팀 훈련구장의 이름·주소·시설 형태·소유주·사용계약기간·위치를 적는 양식입니다.",
+      "steps": [
+        "훈련구장명과 주소를 적습니다.",
+        "시설 형태(클럽하우스/공공체육시설/학교 운동장)를 표시합니다.",
+        "시설 소유주와 사용계약기간을 적고, 인터넷 지도로 위치를 표시합니다.",
+        "시설소개와 부대시설현황을 적습니다."
+      ],
+      "cautions": [
+        "훈련장 계약서는 계약기간 종료일이 2027년 12월 31일 이후로 명시되어야 합니다(매뉴얼 S.07 ⑥)."
+      ]
+    },
+    {
+      "id": "S07-07",
+      "code": "S.07",
+      "doc_no": "⑦",
+      "title": "이용 가능한 유소년 육성 훈련시설 현황",
+      "file": "forms/S/S07_⑦_이용가능한유소년육성훈련시설현황_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/S/preview/S07_⑦_이용가능한유소년육성훈련시설현황_2026.sheets.json"
+      },
+      "updated": "2026-02-10",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "여자축구팀(연령별·성인)이 쓰는 훈련장·경기장·실내훈련장 현황 엑셀 양식입니다.",
+      "steps": [
+        "U10~U18, 성인 행마다 팀명과 훈련구장 정보를 적습니다.",
+        "공식경기장, 실내훈련장 표도 같은 방식으로 채웁니다."
+      ],
+      "cautions": [
+        "파일 이름은 '유소년 육성 훈련시설 현황'이지만 S.07(여자축구팀)용으로 성인 행이 추가된 양식입니다."
+      ]
+    },
+    {
+      "id": "S07-08",
+      "code": "S.07",
+      "doc_no": "⑧",
+      "title": "훈련시설 이미지",
+      "file": "forms/S/S07_⑧_훈련시설이미지_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/S/preview/S07_⑧_훈련시설이미지_2026-1.jpg",
+          "forms/S/preview/S07_⑧_훈련시설이미지_2026-2.jpg",
+          "forms/S/preview/S07_⑧_훈련시설이미지_2026-3.jpg"
+        ],
+        "pdf": "forms/S/preview/S07_⑧_훈련시설이미지_2026.pdf",
+        "pages": 3
+      },
+      "updated": "2026-02-10",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "여자축구팀 훈련구장, 실내훈련장, 기타 훈련시설 사진과 정보를 넣는 PPT 양식입니다(3장).",
+      "steps": [
+        "1장: 훈련구장 사진, 구장명·주소·필드 규격·조명 밝기(조도).",
+        "2장: 실내훈련장 사진, 시설명·주소·시설현황.",
+        "3장: 기타 훈련시설 사진과 정보."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "S07-09",
+      "code": "S.07",
+      "doc_no": "⑨",
+      "title": "여자축구팀 대회참가 현황",
+      "file": "forms/S/S07_⑨_여자축구팀대회참가현황_2026.doc",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/S/preview/S07_⑨_여자축구팀대회참가현황_2026-1.jpg"
+        ],
+        "pdf": "forms/S/preview/S07_⑨_여자축구팀대회참가현황_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-02-10",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "여자축구팀의 2025 참가대회와 2026 참가예정대회를 적는 양식입니다.",
+      "steps": [
+        "팀 구분(U-12, U-15, U-18, 성인)별로 대회명·대회기간·개최지를 적습니다.",
+        "대회참가 사진을 넣습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "S08-01",
+      "code": "S.08",
+      "doc_no": "①",
+      "title": "AFC 유스 아카데미 등급 평가 시스템_3스타 카테고리 평가 체크리스트",
+      "file": "forms/S/S08_①_AFC유스아카데미등급평가시스템3스타카테고리평가체크리스트_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/S/preview/S08_①_AFC유스아카데미등급평가시스템3스타카테고리평가체크리스트_2026.sheets.json"
+      },
+      "updated": "2026-03-12",
+      "self_form_allowed": false,
+      "explain_status": "초안",
+      "description": "AFC Elite Youth Scheme 3스타 아카데미 기준에 대한 구단 자체 평가 체크리스트입니다.",
+      "steps": [
+        "구단명과 작성자명을 적습니다.",
+        "카테고리(리더십, 계획, 조직, 스탭, 스카우팅, 재정, 시설, 팀, 코칭, 경기 등)별 항목마다 '예/아니오'를 고릅니다.",
+        "항목 옆 '증빙 자료' 칸을 참고해 근거 자료를 준비합니다."
+      ],
+      "cautions": [
+        "양식의 일부 칸에 '예/아니오'가 미리 들어 있습니다. 구단 상황에 맞게 모두 다시 확인하세요."
+      ]
+    },
+    {
+      "id": "S08-02",
+      "code": "S.08",
+      "doc_no": "②",
+      "title": "유스 아카데미 비전 및 미션",
+      "file": "forms/S/S08_②_유스아카데미비전및미션_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/S/preview/S08_②_유스아카데미비전및미션_2026-1.jpg"
+        ],
+        "pdf": "forms/S/preview/S08_②_유스아카데미비전및미션_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-03-06",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "유스 아카데미의 비전과 미션을 정리하는 PPT 양식입니다.",
+      "steps": [
+        "유스 아카데미 비전과 미션을 작성합니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "S08-03",
+      "code": "S.08",
+      "doc_no": "③",
+      "title": "아카데미 전담 부서 조직도 및 직원 구성",
+      "file": "forms/S/S08_③_아카데미전담부서조직도및직원구성_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/S/preview/S08_③_아카데미전담부서조직도및직원구성_2026-1.jpg"
+        ],
+        "pdf": "forms/S/preview/S08_③_아카데미전담부서조직도및직원구성_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-03-06",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "아카데미 전담 부서 조직도와 직원 구성을 정리하는 PPT 양식입니다. 예시(SAMPLE) 조직도가 들어 있습니다.",
+      "steps": [
+        "예시를 참고해 구단 아카데미 조직도로 바꿉니다.",
+        "보호자·관계 부처 커뮤니케이션 담당자와 의료 지원 스태프를 포함합니다."
+      ],
+      "cautions": [
+        "매뉴얼 평가 방식: 종합적이고 전문적인 행정 지원 여부를 봅니다.",
+        "예시(SAMPLE) 그림은 지우고 제출하세요."
+      ]
+    },
+    {
+      "id": "S08-04",
+      "code": "S.08",
+      "doc_no": "④",
+      "title": "유스 아카데미와 1군 선수단 간 커뮤니케이션 시스템",
+      "file": "forms/S/S08_④_유스아카데미와1군선수단간커뮤니케이션시스템_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/S/preview/S08_④_유스아카데미와1군선수단간커뮤니케이션시스템_2026-1.jpg"
+        ],
+        "pdf": "forms/S/preview/S08_④_유스아카데미와1군선수단간커뮤니케이션시스템_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-03-06",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "유스 아카데미와 1군 선수단 간 커뮤니케이션 방식을 정리하는 PPT 양식입니다. 예시(SAMPLE)가 들어 있습니다.",
+      "steps": [
+        "테크니컬 디렉터 또는 유스 디렉터, 1군 감독, 임원진 간 정례 미팅 등 소통 체계를 그립니다."
+      ],
+      "cautions": [
+        "예시(SAMPLE) 그림은 지우고 제출하세요."
+      ]
+    },
+    {
+      "id": "S08-06",
+      "code": "S.08",
+      "doc_no": "⑥",
+      "title": "유망주 발굴 및 선발 체계",
+      "file": "forms/S/S08_⑥_유망주발굴및선발체계_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/S/preview/S08_⑥_유망주발굴및선발체계_2026-1.jpg"
+        ],
+        "pdf": "forms/S/preview/S08_⑥_유망주발굴및선발체계_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-03-06",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "유망주 발굴 및 선발 체계를 정리하는 PPT 양식입니다. 예시(SAMPLE)가 들어 있습니다.",
+      "steps": [
+        "유소년 스카우팅 팀 구성을 적습니다.",
+        "유망주 발굴·선발 체계와 승급·계약 의사결정 절차를 그립니다."
+      ],
+      "cautions": [
+        "예시(SAMPLE) 그림은 지우고 제출하세요."
+      ]
+    },
+    {
+      "id": "S08-08",
+      "code": "S.08",
+      "doc_no": "⑧",
+      "title": "적절한 의료 지원 현황",
+      "file": "forms/S/S08_⑧_적절한의료지원현황_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/S/preview/S08_⑧_적절한의료지원현황_2026.sheets.json"
+      },
+      "updated": "2026-02-10",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "유스팀 의료·건강관리 스태프, 홈 경기 의료지원, 의료·건강 프로그램, 의료 시설·장비 현황을 적는 엑셀 양식입니다.",
+      "steps": [
+        "의료 및 건강관리 지원 스태프의 직책·성명·자격증을 적습니다.",
+        "공식 홈 경기 의료지원(구급차·의사·간호사·응급구조사·자동제세동기 수, 인근 종합병원)을 적습니다.",
+        "유스 선수단 대상 프로그램(치료·재활·훈련·교육)과 시설·장비 현황을 적습니다."
+      ],
+      "cautions": [
+        "매뉴얼 평가 방식: 재활·치료 프로그램, 훈련장 내 치료 시설, 공식 경기 현장 의료 지원, 건강 관리 교육(도핑, 식습관)을 봅니다."
+      ]
+    },
+    {
+      "id": "S08-09",
+      "code": "S.08",
+      "doc_no": "⑨",
+      "title": "훈련, 경기력 측정 및 분석 프로그램",
+      "file": "forms/S/S08_⑨_훈련경기력측정및분석프로그램_2026.xlsx",
+      "ref": false,
+      "preview": {
+        "sheets": "forms/S/preview/S08_⑨_훈련경기력측정및분석프로그램_2026.sheets.json"
+      },
+      "updated": "2026-02-10",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "U-12·U-15·U-18·1군의 훈련·경기력 측정 및 분석 프로그램 현황을 적는 엑셀 양식입니다.",
+      "steps": [
+        "구단명과 작성자명을 적습니다.",
+        "팀별 전담 전력분석관·데이터 사이언티스트 수, 분석 프로그램·EPTS 장비 업체명을 적습니다.",
+        "훈련 세션 촬영 여부와 부상위험평가 측정 여부를 Yes/No로 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "S08-10",
+      "code": "S.08",
+      "doc_no": "⑩",
+      "title": "유소년 컨디셔닝 및 피트니스 프로그램",
+      "file": "forms/S/S08_⑩_유소년컨디셔닝및피트니스프로그램_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/S/preview/S08_⑩_유소년컨디셔닝및피트니스프로그램_2026-1.jpg"
+        ],
+        "pdf": "forms/S/preview/S08_⑩_유소년컨디셔닝및피트니스프로그램_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-03-06",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "성장과 부상 위험을 고려한 연령대별 유소년 컨디셔닝·피트니스 프로그램을 소개하는 PPT 양식입니다.",
+      "steps": [
+        "연령대별 단계적 프로그램을 적습니다."
+      ],
+      "cautions": [
+        "매뉴얼 평가 방식: 체력 단련 시설, 유소년 전담 피트니스 코치, 선수 신체 과부하 모니터링을 봅니다."
+      ]
+    },
+    {
+      "id": "S08-11",
+      "code": "S.08",
+      "doc_no": "⑪",
+      "title": "유소년 심리 지원 프로그램",
+      "file": "forms/S/S08_⑪_유소년심리지원프로그램_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/S/preview/S08_⑪_유소년심리지원프로그램_2026-1.jpg"
+        ],
+        "pdf": "forms/S/preview/S08_⑪_유소년심리지원프로그램_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-03-06",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "유소년 심리 진단 및 교육 프로그램(심리 진단, 관찰 체크리스트, 멘탈 스킬 훈련 등)을 소개하는 PPT 양식입니다.",
+      "steps": [
+        "구단의 심리 지원 프로그램을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "S08-12",
+      "code": "S.08",
+      "doc_no": "⑫",
+      "title": "아카데미 소속 선수에 대한 이력 관리",
+      "file": "forms/S/S08_⑫_아카데미소속선수에대한이력관리_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/S/preview/S08_⑫_아카데미소속선수에대한이력관리_2026-1.jpg"
+        ],
+        "pdf": "forms/S/preview/S08_⑫_아카데미소속선수에대한이력관리_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-03-06",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "아카데미 소속 선수 이력관리(기본정보, 기술·전술·피지컬·멘탈 평가, 개선 항목, 개인 발달 계획 등)를 소개하는 PPT 양식입니다.",
+      "steps": [
+        "선수별 기록·평가 관리 방식을 적습니다."
+      ],
+      "cautions": [
+        "매뉴얼 평가 방식: 선수별 경기력 분석·기록 데이터 관리와 학부모 통지 여부를 봅니다."
+      ]
+    },
+    {
+      "id": "S08-13",
+      "code": "S.08",
+      "doc_no": "⑬",
+      "title": "연령대별 저성장 선수에 대한 지원 프로그램",
+      "file": "forms/S/S08_⑬_연령대별저성장선수에대한지원프로그램_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/S/preview/S08_⑬_연령대별저성장선수에대한지원프로그램_2026-1.jpg"
+        ],
+        "pdf": "forms/S/preview/S08_⑬_연령대별저성장선수에대한지원프로그램_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-03-06",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "연령대별 성장 발달이 느린 선수 지원 프로그램(체격별 훈련, 근력·체력 격차 해소 개별 운동, 멘탈 세션, 학부모 면담 등)을 소개하는 PPT 양식입니다.",
+      "steps": [
+        "구단의 지원 프로그램을 적습니다."
+      ],
+      "cautions": []
+    },
+    {
+      "id": "S08-14",
+      "code": "S.08",
+      "doc_no": "⑭",
+      "title": "유소년 선수 지역사회공헌활동 참가 보고서",
+      "file": "forms/S/S08_⑭_유소년선수지역사회공헌활동참가보고서_2026.docx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/S/preview/S08_⑭_유소년선수지역사회공헌활동참가보고서_2026-1.jpg",
+          "forms/S/preview/S08_⑭_유소년선수지역사회공헌활동참가보고서_2026-2.jpg",
+          "forms/S/preview/S08_⑭_유소년선수지역사회공헌활동참가보고서_2026-3.jpg"
+        ],
+        "pdf": "forms/S/preview/S08_⑭_유소년선수지역사회공헌활동참가보고서_2026.pdf",
+        "pages": 3
+      },
+      "updated": "2026-03-06",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "유소년 선수의 지역사회공헌활동 참가 보고서 양식입니다. 개요, 참석자 명단, 행사 사진으로 구성됩니다.",
+      "steps": [
+        "개요에 구단명·참여 인원·행사명·행사 일자/기간·장소·행사 소개를 적습니다.",
+        "참석자 명단에 성명·직책을 적고 확인 서명을 받습니다.",
+        "행사 사진을 5장 이상 넣습니다(양식 안내 문구)."
+      ],
+      "cautions": [
+        "매뉴얼 평가 방식: 유소년 선수단의 구단 CSR 활동 또는 저변 확대 프로그램 참가를 봅니다."
+      ]
+    },
+    {
+      "id": "S08-15",
+      "code": "S.08",
+      "doc_no": "⑮",
+      "title": "구단 홈페이지 내 유스 아카데미 페이지 마련",
+      "file": "forms/S/S08_⑮_구단홈페이지내유스아카데미페이지마련_2026.pptx",
+      "ref": false,
+      "preview": {
+        "images": [
+          "forms/S/preview/S08_⑮_구단홈페이지내유스아카데미페이지마련_2026-1.jpg"
+        ],
+        "pdf": "forms/S/preview/S08_⑮_구단홈페이지내유스아카데미페이지마련_2026.pdf",
+        "pages": 1
+      },
+      "updated": "2026-03-06",
+      "self_form_allowed": true,
+      "explain_status": "초안",
+      "description": "구단 홈페이지 또는 SNS의 유스 아카데미 페이지(홍보·최신 소식)를 보여 주는 PPT 양식입니다.",
+      "steps": [
+        "홈페이지의 유스 아카데미 소개 페이지 화면을 캡처해 넣습니다.",
+        "바로가기 링크(주소)를 적습니다."
+      ],
+      "cautions": [
+        "매뉴얼 평가 방식: 홈페이지 또는 SNS를 통한 아카데미 홍보와 최신 소식 알림을 봅니다."
+      ]
+    }
+  ]
+}

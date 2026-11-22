@@ -1,0 +1,105 @@
+{
+  "site_title": "K리그 클럽라이선싱 OJT",
+  "last_updated": "2026-11-22",
+  "license_year": 2026,
+  "contact": {
+    "label": "연맹 클럽라이선스팀 문의",
+    "form_url": "",
+    "email": "",
+    "note": "문의 양식 주소와 담당 이메일은 연맹 작성 예정입니다."
+  },
+  "library": [
+    {
+      "type": "규정",
+      "title": "K리그 클럽 라이선싱 규정",
+      "year": 2026,
+      "version": "",
+      "file": "docs/kleague_cl_regulations_2026.pdf",
+      "published": "",
+      "current": true
+    },
+    {
+      "type": "매뉴얼",
+      "title": "K리그1 클럽 라이선싱 매뉴얼",
+      "year": 2026,
+      "version": "Edition 2026",
+      "file": "docs/kleague1_cl_manual_2026.pdf",
+      "published": "",
+      "current": true
+    }
+  ],
+  "zip": {
+    "all": "",
+    "S": "",
+    "I": "",
+    "P": "",
+    "L": "",
+    "F": "",
+    "M": "",
+    "R": ""
+  },
+  "areas": [
+    {
+      "code": "S",
+      "name": "스포츠",
+      "en": "Sporting"
+    },
+    {
+      "code": "I",
+      "name": "시설",
+      "en": "Infrastructure"
+    },
+    {
+      "code": "P",
+      "name": "인사·행정",
+      "en": "Personnel & Administration"
+    },
+    {
+      "code": "L",
+      "name": "법무",
+      "en": "Legal"
+    },
+    {
+      "code": "F",
+      "name": "재무",
+      "en": "Financial"
+    },
+    {
+      "code": "M",
+      "name": "마케팅",
+      "en": "Marketing & Sales"
+    },
+    {
+      "code": "R",
+      "name": "사회적 책임",
+      "en": "Football Social Responsibility"
+    }
+  ],
+  "departments": [
+    "경영지원",
+    "인사",
+    "재무·회계",
+    "법무",
+    "총무",
+    "선수단운영",
+    "유소년육성",
+    "의무",
+    "경기운영",
+    "시설",
+    "안전",
+    "마케팅",
+    "홍보",
+    "사회공헌"
+  ],
+  "departments_status": "추정 (팀 확정 매핑 전 초안)",
+  "inquiry": {
+    "endpoint": "",
+    "_설명": "endpoint에 Google Apps Script 웹 앱 주소를 넣으면 FAQ의 '질문하기'가 작동합니다(운영가이드.md 10장).",
+    "privacy": {
+      "items": "구단, 이름, 부서, 직급, 이메일 주소, 문의 내용",
+      "purpose": "문의 내용 확인 및 답변, Q&A 작성",
+      "retention": "답변 완료 후 1년",
+      "note": "동의하지 않으실 수 있으나, 동의하지 않으면 문의를 접수할 수 없습니다. Q&A로 공개할 때는 구단명·이름 등 개인정보를 빼고 질문과 답변만 게시합니다."
+    }
+  }
+}

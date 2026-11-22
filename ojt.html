@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>OJT · K리그 클럽라이선싱 OJT</title>
+<meta name="description" content="K리그 구단 실무자를 위한 클럽라이선싱 기준·양식·Q&amp;A 안내">
+<link rel="preload" href="assets/fonts/Pretendard-Regular.subset.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="icon" type="image/png" href="assets/img/favicon.png">
+<link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body data-page="ojt">
+<a class="sr-only" href="#main">본문 바로가기</a>
+<div class="updated-bar"><div class="wrap"><span>최종 업데이트: <strong data-updated>-</strong></span></div></div>
+<header class="site-header">
+  <div class="wrap">
+    <a class="logo" href="index.html" aria-label="K리그 클럽라이선싱 OJT 홈"><img class="logo-img" src="assets/img/kleague-logo-horizontal-white.png" alt="K LEAGUE" width="127" height="34"><span class="logo-sub">클럽라이선싱 OJT</span></a>
+    <nav class="nav" aria-label="주 메뉴">
+      <a href="index.html" data-nav="home">홈</a>
+      <a href="rules.html" data-nav="rules"><span class="nav-long">클럽라이선싱 </span>규정 &amp; 양식</a>
+      <a href="ojt.html" data-nav="ojt">OJT</a>
+      <a href="faq.html" data-nav="faq">Q&amp;A</a>
+    </nav>
+  </div>
+</header>
+<section class="page-head"><div class="wrap"><p class="eyebrow">ON-THE-JOB TRAINING</p><h1>OJT · 양식 작성 안내</h1><p >기준을 누르면 양식 미리보기와 작성 설명이 펼쳐집니다. 담당관은 각 기준의 <strong>링크 복사</strong>로 부서에 바로 보낼 수 있습니다.</p></div></section>
+<main id="main">
+  <div class="wrap">
+
+
+    <section class="zone" id="guide-zone" aria-labelledby="guide-title">
+      <div class="zone-head"><span class="zone-no">1</span><h2 id="guide-title">처음이신가요?</h2><span class="zone-sub">모든 부서 공통 원칙</span></div>
+      <div class="zone-body">
+        <details class="group guide" id="guide">
+          <summary>공통 원칙 펼쳐 보기</summary>
+          <div class="group-body" id="guide-body"></div>
+        </details>
+      </div>
+    </section>
+
+    <section class="zone" aria-labelledby="list-title">
+      <div class="zone-head"><span class="zone-no">2</span><h2 id="list-title">양식별 작성 안내</h2><span class="count" id="list-count"></span></div>
+      <div class="zone-body">
+        <div class="controls" role="group" aria-label="보기 설정">
+          <div class="seg" role="group" aria-label="보기 방식">
+            <button type="button" id="view-area" aria-pressed="true">분야별 보기</button>
+            <button type="button" id="view-dept" aria-pressed="false">부서별 보기</button>
+          </div>
+          <label id="dept-wrap" hidden>나는
+            <select id="dept-select" aria-label="담당 부서"></select>
+            담당입니다 <span class="chip chip-est" title="팀 확정 전 초안 매핑입니다">부서 매핑 추정</span>
+          </label>
+          <label>정렬
+            <select id="sort-select">
+              <option value="code">코드순</option>
+              <option value="deadline">마감일순</option>
+            </select>
+          </label>
+        </div>
+        <div class="tabs" role="tablist" id="area-tabs" aria-label="분야"></div>
+        <p class="small notice-box" id="hash-msg" hidden></p>
+        <div id="crit-list"><p class="muted">불러오는 중…</p></div>
+      </div>
+    </section>
+  </div>
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <img class="footer-logo" src="assets/img/kleague-logo-horizontal-white.png" alt="K LEAGUE" width="105" height="28">
+    <p class="disclaimer">⚠ 판단 기준은 규정·매뉴얼 원문이 우선합니다. 이 사이트의 설명은 이해를 돕기 위한 것입니다.</p>
+    <p class="small muted">근거 자료: K리그1 클럽 라이선싱 매뉴얼 (Edition 2026) · 서류 제출은 AFC 클럽 라이선싱 행정 시스템(CLAS)으로만 가능합니다 · 최종 업데이트 <span data-updated>-</span><br>
+    운영: 한국프로축구연맹 클럽라이선스팀 · <a href="admin.html">관리자</a><br>글꼴: Pretendard (SIL Open Font License 1.1)</p>
+  </div>
+</footer>
+<script src="assets/common.js"></script>
+<script src="assets/ojt.js"></script>
+</body>
+</html>
