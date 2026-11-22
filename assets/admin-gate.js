@@ -1,15 +1,22 @@
 /* 관리자 비밀번호 팝업
  * - 어느 페이지에서든 '관리자'를 누르면 비밀번호 팝업이 뜨고, 맞아야만 관리자 화면으로 넘어감
  * - admin.html 주소로 바로 들어와도 같은 팝업이 뜨고, 맞기 전에는 화면이 보이지 않음
+ * 기억하지 않음: 누를 때마다, 관리자 화면을 새로 열 때마다 매번 물어봄
  * 비밀번호 원문은 저장하지 않고, 솔트를 붙여 여러 번 섞은 값(PBKDF2-SHA256)만 비교함. */
 (() => {
   const SALT = 'b79d2add7fd4a87ebd5dbf93cf849eab';
   const ITER = 310000;
   const HASH = '95719ef553e861cf89d9ab28297decfbf1c29222291ae54d8ca4be8909b56e05';
-  const OK_KEY = 'ojt-admin-ok';
+  const PASS_KEY = 'ojt-admin-pass';   // 팝업 통과 직후 관리자 화면으로 넘어갈 때 한 번만 쓰는 표시
   const onAdmin = document.body.dataset.page === 'admin';
 
-  const isOk = () => { try { return sessionStorage.getItem(OK_KEY) === HASH; } catch (e) { return false; } };
+  // 팝업을 통과해 넘어온 경우인지 확인하고 표시는 바로 지움(새로고침·다시 열기 때는 다시 물어봄)
+  const takePass = () => {
+    try {
+      const t = Number(sessionStorage.getItem(PASS_KEY)); sessionStorage.removeItem(PASS_KEY);
+      return t && Date.now() - t < 15000;
+    } catch (e) { return false; }
+  };
   const hex = buf => [...new Uint8Array(buf)].map(b => b.toString(16).padStart(2, '0')).join('');
   async function check(pw) {
     const salt = new Uint8Array(SALT.match(/../g).map(h => parseInt(h, 16)));
@@ -55,7 +62,6 @@
       }
       okBtn.disabled = false;
       if (!ok) { msg.textContent = '비밀번호가 틀렸습니다.'; input.select(); return; }
-      try { sessionStorage.setItem(OK_KEY, HASH); } catch (e) { /* 무시 */ }
       dlg.close(); onSuccess();
     };
     dlg.showModal(); input.focus();
@@ -64,14 +70,18 @@
   // 어느 페이지든 '관리자' 링크를 누르면 팝업부터
   document.addEventListener('click', ev => {
     const a = ev.target.closest && ev.target.closest('a[href="admin.html"]');
-    if (!a || isOk()) return;
+    if (!a) return;
     ev.preventDefault();
-    popup(() => { location.href = a.href; });
+    if (onAdmin) return;   // 이미 관리자 화면 안이면 아무것도 하지 않음(잠겨 있으면 팝업이 이미 떠 있음)
+    popup(() => {
+      try { sessionStorage.setItem(PASS_KEY, String(Date.now())); } catch (e) { /* 무시 */ }
+      location.href = a.href;
+    });
   });
 
   // admin.html 주소로 바로 들어온 경우
   if (onAdmin) {
-    if (isOk()) document.body.classList.remove('admin-locked');
+    if (takePass()) document.body.classList.remove('admin-locked');
     else popup(() => document.body.classList.remove('admin-locked'));
   }
 })();
