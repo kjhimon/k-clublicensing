@@ -71,20 +71,35 @@
   const form = document.getElementById('ask-form');
   const msg = document.getElementById('ask-msg');
   const submitBtn = document.getElementById('ask-submit');
-  if (!inq.endpoint) {
-    msg.textContent = '문의 접수 기능은 준비 중입니다. (관리자 설정 후 사용할 수 있습니다)';
-    submitBtn.disabled = true;
+  // 구단 → 부서 → 이름 → 직급 → 이메일 → 문의 내용 순서. 모든 칸 입력 + 동의해야 '문의 보내기'가 눌림
+  const FIELDS = [['club', '구단'], ['dept', '부서'], ['name', '이름'], ['position', '직급'], ['email', '이메일 주소'], ['question', '문의 내용']];
+  const val = id => document.getElementById(id).value.trim();
+  const emailOk = v => /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(v);
+  function problems() {
+    const missing = FIELDS.filter(([k]) => !val(`ask-${k}`)).map(([, l]) => l);
+    if (missing.length) return `다음 칸을 채워 주세요: ${missing.join(', ')}`;
+    if (!emailOk(val('ask-email'))) return '이메일 주소 형식을 확인해 주세요. (예: name@club.co.kr)';
+    if (!document.getElementById('ask-agree').checked) return '개인정보 수집·이용에 동의해 주세요.';
+    return '';
   }
+  let touched = false;
+  function refresh() {
+    const p = problems();
+    submitBtn.disabled = !!p || !inq.endpoint;
+    if (!inq.endpoint) msg.textContent = '문의 접수 기능은 준비 중입니다. (관리자 설정 후 사용할 수 있습니다)';
+    else msg.textContent = touched ? p : '';
+  }
+  form.addEventListener('input', () => { touched = true; refresh(); });
+  form.addEventListener('change', () => { touched = true; refresh(); });
+  refresh();
   form.addEventListener('submit', async ev => {
     ev.preventDefault();
-    const val = id => document.getElementById(id).value.trim();
-    const data = { action: 'submit', club: val('ask-club'), name: val('ask-name'), dept: val('ask-dept'), position: val('ask-position'),
-      email: val('ask-email'), question: val('ask-question'), website: val('ask-website'), agree: document.getElementById('ask-agree').checked };
-    const missing = [['club', '구단'], ['name', '이름'], ['dept', '부서'], ['position', '직급'], ['email', '이메일 주소'], ['question', '문의 내용']].filter(([k]) => !data[k]).map(([, l]) => l);
-    if (missing.length) { msg.textContent = `다음 칸을 채워 주세요: ${missing.join(', ')}`; return; }
-    if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(data.email)) { msg.textContent = '이메일 주소 형식을 확인해 주세요.'; return; }
-    if (!data.agree) { msg.textContent = '개인정보 수집·이용에 동의해 주세요.'; return; }
+    touched = true;
+    const p = problems();
+    if (p) { msg.textContent = p; submitBtn.disabled = true; return; }
     if (!inq.endpoint) return;
+    const data = { action: 'submit', club: val('ask-club'), dept: val('ask-dept'), name: val('ask-name'), position: val('ask-position'),
+      email: val('ask-email'), question: val('ask-question'), website: document.getElementById('ask-website').value, agree: true };
     submitBtn.disabled = true; msg.textContent = '보내는 중…';
     try {
       // text/plain 으로 보내야 Apps Script가 추가 확인 요청 없이 받음

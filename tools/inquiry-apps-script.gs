@@ -9,8 +9,9 @@
  * 관리자 키는 [프로젝트 설정 → 스크립트 속성]에 ADMIN_KEY 로 저장합니다(코드에 적지 않음).
  */
 const SHEET_NAME = '문의';
-const HEADERS = ['id', '접수일시', '구단', '이름', '부서', '직급', '이메일', '문의내용', '상태', '답변 FAQ', '처리일시', '메모'];
-const FIELDS = ['club', 'name', 'dept', 'position', 'email', 'question'];
+const HEADERS = ['id', '접수일시', '구단', '부서', '이름', '직급', '이메일', '문의내용', '상태', '답변 FAQ', '처리일시', '메모'];
+const FIELDS = ['club', 'dept', 'name', 'position', 'email', 'question'];
+const LABELS = { club: '구단', dept: '부서', name: '이름', position: '직급', email: '이메일 주소', question: '문의 내용' };
 const MAX_LEN = { question: 3000 };
 
 function sheet_() {
@@ -48,7 +49,7 @@ function doPost(e) {
   if (d.action === 'submit') {
     if (d.website) return json_({ ok: true });             // 스팸 방지용 숨은 칸이 채워졌으면 무시
     for (const k of FIELDS) {
-      if (!d[k] || !String(d[k]).trim()) return json_({ ok: false, error: '빈 칸이 있습니다: ' + k });
+      if (!d[k] || !String(d[k]).trim()) return json_({ ok: false, error: '빈 칸이 있습니다: ' + LABELS[k] });
     }
     if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(String(d.email).trim())) return json_({ ok: false, error: '이메일 주소를 확인해 주세요.' });
     if (d.agree !== true) return json_({ ok: false, error: '개인정보 수집·이용에 동의해 주세요.' });
@@ -70,7 +71,7 @@ function doPost(e) {
     const values = sheet_().getDataRange().getValues();
     const items = values.slice(1).map(r => ({
       id: r[0], at: r[1] instanceof Date ? Utilities.formatDate(r[1], 'Asia/Seoul', 'yyyy-MM-dd HH:mm') : String(r[1]),
-      club: r[2], name: r[3], dept: r[4], position: r[5], email: r[6], question: r[7],
+      club: r[2], dept: r[3], name: r[4], position: r[5], email: r[6], question: r[7],
       status: r[8] || '접수', faq_id: r[9], done_at: r[10] instanceof Date ? Utilities.formatDate(r[10], 'Asia/Seoul', 'yyyy-MM-dd HH:mm') : String(r[10] || ''), memo: r[11]
     })).reverse();
     return json_({ ok: true, items: items });

@@ -8,7 +8,7 @@
 <link rel="preload" href="assets/fonts/Pretendard-Regular.subset.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="icon" type="image/png" href="assets/img/favicon.png">
 <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
-<link rel="stylesheet" href="assets/style.css?v=3">
+<link rel="stylesheet" href="assets/style.css?v=4">
 </head>
 <body data-page="faq">
 <a class="sr-only" href="#main">본문 바로가기</a>
@@ -49,15 +49,16 @@
       <div class="zone-body">
         <form class="ask-form" id="ask-form" novalidate>
           <div class="ask-grid">
-            <label>구단 <input type="text" id="ask-club" name="club" autocomplete="organization" required></label>
-            <label>이름 <input type="text" id="ask-name" name="name" autocomplete="name" required></label>
-            <label>부서 <input type="text" id="ask-dept" name="dept" required></label>
-            <label>직급 <input type="text" id="ask-position" name="position" required></label>
-            <label class="span2">이메일 주소 <input type="email" id="ask-email" name="email" autocomplete="email" required placeholder="답변을 받을 이메일"></label>
-            <label class="full">문의 내용 <span class="hint">관련 기준 코드(예: I.03)와 서류 번호를 함께 적어 주시면 빠르게 답변드릴 수 있습니다.</span>
+            <label>구단 <span class="req" aria-hidden="true">*</span> <input type="text" id="ask-club" name="club" autocomplete="organization" required></label>
+            <label>부서 <span class="req" aria-hidden="true">*</span> <input type="text" id="ask-dept" name="dept" required></label>
+            <label>이름 <span class="req" aria-hidden="true">*</span> <input type="text" id="ask-name" name="name" autocomplete="name" required></label>
+            <label>직급 <span class="req" aria-hidden="true">*</span> <input type="text" id="ask-position" name="position" required></label>
+            <label class="span2">이메일 주소 <span class="req" aria-hidden="true">*</span> <input type="email" id="ask-email" name="email" autocomplete="email" required placeholder="답변을 받을 이메일"></label>
+            <label class="full">문의 내용 <span class="req" aria-hidden="true">*</span> <span class="hint">관련 기준 코드(예: I.03)와 서류 번호를 함께 적어 주시면 빠르게 답변드릴 수 있습니다.</span>
               <textarea id="ask-question" name="question" rows="6" maxlength="3000" required></textarea></label>
           </div>
           <input type="text" name="website" id="ask-website" tabindex="-1" autocomplete="off" class="hp" aria-hidden="true">
+          <p class="small muted ask-note"><span class="req">*</span> 모든 칸을 입력하고 개인정보 수집·이용에 동의해야 문의를 보낼 수 있습니다.</p>
           <div class="privacy-box" id="ask-privacy"></div>
           <label class="agree"><input type="checkbox" id="ask-agree"> 개인정보 수집·이용에 동의합니다. (필수)</label>
           <p class="small" id="ask-msg" aria-live="polite"></p>
@@ -76,7 +77,7 @@
   </div>
 </footer>
 <script src="assets/common.js"></script>
-<script src="assets/faq.js"></script>
+<script src="assets/faq.js?v=4"></script>
 <script src="assets/admin-gate.js?v=3"></script>
 </body>
 </html>
