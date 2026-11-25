@@ -74,11 +74,51 @@
   // 구단 → 부서 → 이름 → 직급 → 이메일 → 문의 내용 순서. 모든 칸 입력 + 동의해야 '문의 보내기'가 눌림
   const FIELDS = [['club', '구단'], ['dept', '부서'], ['name', '이름'], ['position', '직급'], ['email', '이메일 주소'], ['question', '문의 내용']];
   const val = id => document.getElementById(id).value.trim();
+
+  // 첨부파일(선택): site.json의 inquiry.attachments가 true일 때만 보임
+  const FILE_EXT = ['pdf', 'xls', 'xlsx', 'hwp', 'hwpx', 'doc', 'docx', 'jpg', 'jpeg', 'png', 'heic'];
+  const FILE_MAX_COUNT = 3, FILE_MAX_TOTAL = 10 * 1024 * 1024;
+  const fileBox = document.getElementById('ask-files-box');
+  const fileInput = document.getElementById('ask-file');
+  const fileList = document.getElementById('ask-file-list');
+  let files = [];
+  const mb = n => n < 1024 * 1024 ? Math.max(1, Math.round(n / 1024)) + 'KB' : (n / 1024 / 1024).toFixed(1) + 'MB';
+  const extOf = name => name.split('.').pop().toLowerCase();
+  function fileProblem() {
+    const bad = files.find(f => !FILE_EXT.includes(extOf(f.name)));
+    if (bad) return `올릴 수 없는 파일 형식입니다: ${bad.name}`;
+    if (files.length > FILE_MAX_COUNT) return `첨부파일은 ${FILE_MAX_COUNT}개까지 올릴 수 있습니다.`;
+    const total = files.reduce((a, f) => a + f.size, 0);
+    if (total > FILE_MAX_TOTAL) return `첨부파일은 합계 10MB까지 올릴 수 있습니다. (지금 ${mb(total)})`;
+    return '';
+  }
+  function renderFiles() {
+    fileList.innerHTML = files.map((f, i) => `<li><span>${esc(f.name)} <span class="muted">(${mb(f.size)})</span></span>
+      <button type="button" class="btn btn-sm" data-rm="${i}" aria-label="${esc(f.name)} 빼기">빼기</button></li>`).join('');
+  }
+  if (inq.endpoint && inq.attachments) {
+    fileBox.hidden = false;
+    fileInput.addEventListener('change', () => {
+      files = files.concat([...fileInput.files]); fileInput.value = '';
+      renderFiles(); touched = true; refresh();
+    });
+    fileList.addEventListener('click', ev => {
+      const b = ev.target.closest('button[data-rm]'); if (!b) return;
+      files.splice(Number(b.dataset.rm), 1); renderFiles(); refresh();
+    });
+  }
+  const toBase64 = f => new Promise((ok, fail) => {
+    const r = new FileReader();
+    r.onload = () => ok(String(r.result).split(',')[1] || '');
+    r.onerror = () => fail(new Error(`${f.name} 파일을 읽지 못했습니다.`));
+    r.readAsDataURL(f);
+  });
   const emailOk = v => /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(v);
   function problems() {
     const missing = FIELDS.filter(([k]) => !val(`ask-${k}`)).map(([, l]) => l);
     if (missing.length) return `다음 칸을 채워 주세요: ${missing.join(', ')}`;
     if (!emailOk(val('ask-email'))) return '이메일 주소 형식을 확인해 주세요. (예: name@club.co.kr)';
+    const fp = fileProblem(); if (fp) return fp;
     if (!document.getElementById('ask-agree').checked) return '개인정보 수집·이용에 동의해 주세요.';
     return '';
   }
@@ -100,13 +140,14 @@
     if (!inq.endpoint) return;
     const data = { action: 'submit', club: val('ask-club'), dept: val('ask-dept'), name: val('ask-name'), position: val('ask-position'),
       email: val('ask-email'), question: val('ask-question'), website: document.getElementById('ask-website').value, agree: true };
-    submitBtn.disabled = true; msg.textContent = '보내는 중…';
+    submitBtn.disabled = true; msg.textContent = files.length ? '파일을 올리는 중입니다. 잠시만 기다려 주세요…' : '보내는 중…';
     try {
+      if (files.length) data.files = await Promise.all(files.map(async f => ({ name: f.name, type: f.type, data: await toBase64(f) })));
       // text/plain 으로 보내야 Apps Script가 추가 확인 요청 없이 받음
       const res = await fetch(inq.endpoint, { method: 'POST', body: JSON.stringify(data) });
       const out = await res.json();
       if (!out.ok) throw new Error(out.error || '접수에 실패했습니다.');
-      form.innerHTML = `<p class="ask-ok">문의가 접수되었습니다. 입력하신 이메일(${esc(data.email)})로 답변드리겠습니다.</p>`;
+      form.innerHTML = `<p class="ask-ok">문의가 접수되었습니다.${files.length ? ` (첨부파일 ${files.length}개 포함)` : ''} 입력하신 이메일(${esc(data.email)})로 답변드리겠습니다.</p>`;
     } catch (e) {
       msg.textContent = `접수하지 못했습니다: ${e.message} 잠시 뒤 다시 시도해 주세요.`;
       submitBtn.disabled = false;

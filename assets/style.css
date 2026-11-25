@@ -376,3 +376,15 @@ body.admin-locked .page-head, body.admin-locked main { visibility: hidden; }
 .req { color: #e4002b; font-weight: 700; }
 .ask-note { margin: 12px 0 0; }
 .btn:disabled, .btn[disabled] { opacity: .45; cursor: not-allowed; pointer-events: none; }
+
+/* 질문하기: 첨부파일 */
+.ask-files { display: grid; gap: 6px; justify-items: start; }
+.ask-files .lab { font-weight: 700; font-size: .9rem; }
+.ask-files .opt { font-weight: 400; color: var(--ink-3); }
+.ask-files .hint { font-size: .8rem; color: var(--ink-3); line-height: 1.5; }
+.file-pick { position: relative; cursor: pointer; }
+.file-pick input { position: absolute; inset: 0; opacity: 0; cursor: pointer; width: 100%; }
+.file-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; width: 100%; }
+.file-list li { display: flex; justify-content: space-between; align-items: center; gap: 8px; background: #fff;
+  border: 1px solid #dde2ea; border-radius: 6px; padding: 6px 10px; font-size: .88rem; word-break: break-all; }
+.inbox-files { margin: 4px 0 8px; }

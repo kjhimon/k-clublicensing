@@ -155,6 +155,9 @@
           <span>${esc(q.at)}</span> · <strong>${esc(q.club)}</strong> ${esc(q.name)} (${esc(q.dept)} / ${esc(q.position)}) ·
           <span>${esc(q.email)}</span>${q.faq_id ? ` · Q&A ${esc(q.faq_id)}` : ''}</div>
         <p class="inbox-q">${esc(q.question)}</p>
+        ${(q.files || []).length ? `<p class="inbox-files small">📎 첨부파일: ${q.files.map(f => f.url
+          ? `<a href="${esc(f.url)}" target="_blank" rel="noopener">${esc(f.name)}</a>` : esc(f.name)).join(' · ')}
+          <span class="muted">(구글 드라이브에서 열림 · 모르는 파일은 열기 전에 주의)</span></p>` : ''}
         <div class="actions" style="margin:0">
           <button type="button" class="btn btn-sm btn-primary" data-inq="answer" data-id="${esc(q.id)}">Q&A로 답변 작성</button>
           <button type="button" class="btn btn-sm" data-inq="copy" data-id="${esc(q.id)}">이메일 주소 복사</button>
