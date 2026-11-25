@@ -171,9 +171,10 @@
     $('inbox-msg').textContent = '불러오는 중…';
     try {
       const out = await call({ action: 'list' });
-      inbox = out.items || [];
+      if (!Array.isArray(out.items)) throw new Error(`서버 응답에 문의 목록이 없습니다. (응답 항목: ${Object.keys(out).join(', ')}) Apps Script 코드와 배포 버전을 확인하세요.`);
+      inbox = out.items;
       try { localStorage.setItem(KEY_STORE, $('admin-key').value.trim()); } catch (e) { /* 무시 */ }
-      $('inbox-msg').textContent = `불러왔습니다. (${new Date().toLocaleTimeString('ko-KR')})`;
+      $('inbox-msg').textContent = `불러왔습니다. 서버에서 ${inbox.length}건을 받았습니다. (${new Date().toLocaleTimeString('ko-KR')})`;
       renderInbox();
     } catch (e) { $('inbox-msg').textContent = `불러오지 못했습니다: ${e.message}`; }
   }
