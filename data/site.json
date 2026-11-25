@@ -93,7 +93,7 @@
   ],
   "departments_status": "추정 (팀 확정 매핑 전 초안)",
   "inquiry": {
-    "endpoint": "",
+    "endpoint": "https://script.google.com/macros/s/AKfycbzE2C0X8G-0kqhTofjTQfy9mMhaIWGJM1hk8I6Ao7jx8xnKy1pSxAoH-I71wKqTobaS/exec",
     "_설명": "endpoint에 Google Apps Script 웹 앱 주소를 넣으면 FAQ의 '질문하기'가 작동합니다(운영가이드.md 10장).",
     "privacy": {
       "items": "구단, 부서, 이름, 직급, 이메일 주소, 문의 내용",
