@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>조항 검색 · K-League CLAP</title>
+<meta name="description" content="AFC·FIFA 규정과 매뉴얼 본문 조항 검색">
+<link rel="preload" href="assets/fonts/Pretendard-Regular.subset.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="icon" type="image/png" href="assets/img/favicon.png">
+<link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
+<link rel="stylesheet" href="assets/style.css?v=18">
+</head>
+<body data-page="search">
+<a class="sr-only" href="#main">본문 바로가기</a>
+<div class="updated-bar"><div class="wrap"><span>최종 업데이트: <strong data-updated>-</strong></span></div></div>
+<header class="site-header">
+  <div class="wrap">
+    <a class="logo" href="index.html" aria-label="K-League CLAP 처음 화면"><img class="logo-img" src="assets/img/kleague-logo-horizontal-white.png" alt="K LEAGUE" width="127" height="34"><span class="logo-sub">AFC · FIFA</span></a>
+    <nav class="nav" aria-label="주 메뉴">
+      <a href="index.html">처음 화면</a>
+      <a href="intl.html" data-nav="intl">자료실</a>
+      <a href="search.html" data-nav="search">검색</a>
+      <a href="ask.html" data-nav="ask">Ask CLAP</a>
+    </nav>
+  </div>
+</header>
+<section class="page-head"><div class="wrap"><p class="eyebrow">SEARCH</p><h1>조항 검색</h1><p>올려 둔 AFC·FIFA 규정과 매뉴얼 본문에서 낱말로 조항을 찾습니다.</p></div></section>
+<main id="main">
+  <div class="wrap">
+    <section class="zone" aria-labelledby="s-title">
+      <div class="zone-head"><span class="zone-no">1</span><h2 id="s-title">조항 검색</h2><span class="zone-sub">규정·매뉴얼 본문에서 낱말로 찾기</span></div>
+      <div class="zone-body">
+        <form class="search-row" id="s-form" role="search">
+          <label class="sr-only" for="s-q">검색어</label>
+          <input type="search" id="s-q" placeholder="낱말로 검색 (예: 볼보이, floodlight, 기자회견, 경기 전 회의)" autocomplete="off">
+          <button class="btn btn-primary" type="submit">검색</button>
+        </form>
+        <div class="controls" style="margin-top:10px">
+          <label class="small">자료 <select id="s-doc"><option value="">전체 자료</option></select></label>
+        </div>
+        <p class="small muted" id="s-msg" aria-live="polite"></p>
+        <p class="small muted">한국어로 검색해도 영문 원문 낱말(예: 볼보이 → ball kid)을 함께 찾습니다.</p>
+      </div>
+    </section>
+    <section class="zone" aria-labelledby="r-title">
+      <div class="zone-head"><span class="zone-no">2</span><h2 id="r-title">검색 결과</h2><span class="count" id="s-count"></span></div>
+      <div class="zone-body"><ul class="clauses" id="s-results"></ul></div>
+    </section>
+  </div>
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <img class="footer-logo" src="assets/img/kleague-logo-horizontal-white.png" alt="K LEAGUE" width="105" height="28">
+    <p class="disclaimer">⚠ 판단 기준은 AFC·FIFA 원문이 우선합니다. 검색 결과와 번역본은 이해를 돕기 위한 참고 자료입니다.</p>
+    <p class="small muted">운영: 한국프로축구연맹 클럽라이선스팀 · <a href="admin.html">관리자</a> · 글꼴: Pretendard (SIL Open Font License 1.1)</p>
+  </div>
+</footer>
+<script src="assets/common.js"></script>
+<script src="assets/clause-search.js?v=18"></script>
+<script src="assets/search.js?v=18"></script>
+<script src="assets/admin-gate.js?v=3"></script>
+</body>
+</html>

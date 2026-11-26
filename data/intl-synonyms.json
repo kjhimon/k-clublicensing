@@ -1,0 +1,396 @@
+{
+  "_설명": "한국어로 물어도 영문 원문에서 찾을 수 있게 하는 낱말 짝. 왼쪽 한국어가 질문에 있으면 오른쪽 낱말도 함께 찾습니다. 필요한 낱말을 자유롭게 추가하세요.",
+  "words": {
+    "볼보이": [
+      "ball kid",
+      "ball boy",
+      "ball person"
+    ],
+    "볼키즈": [
+      "ball kid"
+    ],
+    "경기장": [
+      "stadium",
+      "venue"
+    ],
+    "조명": [
+      "floodlight",
+      "lighting",
+      "lux"
+    ],
+    "조도": [
+      "lux",
+      "illuminance"
+    ],
+    "잔디": [
+      "pitch",
+      "grass",
+      "turf"
+    ],
+    "그라운드": [
+      "pitch",
+      "field of play"
+    ],
+    "훈련장": [
+      "training site",
+      "training ground"
+    ],
+    "훈련": [
+      "training"
+    ],
+    "라커룸": [
+      "dressing room",
+      "changing room"
+    ],
+    "탈의실": [
+      "dressing room",
+      "changing room"
+    ],
+    "벤치": [
+      "bench",
+      "technical area"
+    ],
+    "기자회견": [
+      "press conference"
+    ],
+    "미디어": [
+      "media"
+    ],
+    "기자": [
+      "media",
+      "journalist"
+    ],
+    "중계": [
+      "broadcast",
+      "broadcaster"
+    ],
+    "방송": [
+      "broadcast",
+      "broadcaster",
+      "tv"
+    ],
+    "사진기자": [
+      "photographer"
+    ],
+    "믹스드존": [
+      "mixed zone"
+    ],
+    "킥오프": [
+      "kick-off",
+      "kick off"
+    ],
+    "경기시간": [
+      "kick-off time",
+      "match schedule"
+    ],
+    "일정": [
+      "schedule",
+      "calendar",
+      "deadline"
+    ],
+    "마감": [
+      "deadline"
+    ],
+    "경기 전 회의": [
+      "pre-match meeting"
+    ],
+    "사전회의": [
+      "pre-match meeting"
+    ],
+    "매치커미셔너": [
+      "match commissioner"
+    ],
+    "경기감독관": [
+      "match commissioner"
+    ],
+    "심판": [
+      "referee",
+      "match official"
+    ],
+    "VAR": [
+      "var",
+      "video assistant referee"
+    ],
+    "유니폼": [
+      "kit",
+      "uniform",
+      "playing attire"
+    ],
+    "등번호": [
+      "shirt number",
+      "squad number"
+    ],
+    "선수등록": [
+      "player registration"
+    ],
+    "등록": [
+      "registration"
+    ],
+    "명단": [
+      "list",
+      "squad list",
+      "match sheet"
+    ],
+    "엔트리": [
+      "match sheet",
+      "team sheet"
+    ],
+    "출전정지": [
+      "suspension"
+    ],
+    "경고": [
+      "caution",
+      "yellow card"
+    ],
+    "퇴장": [
+      "sending off",
+      "red card"
+    ],
+    "징계": [
+      "disciplinary",
+      "sanction"
+    ],
+    "벌금": [
+      "fine"
+    ],
+    "도핑": [
+      "doping",
+      "anti-doping"
+    ],
+    "의료": [
+      "medical"
+    ],
+    "구급차": [
+      "ambulance"
+    ],
+    "응급": [
+      "emergency"
+    ],
+    "의사": [
+      "doctor",
+      "physician"
+    ],
+    "안전": [
+      "safety"
+    ],
+    "보안": [
+      "security"
+    ],
+    "경호": [
+      "security",
+      "steward"
+    ],
+    "안전요원": [
+      "steward"
+    ],
+    "관중": [
+      "spectator",
+      "crowd"
+    ],
+    "원정팬": [
+      "away supporters",
+      "visiting supporters"
+    ],
+    "티켓": [
+      "ticket",
+      "ticketing"
+    ],
+    "입장권": [
+      "ticket"
+    ],
+    "좌석": [
+      "seat",
+      "seating"
+    ],
+    "광고": [
+      "advertising",
+      "commercial"
+    ],
+    "LED": [
+      "led",
+      "advertising board"
+    ],
+    "스폰서": [
+      "sponsor",
+      "commercial"
+    ],
+    "마케팅": [
+      "marketing",
+      "commercial"
+    ],
+    "숙소": [
+      "hotel",
+      "accommodation"
+    ],
+    "호텔": [
+      "hotel",
+      "accommodation"
+    ],
+    "교통": [
+      "transport",
+      "transportation"
+    ],
+    "공항": [
+      "airport"
+    ],
+    "버스": [
+      "bus",
+      "transport"
+    ],
+    "비자": [
+      "visa"
+    ],
+    "원정": [
+      "away",
+      "visiting team"
+    ],
+    "홈팀": [
+      "home team",
+      "host club"
+    ],
+    "원정팀": [
+      "visiting team",
+      "away team"
+    ],
+    "상금": [
+      "prize money"
+    ],
+    "참가비": [
+      "participation fee"
+    ],
+    "보조금": [
+      "subsidy"
+    ],
+    "깃발": [
+      "flag"
+    ],
+    "애국가": [
+      "anthem"
+    ],
+    "입장": [
+      "walk-out",
+      "line-up",
+      "entry"
+    ],
+    "워밍업": [
+      "warm-up"
+    ],
+    "공인구": [
+      "official match ball",
+      "match ball"
+    ],
+    "골대": [
+      "goal",
+      "goalpost"
+    ],
+    "전광판": [
+      "scoreboard",
+      "giant screen"
+    ],
+    "날씨": [
+      "weather"
+    ],
+    "우천": [
+      "weather",
+      "rain"
+    ],
+    "연기": [
+      "postponement",
+      "postponed"
+    ],
+    "취소": [
+      "cancellation",
+      "abandon"
+    ],
+    "몰수": [
+      "forfeit"
+    ],
+    "라이선스": [
+      "licence",
+      "license",
+      "licensing"
+    ],
+    "클럽라이선싱": [
+      "club licensing"
+    ],
+    "회람": [
+      "circular"
+    ],
+    "공문": [
+      "circular",
+      "letter"
+    ]
+  },
+  "stop": [
+    "어떻게",
+    "어떤",
+    "뭐",
+    "뭔가",
+    "무엇",
+    "무슨",
+    "해야",
+    "해야돼",
+    "해야되나요",
+    "해야하나요",
+    "하나요",
+    "되나요",
+    "있나요",
+    "없나요",
+    "인가요",
+    "건가요",
+    "몇",
+    "몇명",
+    "언제",
+    "어디",
+    "어디서",
+    "누가",
+    "누구",
+    "경우",
+    "관련",
+    "대해",
+    "대한",
+    "알려줘",
+    "알려주세요",
+    "궁금",
+    "궁금해요",
+    "우리",
+    "저희",
+    "구단",
+    "혹시",
+    "그",
+    "이",
+    "저",
+    "좀",
+    "꼭",
+    "필요",
+    "필요한가요",
+    "가능",
+    "가능한가요",
+    "되는지",
+    "하는지",
+    "있는지",
+    "what",
+    "how",
+    "when",
+    "where",
+    "who",
+    "which",
+    "is",
+    "are",
+    "the",
+    "a",
+    "an",
+    "of",
+    "to",
+    "for",
+    "in",
+    "on",
+    "do",
+    "does",
+    "we",
+    "our",
+    "should",
+    "must",
+    "can"
+  ]
+}

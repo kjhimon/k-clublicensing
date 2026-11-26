@@ -1,0 +1,9 @@
+{
+  "_설명": "검색·Ask CLAP이 찾아보는 규정·매뉴얼 본문. 자료를 올리면 조항(또는 문단) 단위로 articles에 넣습니다. docs의 id와 articles의 doc가 같아야 합니다. page는 PDF 쪽수(바로 열기용).",
+  "_예시": {
+    "docs": [{ "id": "acl-reg-2026", "title": "AFC Champions League Elite Competition Regulations 2026/27", "org": "AFC", "file": "docs/intl/acl-elite-regulations.pdf", "url": "", "lang": "en", "translation": "" }],
+    "articles": [{ "doc": "acl-reg-2026", "no": "Article 25.1", "title": "Ball kids", "page": 31, "text": "조항 본문을 원문 그대로 붙여 넣습니다." }]
+  },
+  "docs": [],
+  "articles": []
+}
