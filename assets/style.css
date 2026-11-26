@@ -396,13 +396,13 @@ body.admin-locked .page-head, body.admin-locked main { visibility: hidden; }
 .portal-hero h1 { color: #fff; font-size: clamp(1.5rem, 3.6vw, 2.3rem); letter-spacing: .01em; margin: 0; }
 /* K-League CLAP 워드마크: 구성만 CLAS 로고를 참고(큰 이름 + 풀네임 한 줄), 색은 사이트 색(흰색·빨강) */
 .clap-mark { display: flex; align-items: baseline; gap: .28em; flex-wrap: nowrap; white-space: nowrap;
-  font-size: clamp(1.9rem, 5vw, 3rem) !important; font-weight: 800; letter-spacing: -.01em; line-height: 1; margin: 0 0 8px !important; }
+  font-size: clamp(2.3rem, 6.2vw, 3.9rem) !important; font-weight: 800; letter-spacing: -.01em; line-height: 1; margin: 0 0 8px !important; }
 .clap-k { color: #fff; }
 .clap-word { color: var(--red); letter-spacing: .06em; }
 .clap-full { margin: 0; color: #fff; font-size: clamp(.72rem, 1.35vw, .9rem); font-weight: 700; letter-spacing: .12em; white-space: nowrap; }
-.clap-full b { color: var(--red); font-weight: 800; }
+.clap-full b { color: inherit; font-weight: inherit; }
 .portal-sub { color: #c9d2e6; font-size: clamp(.92rem, 1.6vw, 1.08rem); font-weight: 600; margin: 6px 0 0; }
-.portal-hero-logo { width: clamp(44px, 6vw, 63px); height: auto; flex-shrink: 0; }
+.portal-hero-logo { width: clamp(64px, 8.5vw, 104px); height: auto; flex-shrink: 0; }
 .portal-main { margin-top: -64px; padding-bottom: 28px; }
 .portal-cards { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; }
 .portal-card { background: var(--surface); border: 1px solid var(--line); border-radius: 6px; overflow: hidden;
@@ -437,11 +437,11 @@ body.admin-locked .page-head, body.admin-locked main { visibility: hidden; }
 @media (max-width: 720px) {
   .portal-cards { grid-template-columns: 1fr; gap: 14px; }
   .portal-hero { padding: 12px 0 46px; }
-  .clap-mark { font-size: clamp(1.5rem, 8vw, 2rem) !important; margin-bottom: 6px !important; }
+  .clap-mark { font-size: clamp(1.75rem, 9.4vw, 2.4rem) !important; margin-bottom: 6px !important; }
   .clap-full { font-size: clamp(.56rem, 2.75vw, .72rem); letter-spacing: .06em; }
   .portal-sub { font-size: clamp(.68rem, 3.4vw, .85rem); margin-top: 4px; white-space: nowrap; }
   .portal-hero .wrap { gap: 10px; }
-  .portal-hero-logo { width: 38px; }
+  .portal-hero-logo { width: 52px; }
   .portal-main { margin-top: -38px; }
   .portal-card-top { min-height: 0; padding: 26px 16px 12px; }
   .portal-tag { top: 8px; left: 14px; font-size: .66rem; }
@@ -452,7 +452,8 @@ body.admin-locked .page-head, body.admin-locked main { visibility: hidden; }
   .portal-eyebrow { display: none; }
   .portal-card-body h2 { font-size: 1.1rem; margin-bottom: 2px; }
   .portal-desc { font-size: .82rem; margin-bottom: 8px; }
-  .portal-chips a, .portal-chips span { padding: 2px 8px; font-size: .74rem; }
+  .portal-chips { gap: 4px; }
+  .portal-chips a, .portal-chips span { padding: 2px 7px; font-size: .72rem; }
   .portal-hint { margin-top: 12px; font-size: .8rem; }
 }
 
