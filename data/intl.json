@@ -1,10 +1,36 @@
 {
-  "_설명": "AFC·FIFA 페이지 자료 목록. 각 구역의 items에 자료를 추가하면 페이지에 보입니다. file은 docs/intl/ 아래 PDF 경로, url은 외부 원문 주소(둘 중 하나 이상). 날짜는 YYYY-MM-DD.",
-  "_항목예시": { "title": "자료 제목", "org": "AFC", "date": "2026-01-01", "no": "공문 번호(선택)", "file": "docs/intl/파일이름.pdf", "url": "", "note": "한 줄 설명(선택)", "translation": "번역본 PDF 경로(선택)" },
+  "_설명": "AFC·FIFA 페이지 자료 목록. 구역(afc, fifa, rules)의 items에 자료를 추가하면 페이지에 보입니다. file은 docs/intl/ 아래 PDF 경로, url은 외부 원문 주소(둘 중 하나 이상), translation은 국문 번역본 PDF 경로(선택). 날짜는 YYYY-MM-DD.",
+  "_항목예시": {
+    "title": "자료 제목",
+    "org": "AFC",
+    "date": "2026-01-01",
+    "no": "공문 번호(선택)",
+    "file": "docs/intl/파일이름.pdf",
+    "url": "",
+    "note": "한 줄 설명(선택)",
+    "translation": "번역본 PDF 경로(선택)"
+  },
   "sections": [
-    { "id": "afc", "title": "AFC 공지", "en": "AFC Circulars", "desc": "아시아축구연맹(AFC)이 회원협회에 보낸 공문과 안내", "items": [] },
-    { "id": "fifa", "title": "FIFA 공지", "en": "FIFA Circulars", "desc": "국제축구연맹(FIFA)의 회람 공문과 안내", "items": [] },
-    { "id": "acl", "title": "ACL 규정", "en": "AFC Champions League Regulations", "desc": "AFC 클럽 대회 규정 원문", "items": [] },
-    { "id": "translation", "title": "번역본", "en": "Korean Translations", "desc": "연맹이 정리한 주요 공문·규정의 국문 번역(참고용)", "items": [] }
+    {
+      "id": "afc",
+      "title": "AFC",
+      "en": "Asian Football Confederation",
+      "desc": "아시아축구연맹(AFC)의 공문(Circular)과 대회·행정 안내",
+      "items": []
+    },
+    {
+      "id": "fifa",
+      "title": "FIFA",
+      "en": "Fédération Internationale de Football Association",
+      "desc": "국제축구연맹(FIFA)의 공문(Circular)과 안내",
+      "items": []
+    },
+    {
+      "id": "rules",
+      "title": "규정 및 매뉴얼",
+      "en": "Regulations & Manuals",
+      "desc": "AFC 클럽 대회 규정, 경기 운영 매뉴얼 등 원문과 국문 번역(참고용)",
+      "items": []
+    }
   ]
 }
