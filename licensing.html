@@ -8,7 +8,7 @@
 <link rel="preload" href="assets/fonts/Pretendard-Regular.subset.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="icon" type="image/png" href="assets/img/favicon.png">
 <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
-<link rel="stylesheet" href="assets/style.css?v=15">
+<link rel="stylesheet" href="assets/style.css?v=17">
 </head>
 <body data-page="home">
 <a class="sr-only" href="#main">본문 바로가기</a>
@@ -24,23 +24,20 @@
     </nav>
   </div>
 </header>
-<section class="hero-band" aria-labelledby="hero-title">
+<section class="portal-hero lic-hero" aria-labelledby="hero-title">
   <div class="wrap">
-    <img class="hero-logo" src="assets/img/kleague-logo-vertical-white.png" alt="" aria-hidden="true" width="188" height="240">
-    <p class="eyebrow">K LEAGUE CLUB LICENSING</p>
-    <h1 id="hero-title">클럽라이선싱 통합 플랫폼</h1>
-    <form class="search-row" id="code-form" role="search">
-      <label for="code-input" class="sr-only">기준 코드</label>
-      <input id="code-input" type="search" placeholder="기준 코드로 바로 가기 (예: F.01, S08, P-07)" autocomplete="off">
-      <button class="btn" type="submit">이동</button>
-    </form>
-    <p class="search-msg small" id="code-msg" aria-live="polite"></p>
+    <div class="portal-hero-text">
+      <h1 id="hero-title" class="clap-mark" aria-label="K-League CLAP"><span class="clap-k">K-League</span> <span class="clap-word">CLAP</span></h1>
+      <p class="clap-full" aria-label="Club Licensing Administration Platform">CLUB LICENSING ADMINISTRATION PLATFORM</p>
+      <p class="portal-sub">한국프로축구연맹 클럽라이선싱팀 통합 플랫폼</p>
+    </div>
+    <img class="portal-hero-logo" src="assets/img/kleague-logo-vertical-white.png" alt="K LEAGUE" width="104" height="132">
   </div>
 </section>
 
 <main id="main">
   <div class="wrap">
-    <nav class="big-buttons" aria-label="주요 메뉴">
+    <nav class="big-buttons big-buttons-lg" aria-label="주요 메뉴">
       <a class="big-btn" href="rules.html">
         <span class="eyebrow">Rules &amp; Forms</span>
         <strong>클럽라이선싱 규정 &amp; 양식</strong>
@@ -82,7 +79,7 @@
   </div>
 </footer>
 <script src="assets/common.js"></script>
-<script src="assets/home.js"></script>
+<script src="assets/home.js?v=16"></script>
 <script src="assets/admin-gate.js?v=3"></script>
 </body>
 </html>

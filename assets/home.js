@@ -15,7 +15,7 @@
   const form = document.getElementById('code-form');
   const input = document.getElementById('code-input');
   const msg = document.getElementById('code-msg');
-  form.addEventListener('submit', ev => {
+  if (form) form.addEventListener('submit', ev => {   // 검색창은 2026-11 개편 때 홈에서 뺐음(있을 때만 작동)
     ev.preventDefault();
     const code = normalizeCode(input.value);
     if (!code) {
