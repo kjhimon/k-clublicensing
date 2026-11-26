@@ -390,44 +390,59 @@ body.admin-locked .page-head, body.admin-locked main { visibility: hidden; }
 .inbox-files { margin: 4px 0 8px; }
 
 /* ── 플랫폼 첫 화면 (index.html) ── */
-.portal-hero { background: var(--navy); color: #fff; padding: 52px 0 128px;
+.portal-hero { background: var(--navy); color: #fff; padding: 22px 0 84px;
   background-image: linear-gradient(115deg, var(--navy) 0%, var(--navy) 60%, var(--navy-2) 60%, var(--navy-2) 100%); }
 .portal-hero .wrap { display: flex; align-items: center; justify-content: space-between; gap: 24px; }
-.portal-hero h1 { color: #fff; font-size: clamp(1.7rem, 4vw, 2.5rem); margin-bottom: 10px; }
-.portal-lead { color: #c9d2e6; margin: 0; }
-.portal-hero-logo { width: clamp(80px, 11vw, 118px); height: auto; flex-shrink: 0; }
-.portal-main { margin-top: -88px; padding-bottom: 40px; }
+.portal-hero h1 { color: #fff; font-size: clamp(1.5rem, 3.6vw, 2.3rem); letter-spacing: .04em; margin: 0; }
+.portal-hero-logo { width: clamp(44px, 6vw, 63px); height: auto; flex-shrink: 0; }
+.portal-main { margin-top: -64px; padding-bottom: 28px; }
 .portal-cards { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; }
 .portal-card { background: var(--surface); border: 1px solid var(--line); border-radius: 6px; overflow: hidden;
-  box-shadow: 0 12px 30px rgba(10, 30, 70, .12); display: flex; flex-direction: column; }
-.portal-card-top { position: relative; display: flex; align-items: center; justify-content: center; min-height: 168px; padding: 36px 24px 28px;
-  background: var(--navy); color: #fff; text-decoration: none;
+  box-shadow: 0 12px 30px rgba(10, 30, 70, .12); display: flex; flex-direction: column;
+  transition: transform .18s ease, box-shadow .18s ease; }
+/* 윗부분(남색 영역)이나 제목에 커서를 대면 카드가 살짝 커짐 */
+.portal-card:has(.portal-card-top:hover), .portal-card:has(h2 a:hover), .portal-card:has(.portal-card-top:focus-visible) {
+  transform: scale(1.025); box-shadow: 0 18px 40px rgba(10, 30, 70, .22); }
+.portal-card-top { position: relative; display: flex; align-items: center; justify-content: center; min-height: 150px; padding: 34px 24px 24px;
+  background: var(--navy); color: #fff; text-decoration: none; cursor: pointer;
   background-image: linear-gradient(115deg, var(--navy) 0%, var(--navy) 62%, var(--navy-2) 62%, var(--navy-2) 100%); }
-.portal-card-top:hover { color: #fff; filter: brightness(1.08); }
+.portal-card-top:hover { color: #fff; }
 .portal-tag { position: absolute; top: 14px; left: 18px; font-size: .72rem; font-weight: 700; letter-spacing: .14em; color: #c9d2e6; }
 .portal-card-logo { width: min(210px, 70%); height: auto; }
 .portal-card-word { display: grid; justify-items: center; gap: 4px; text-align: center; }
 .portal-card-word strong { font-size: clamp(1.7rem, 3.4vw, 2.3rem); font-weight: 800; letter-spacing: .02em; line-height: 1.1; }
 .portal-card-word small { font-size: .74rem; font-weight: 600; letter-spacing: .16em; color: #c9d2e6; }
-.portal-card-body { padding: 22px 22px 18px; display: flex; flex-direction: column; flex: 1; }
+.portal-card-body { padding: 18px 22px 20px; display: flex; flex-direction: column; flex: 1; }
 .portal-eyebrow { font-size: .74rem; font-weight: 700; letter-spacing: .12em; color: var(--red); margin: 0 0 6px; }
 .portal-card-body h2 { font-size: 1.35rem; margin: 0 0 6px; }
+.portal-card-body h2 a { color: var(--ink); text-decoration: none; }
+.portal-card-body h2 a:hover { color: var(--red); }
 .portal-desc { color: var(--ink-2); font-size: .92rem; margin: 0 0 14px; }
-.portal-chips { list-style: none; margin: 0 0 18px; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
+.portal-chips { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
 .portal-chips a, .portal-chips span { display: inline-block; padding: 4px 10px; font-size: .8rem; font-weight: 600; color: var(--ink-2);
   background: var(--surface-2); border: 1px solid var(--line); border-radius: var(--radius); text-decoration: none; }
 .portal-chips a:hover { color: var(--red); border-color: var(--red); }
 .portal-chips span { color: var(--ink-3); }
-.portal-go { margin-top: auto; display: flex; align-items: center; justify-content: space-between; gap: 12px;
-  padding-top: 14px; border-top: 1px solid var(--line); font-weight: 800; color: var(--navy); text-decoration: none; }
-.portal-arrow { display: inline-grid; place-items: center; width: 36px; height: 36px; background: var(--navy); color: #fff; border-radius: var(--radius); font-size: 1.1rem; }
-.portal-go:hover .portal-arrow { background: var(--red); }
-.portal-hint { text-align: center; color: var(--ink-3); font-size: .88rem; margin: 22px 0 0; }
+.portal-hint { text-align: center; color: var(--ink-3); font-size: .88rem; margin: 18px 0 0; }
 .portal-hint a { color: var(--navy); text-decoration: none; }
+@media (prefers-reduced-motion: reduce) { .portal-card { transition: none; } }
 @media (max-width: 720px) {
-  .portal-cards { grid-template-columns: 1fr; }
-  .portal-hero { padding: 36px 0 108px; }
-  .portal-card-top { min-height: 130px; }
+  .portal-cards { grid-template-columns: 1fr; gap: 14px; }
+  .portal-hero { padding: 14px 0 54px; }
+  .portal-hero h1 { font-size: 1.35rem; }
+  .portal-hero-logo { width: 38px; }
+  .portal-main { margin-top: -44px; }
+  .portal-card-top { min-height: 0; padding: 26px 16px 12px; }
+  .portal-tag { top: 8px; left: 14px; font-size: .66rem; }
+  .portal-card-logo { width: 150px; }
+  .portal-card-word strong { font-size: 1.45rem; }
+  .portal-card-word small { font-size: .62rem; }
+  .portal-card-body { padding: 10px 16px 12px; }
+  .portal-eyebrow { display: none; }
+  .portal-card-body h2 { font-size: 1.1rem; margin-bottom: 2px; }
+  .portal-desc { font-size: .82rem; margin-bottom: 8px; }
+  .portal-chips a, .portal-chips span { padding: 2px 8px; font-size: .74rem; }
+  .portal-hint { margin-top: 12px; font-size: .8rem; }
 }
 
 /* ── AFC·FIFA 페이지 ── */
